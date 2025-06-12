@@ -41,7 +41,7 @@ jobs:
             --repository "$REPOSITORY" \
             --sort \
             --topic \
-            --topic_limit 3 \
+            --topic_limit 1 \
             --filename README.md \
             --token "$GITHUB_TOKEN" \
             --message 'awesome-stars: topic_limit 3 refresh via Actions'
