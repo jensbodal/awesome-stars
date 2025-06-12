@@ -3,53 +3,58 @@ name: update awesome-stars
 on:
   workflow_dispatch:
   schedule:
-    - cron: 30 0 * * *
+    # * must be quoted in YAML cron strings → docs.github.com
+    - cron: '30 0 * * *'
+
+permissions:          # grant the token once for the entire workflow
+  contents: write
 
 jobs:
   awesome-stars:
-    name: update awesome-stars
+    name: Update awesome-stars
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Set up Python
+    steps:
+      - uses: actions/checkout@v4   # v4 = latest
+
+      - name: Set up Python 3.11
         uses: actions/setup-python@v4
         with:
-          python-version: '3.10'
+          python-version: '3.11'
 
-      - name: Install dependencies
+      - name: Install starred
         run: |
           python -m pip install --upgrade pip
-          pip install starred
+          pip install --no-cache-dir starred
 
-      - name: Get repository name
-        run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
+      - name: Derive repository name
+        run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> "$GITHUB_ENV"
 
-      - name: Update repo category by language
+      - name: Update README (by language)
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+          GITHUB_TOKEN: ${{ secrets.STARRED_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-        run: >
-          starred --username ${USERNAME}
-                  --repository ${REPOSITORY}
-                  --sort
-                  --token ${GITHUB_TOKEN}
-                  --message 'awesome-stars category by language update by github actions cron, created by starred'
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        run: |
+          starred \
+            --username "$USERNAME" \
+            --repository "$REPOSITORY" \
+            --sort \
+            --token "$GITHUB_TOKEN" \
+            --message 'awesome-stars: language refresh via Actions'
 
-      - name: Update repo category by topic
+      - name: Update topics.md (by topic)
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+          GITHUB_TOKEN: ${{ secrets.STARRED_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-        run: >
-          starred --username ${USERNAME}
-                  --repository ${REPOSITORY}
-                  --sort
-                  --token ${GITHUB_TOKEN}
-                  --message 'awesome-stars category by topic update by github actions cron, created by starred'
-                  --topic
-                  --topic_limit 500
-                  --filename topics.md
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        run: |
+          starred \
+            --username "$USERNAME" \
+            --repository "$REPOSITORY" \
+            --sort \
+            --topic \
+            --topic_limit 500 \
+            --filename topics.md \
+            --token "$GITHUB_TOKEN" \
+            --message 'awesome-stars: topic refresh via Actions'
