@@ -44,7 +44,7 @@ jobs:
             --topic_limit 1 \
             --filename README.md \
             --token "$GITHUB_TOKEN" \
-            --message 'awesome-stars: topic_limit 3 refresh via Actions'
+            --message 'awesome-stars: topic_limit 1 refresh via Actions'
 
       - name: Update languages.md (by language)
         env:
