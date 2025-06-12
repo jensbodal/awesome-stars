@@ -30,7 +30,23 @@ jobs:
       - name: Derive repository name
         run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> "$GITHUB_ENV"
 
-      - name: Update README (by language)
+      - name: Update README (by topic_limit 3)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          REPOSITORY: ${{ env.REPOSITORY_NAME }}
+        run: |
+          starred \
+            --username "$USERNAME" \
+            --repository "$REPOSITORY" \
+            --sort \
+            --topic \
+            --topic_limit 3 \
+            --filename README.md \
+            --token "$GITHUB_TOKEN" \
+            --message 'awesome-stars: topic_limit 3 refresh via Actions'
+
+      - name: Update languages.md (by language)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
@@ -41,7 +57,8 @@ jobs:
             --repository "$REPOSITORY" \
             --sort \
             --token "$GITHUB_TOKEN" \
-            --message 'awesome-stars: language refresh via Actions'
+            --filename languages.md \
+            --message 'awesome-stars: languages refresh via Actions'
 
       - name: Update topics.md (by topic)
         env:
@@ -57,4 +74,4 @@ jobs:
             --topic_limit 500 \
             --filename topics.md \
             --token "$GITHUB_TOKEN" \
-            --message 'awesome-stars: topic refresh via Actions'
+            --message 'awesome-stars: topics refresh via Actions'
