@@ -32,7 +32,7 @@ jobs:
 
       - name: Update README (by language)
         env:
-          GITHUB_TOKEN: ${{ secrets.STARRED_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           REPOSITORY: ${{ env.REPOSITORY_NAME }}
         run: |
@@ -45,7 +45,7 @@ jobs:
 
       - name: Update topics.md (by topic)
         env:
-          GITHUB_TOKEN: ${{ secrets.STARRED_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           REPOSITORY: ${{ env.REPOSITORY_NAME }}
         run: |
