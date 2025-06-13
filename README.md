@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [aceternity-ui](#aceternity-ui)
 - [agent](#agent)
 - [agentic-ai](#agentic-ai)
 - [agentic-framework](#agentic-framework)
@@ -18,13 +17,6 @@
 - [aiagentframework](#aiagentframework)
 - [aliases](#aliases)
 - [angular](#angular)
-- [angular-cli](#angular-cli)
-- [angular-components](#angular-components)
-- [angular-library](#angular-library)
-- [angular2](#angular2)
-- [angular5](#angular5)
-- [angular6](#angular6)
-- [angular7](#angular7)
 - [anthropic](#anthropic)
 - [api](#api)
 - [api-client](#api-client)
@@ -36,7 +28,7 @@
 - [audio](#audio)
 - [audio-generation](#audio-generation)
 - [audio-to-text](#audio-to-text)
-- [authentication](#authentication)
+- [aufs](#aufs)
 - [autogen](#autogen)
 - [autogen-extension](#autogen-extension)
 - [automatic1111](#automatic1111)
@@ -65,7 +57,6 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chroma](#chroma)
-- [chrome-extension](#chrome-extension)
 - [ci](#ci)
 - [ci-cd](#ci-cd)
 - [claude](#claude)
@@ -88,6 +79,7 @@
 - [css](#css)
 - [curriculum](#curriculum)
 - [cursor](#cursor)
+- [cursorai](#cursorai)
 - [custom-ai-agents](#custom-ai-agents)
 - [custom-hooks](#custom-hooks)
 - [d3](#d3)
@@ -106,6 +98,8 @@
 - [dev-server](#dev-server)
 - [development](#development)
 - [dify](#dify)
+- [dify-plugins](#dify-plugins)
+- [direnv](#direnv)
 - [distributed](#distributed)
 - [docker](#docker)
 - [docker-compose](#docker-compose)
@@ -123,15 +117,17 @@
 - [embeddings](#embeddings)
 - [emulator](#emulator)
 - [entity-framework-core](#entity-framework-core)
+- [environment](#environment)
 - [esbuild](#esbuild)
 - [esm](#esm)
 - [everything](#everything)
 - [everything-search](#everything-search)
+- [exec](#exec)
 - [exercism-track](#exercism-track)
 - [extension](#extension)
-- [fastapi](#fastapi)
 - [filesystem](#filesystem)
 - [firebase](#firebase)
+- [fish](#fish)
 - [fluidd](#fluidd)
 - [flux](#flux)
 - [freecodecamp](#freecodecamp)
@@ -145,9 +141,11 @@
 - [genai](#genai)
 - [generative-ai](#generative-ai)
 - [generative-art](#generative-art)
-- [generator](#generator)
 - [gif](#gif)
+- [git](#git)
 - [github](#github)
+- [go](#go)
+- [gpg](#gpg)
 - [gpt](#gpt)
 - [gpt-4](#gpt-4)
 - [gpt4all](#gpt4all)
@@ -177,18 +175,18 @@
 - [json-rpc](#json-rpc)
 - [jsx](#jsx)
 - [klipper](#klipper)
+- [klipperscreen](#klipperscreen)
 - [kodi](#kodi)
 - [kong](#kong)
 - [kubernetes](#kubernetes)
 - [langchain](#langchain)
 - [langchain-js](#langchain-js)
 - [langchain-python](#langchain-python)
-- [langgraph](#langgraph)
 - [large-language-models](#large-language-models)
 - [learn-to-code](#learn-to-code)
+- [libfuse](#libfuse)
 - [libp2p](#libp2p)
 - [libraries](#libraries)
-- [library](#library)
 - [linux](#linux)
 - [lit-element](#lit-element)
 - [lit-html](#lit-html)
@@ -201,6 +199,7 @@
 - [llamaindex](#llamaindex)
 - [llm](#llm)
 - [llm-agents](#llm-agents)
+- [llm-gateway](#llm-gateway)
 - [llm-ui](#llm-ui)
 - [llm-webui](#llm-webui)
 - [llmops](#llmops)
@@ -216,6 +215,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [macos-app](#macos-app)
+- [mamba](#mamba)
 - [mariadb](#mariadb)
 - [markdown](#markdown)
 - [math](#math)
@@ -234,9 +234,9 @@
 - [mmorpg](#mmorpg)
 - [mobx](#mobx)
 - [modelcontextprotocol](#modelcontextprotocol)
-- [modular](#modular)
 - [modules](#modules)
 - [monorepo](#monorepo)
+- [monorepos](#monorepos)
 - [moonraker](#moonraker)
 - [mqtt](#mqtt)
 - [multimedia](#multimedia)
@@ -246,7 +246,6 @@
 - [n8n](#n8n)
 - [natural-language-processing](#natural-language-processing)
 - [nextjs](#nextjs)
-- [nextjs15](#nextjs15)
 - [ngrok](#ngrok)
 - [ngrok-alternative](#ngrok-alternative)
 - [nlp](#nlp)
@@ -254,8 +253,6 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [nonprofits](#nonprofits)
-- [notebooklm](#notebooklm)
-- [notion](#notion)
 - [npm](#npm)
 - [nvr](#nvr)
 - [nx](#nx)
@@ -265,18 +262,21 @@
 - [obsidian-plugin](#obsidian-plugin)
 - [ollama](#ollama)
 - [ollama-client](#ollama-client)
+- [ollama-ui](#ollama-ui)
 - [ollama-webui](#ollama-webui)
 - [open-source](#open-source)
 - [open-webui](#open-webui)
 - [openai](#openai)
 - [openai-api](#openai-api)
 - [openai-chatgpt](#openai-chatgpt)
+- [openai-proxy](#openai-proxy)
 - [openapi](#openapi)
 - [openrouter](#openrouter)
 - [oracle](#oracle)
 - [orchestration](#orchestration)
 - [others](#others)
 - [overlayfs](#overlayfs)
+- [password-manager](#password-manager)
 - [pdf](#pdf)
 - [performance](#performance)
 - [perplexity](#perplexity)
@@ -314,9 +314,8 @@
 - [runtime](#runtime)
 - [rust](#rust)
 - [rwkv](#rwkv)
-- [sass](#sass)
-- [scaffold](#scaffold)
 - [script](#script)
+- [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
 - [server-emulator](#server-emulator)
@@ -326,11 +325,14 @@
 - [serverless](#serverless)
 - [serverless-framework](#serverless-framework)
 - [shell](#shell)
+- [shell-extension](#shell-extension)
 - [signal](#signal)
-- [slack](#slack)
+- [signal-cli](#signal-cli)
+- [signal-messenger](#signal-messenger)
 - [solid](#solid)
 - [speech-recognition](#speech-recognition)
 - [speech-to-text](#speech-to-text)
+- [sponsor](#sponsor)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [sqlserver](#sqlserver)
@@ -348,14 +350,16 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [swot-analysis](#swot-analysis)
 - [taskbar](#taskbar)
 - [taskbar-application](#taskbar-application)
+- [tca](#tca)
+- [tcsh](#tcsh)
 - [teachers](#teachers)
 - [terminal](#terminal)
 - [testing](#testing)
 - [testing-library](#testing-library)
 - [text-generation](#text-generation)
-- [theme](#theme)
 - [time](#time)
 - [todoist](#todoist)
 - [toolbar](#toolbar)
@@ -367,12 +371,12 @@
 - [tunneling](#tunneling)
 - [typescript](#typescript)
 - [ui](#ui)
-- [ui-kit](#ui-kit)
 - [unionfs](#unionfs)
 - [update](#update)
 - [utilities](#utilities)
 - [vector-database](#vector-database)
 - [vector-search](#vector-search)
+- [verdaccio](#verdaccio)
 - [vertex-ai](#vertex-ai)
 - [vibe-coding](#vibe-coding)
 - [video](#video)
@@ -409,20 +413,16 @@
 - [wpf](#wpf)
 - [wyze](#wyze)
 - [wyzecam](#wyzecam)
+- [xattr](#xattr)
 - [yaml](#yaml)
 - [yarn](#yarn)
 - [zero-config](#zero-config)
 - [zsh](#zsh)
 - [zsh-completions](#zsh-completions)
 
-## aceternity-ui 
-
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
-
 ## agent 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 
@@ -444,7 +444,6 @@
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
 - [Spectral-Finance/lux](https://github.com/Spectral-Finance/lux) - Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly auto
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee) - An MCP generator for OpenAPIs 🫳🎤💥
@@ -459,7 +458,6 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, Oracle, SQL Server, MariaDB, SQLite.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -497,38 +495,7 @@
 
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [gonzofish/angular-librarian](https://github.com/gonzofish/angular-librarian) - An Angular 2+ scaffolding setup for creating libraries
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
-
-## angular-cli 
-
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
-
-## angular-components 
-
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
-
-## angular-library 
-
-- [gonzofish/angular-librarian](https://github.com/gonzofish/angular-librarian) - An Angular 2+ scaffolding setup for creating libraries
-
-## angular2 
-
-- [gonzofish/angular-librarian](https://github.com/gonzofish/angular-librarian) - An Angular 2+ scaffolding setup for creating libraries
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
-
-## angular5 
-
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
-
-## angular6 
-
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
-
-## angular7 
-
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 
 ## anthropic 
 
@@ -578,9 +545,9 @@
 
 - [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
 
-## authentication 
+## aufs 
 
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
+- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 
 ## autogen 
 
@@ -623,6 +590,7 @@
 
 ## bash 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
@@ -702,10 +670,6 @@
 
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 
-## chrome-extension 
-
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
-
 ## ci 
 
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
@@ -732,7 +696,6 @@
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [sbezludny/content-type-to-typescript](https://github.com/sbezludny/content-type-to-typescript) - Converts Contentful Models to Typescript Definitions
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
-- [gonzofish/angular-librarian](https://github.com/gonzofish/angular-librarian) - An Angular 2+ scaffolding setup for creating libraries
 
 ## code-quality 
 
@@ -800,6 +763,10 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## cursor 
+
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, Oracle, SQL Server, MariaDB, SQLite.
+
+## cursorai 
 
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, Oracle, SQL Server, MariaDB, SQLite.
 
@@ -878,6 +845,14 @@
 
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, Oracle, SQL Server, MariaDB, SQLite.
 
+## dify-plugins 
+
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, Oracle, SQL Server, MariaDB, SQLite.
+
+## direnv 
+
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+
 ## distributed 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -950,6 +925,10 @@
 
 - [ACEmulator/ACE](https://github.com/ACEmulator/ACE) - Asheron's Call server emulator.
 
+## environment 
+
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+
 ## esbuild 
 
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
@@ -969,18 +948,17 @@
 
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 
+## exec 
+
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript
+
 ## exercism-track 
 
 - [exercism/cpp](https://github.com/exercism/cpp) - Exercism exercises in C++.
 
 ## extension 
 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [bennycode/ts2esm](https://github.com/bennycode/ts2esm) - Transforms CommonJS projects into ESM.
-
-## fastapi 
-
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 
 ## filesystem 
 
@@ -989,6 +967,10 @@
 ## firebase 
 
 - [karlhadwen/todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
+
+## fish 
+
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 
 ## fluidd 
 
@@ -1008,7 +990,7 @@
 
 ## full-stack 
 
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 
 ## function-calling 
 
@@ -1045,17 +1027,25 @@
 
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 
-## generator 
-
-- [gonzofish/angular-librarian](https://github.com/gonzofish/angular-librarian) - An Angular 2+ scaffolding setup for creating libraries
-
 ## gif 
 
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 
+## git 
+
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
+
 ## github 
 
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
+
+## go 
+
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
+
+## gpg 
+
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 
 ## gpt 
 
@@ -1072,6 +1062,7 @@
 
 ## hacktoberfest 
 
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [bennycode/ts2esm](https://github.com/bennycode/ts2esm) - Transforms CommonJS projects into ESM.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
@@ -1192,6 +1183,10 @@
 
 - [leadustin/QIDI-up2date-english](https://github.com/leadustin/QIDI-up2date-english) - Update of the Qidi Series 3
 
+## klipperscreen 
+
+- [leadustin/QIDI-up2date-english](https://github.com/leadustin/QIDI-up2date-english) - Update of the Qidi Series 3
+
 ## kodi 
 
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -1208,7 +1203,6 @@
 ## langchain 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 
 ## langchain-js 
@@ -1218,10 +1212,6 @@
 ## langchain-python 
 
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
-
-## langgraph 
-
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 
 ## large-language-models 
 
@@ -1233,6 +1223,10 @@
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
+## libfuse 
+
+- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+
 ## libp2p 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -1240,10 +1234,6 @@
 ## libraries 
 
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
-
-## library 
-
-- [gonzofish/angular-librarian](https://github.com/gonzofish/angular-librarian) - An Angular 2+ scaffolding setup for creating libraries
 
 ## linux 
 
@@ -1310,6 +1300,10 @@
 ## llm-agents 
 
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
+
+## llm-gateway 
+
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 
 ## llm-ui 
 
@@ -1380,6 +1374,10 @@
 ## macos-app 
 
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
+
+## mamba 
+
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 
 ## mariadb 
 
@@ -1467,15 +1465,15 @@
 
 - [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee) - An MCP generator for OpenAPIs 🫳🎤💥
 
-## modular 
-
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
-
 ## modules 
 
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 
 ## monorepo 
+
+- [lemonade-hq/traf](https://github.com/lemonade-hq/traf) - Find truly affected packages in monorepos
+
+## monorepos 
 
 - [lemonade-hq/traf](https://github.com/lemonade-hq/traf) - Find truly affected packages in monorepos
 
@@ -1514,11 +1512,6 @@
 ## nextjs 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
-
-## nextjs15 
-
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 
 ## ngrok 
 
@@ -1541,7 +1534,7 @@
 ## node 
 
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 
 ## nodejs 
@@ -1559,14 +1552,6 @@
 ## nonprofits 
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-
-## notebooklm 
-
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
-
-## notion 
-
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 
 ## npm 
 
@@ -1601,7 +1586,6 @@
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [neoneye/PlanExe](https://github.com/neoneye/PlanExe) - AI planner similar to OpenAI's deep research
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1609,6 +1593,10 @@
 - [aidatatools/ollama-benchmark](https://github.com/aidatatools/ollama-benchmark) - LLM Benchmark for Throughput via Ollama (Local LLMs)
 
 ## ollama-client 
+
+- [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
+
+## ollama-ui 
 
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
 
@@ -1644,6 +1632,10 @@
 ## openai-chatgpt 
 
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
+
+## openai-proxy 
+
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 
 ## openapi 
 
@@ -1726,6 +1718,10 @@
 
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 
+## password-manager 
+
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
+
 ## pdf 
 
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -1737,7 +1733,6 @@
 ## perplexity 
 
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 
 ## planning 
 
@@ -1793,7 +1788,6 @@
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 
 ## rag 
@@ -1801,7 +1795,6 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Andrew-Jang/RAGHub](https://github.com/Andrew-Jang/RAGHub) - A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -1812,7 +1805,7 @@
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [stormkit-io/monorepo-template-react](https://github.com/stormkit-io/monorepo-template-react) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [karlhadwen/todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -1833,7 +1826,7 @@
 
 ## react-ssr 
 
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 
 ## react-testing-library 
 
@@ -1901,17 +1894,13 @@
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 
-## sass 
-
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
-
-## scaffold 
-
-- [gonzofish/angular-librarian](https://github.com/gonzofish/angular-librarian) - An Angular 2+ scaffolding setup for creating libraries
-
 ## script 
 
 - [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript
+
+## security 
+
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 
 ## self-hosted 
 
@@ -1931,7 +1920,7 @@
 
 ## server-rendering 
 
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 
 ## server-side 
 
@@ -1939,7 +1928,7 @@
 
 ## server-side-rendering 
 
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 
 ## serverless 
 
@@ -1951,23 +1940,33 @@
 
 ## shell 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 
+## shell-extension 
+
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+
 ## signal 
 
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 
-## slack 
+## signal-cli 
 
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+- [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
+- [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
+
+## signal-messenger 
+
+- [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
 
 ## solid 
 
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 
 ## speech-recognition 
 
@@ -1976,6 +1975,10 @@
 ## speech-to-text 
 
 - [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
+
+## sponsor 
+
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 
 ## sql 
 
@@ -2000,7 +2003,7 @@
 ## ssr 
 
 - [stormkit-io/monorepo-template-react](https://github.com/stormkit-io/monorepo-template-react) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 
 ## stable-diffusion 
 
@@ -2009,7 +2012,7 @@
 ## static-site-generator 
 
 - [stormkit-io/monorepo-template-react](https://github.com/stormkit-io/monorepo-template-react) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 
 ## stories 
 
@@ -2048,6 +2051,10 @@
 
 - [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
 
+## swot-analysis 
+
+- [neoneye/PlanExe](https://github.com/neoneye/PlanExe) - AI planner similar to OpenAI's deep research
+
 ## taskbar 
 
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
@@ -2055,6 +2062,14 @@
 ## taskbar-application 
 
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
+
+## tca 
+
+- [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
+
+## tcsh 
+
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 
 ## teachers 
 
@@ -2075,10 +2090,6 @@
 ## text-generation 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
-
-## theme 
-
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 
 ## time 
 
@@ -2119,7 +2130,6 @@
 ## typescript 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 - [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server) - Server for forwarding iMessages to clients within the BlueBubbles App ecosystem
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
@@ -2132,8 +2142,6 @@
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [gonzofish/angular-librarian](https://github.com/gonzofish/angular-librarian) - An Angular 2+ scaffolding setup for creating libraries
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## ui 
@@ -2141,11 +2149,6 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
-
-## ui-kit 
-
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 
 ## unionfs 
 
@@ -2166,6 +2169,10 @@
 ## vector-search 
 
 - [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
+
+## verdaccio 
+
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 
 ## vertex-ai 
 
@@ -2191,19 +2198,19 @@
 ## vite 
 
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## vite-plugin 
 
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 
 ## vitejs 
 
 - [stormkit-io/monorepo-template-react](https://github.com/stormkit-io/monorepo-template-react) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [cyco130/vavite](https://github.com/cyco130/vavite) - Develop server-side applications with Vite
 
 ## vitest 
@@ -2220,14 +2227,14 @@
 
 ## vue 
 
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [davestewart/alias-hq](https://github.com/davestewart/alias-hq) - The end-to-end solution for configuring, refactoring, maintaining and using path aliases
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## vue-ssr 
 
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 
 ## watch 
 
@@ -2244,7 +2251,7 @@
 
 ## web-framework 
 
-- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 The Framework *You* Control – Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - 🔨 Vike — The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
 ## web-performance 
@@ -2263,8 +2270,6 @@
 
 - [davestewart/alias-hq](https://github.com/davestewart/alias-hq) - The end-to-end solution for configuring, refactoring, maintaining and using path aliases
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [gonzofish/angular-librarian](https://github.com/gonzofish/angular-librarian) - An Angular 2+ scaffolding setup for creating libraries
-- [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode
 
 ## webrtc 
 
@@ -2331,6 +2336,10 @@
 
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 
+## xattr 
+
+- [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+
 ## yaml 
 
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
@@ -2345,6 +2354,7 @@
 
 ## zsh 
 
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 
 ## zsh-completions 
