@@ -64,6 +64,7 @@
 - [cli](#cli)
 - [code-quality](#code-quality)
 - [codemod](#codemod)
+- [coding-agents](#coding-agents)
 - [command](#command)
 - [command-line](#command-line)
 - [commandline](#commandline)
@@ -387,6 +388,7 @@
 - [vitest](#vitest)
 - [voice-assistant](#voice-assistant)
 - [vscode](#vscode)
+- [vscode-extension](#vscode-extension)
 - [vue](#vue)
 - [vue-ssr](#vue-ssr)
 - [watch](#watch)
@@ -663,6 +665,7 @@
 
 ## chatgpt 
 
+- [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
 
 ## chroma 
@@ -679,6 +682,7 @@
 
 ## claude 
 
+- [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 
@@ -703,6 +707,10 @@
 ## codemod 
 
 - [bennycode/ts2esm](https://github.com/bennycode/ts2esm) - Transforms CommonJS projects into ESM.
+
+## coding-agents 
+
+- [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
 
 ## command 
 
@@ -1279,6 +1287,7 @@
 
 ## llm 
 
+- [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1619,6 +1628,7 @@
 
 ## openai 
 
+- [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
@@ -1656,6 +1666,9 @@
 
 ## others 
 
+- [brandon-schabel/octoprompt](https://github.com/brandon-schabel/octoprompt) - Software Toolkit For Rapidly Building Codebases Using AI
+- [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [tattwamasi/starry-eye](https://github.com/tattwamasi/starry-eye) - 
 - [drewbitt/starred](https://github.com/drewbitt/starred) - 
 - [sierra-research/tau-bench](https://github.com/sierra-research/tau-bench) - Code and Data for Tau-Bench
@@ -2218,7 +2231,12 @@
 
 ## vscode 
 
+- [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
 - [davestewart/alias-hq](https://github.com/davestewart/alias-hq) - The end-to-end solution for configuring, refactoring, maintaining and using path aliases
+
+## vscode-extension 
+
+- [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
 
 ## vue 
 
