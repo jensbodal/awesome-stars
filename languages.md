@@ -78,6 +78,7 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [kazuph/mcp-pocket](https://github.com/kazuph/mcp-pocket) - 🔗 Model Context Protocol (MCP) Server for retrieving saved articles from Pocket API and loading them into Claude
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [barhun/extensionless](https://github.com/barhun/extensionless) - Node.js loader for import specifiers as file paths without extensions or as directory paths
 - [paypal/gnomon](https://github.com/paypal/gnomon) - Utility to annotate console logging statements with timestamps and find slow processes
@@ -131,7 +132,6 @@
 - [pedramamini/RSSidian](https://github.com/pedramamini/RSSidian) - An MCP-capable intelligent RSS feed ingestion and summarization to markdown tool.
 - [FutureClubNL/RAGMeUp](https://github.com/FutureClubNL/RAGMeUp) - Generic rag framework to apply the power of LLMs on any given dataset
 - [disler/pocket-pick](https://github.com/disler/pocket-pick) - What if the exact code snippet or idea you were looking for was one prompt away?
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [elephantscale/OpenAI-labs](https://github.com/elephantscale/OpenAI-labs) - 
 - [aidatatools/ollama-benchmark](https://github.com/aidatatools/ollama-benchmark) - LLM Benchmark for Throughput via Ollama (Local LLMs)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
@@ -155,6 +155,7 @@
 
 ## Shell 
 
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Phil1988/FreeDi](https://github.com/Phil1988/FreeDi) - LCD firmware for Qidi X-3 Series printers with mainline Klipper
 - [leadustin/QIDI-up2date-english](https://github.com/leadustin/QIDI-up2date-english) - Update of the Qidi Series 3
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
@@ -168,6 +169,9 @@
 
 ## TypeScript 
 
+- [brandon-schabel/octoprompt](https://github.com/brandon-schabel/octoprompt) - Software Toolkit For Rapidly Building Codebases Using AI
+- [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
+- [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [pkgxdev/mcp](https://github.com/pkgxdev/mcp) - can your ai run anything? yes it can
 - [pkgxdev/pkgo](https://github.com/pkgxdev/pkgo) - Package…GO!
