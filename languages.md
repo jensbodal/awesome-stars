@@ -48,6 +48,7 @@
 
 ## Elixir 
 
+- [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
 - [Spectral-Finance/lux](https://github.com/Spectral-Finance/lux) - Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly auto
 
 ## Go 
