@@ -419,6 +419,7 @@
 
 ## others 
 
+- [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
 - [brandon-schabel/octoprompt](https://github.com/brandon-schabel/octoprompt) - Software Toolkit For Rapidly Building Codebases Using AI
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
