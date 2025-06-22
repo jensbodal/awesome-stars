@@ -159,6 +159,8 @@
 
 ## Shell 
 
+- [jensbodal/ProxmoxVE](https://github.com/jensbodal/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Phil1988/FreeDi](https://github.com/Phil1988/FreeDi) - LCD firmware for Qidi X-3 Series printers with mainline Klipper
 - [leadustin/QIDI-up2date-english](https://github.com/leadustin/QIDI-up2date-english) - Update of the Qidi Series 3
