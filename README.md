@@ -76,6 +76,7 @@
 - [components](#components)
 - [composable-architecture](#composable-architecture)
 - [configuration](#configuration)
+- [container](#container)
 - [contentful](#contentful)
 - [csharp](#csharp)
 - [css](#css)
@@ -105,6 +106,7 @@
 - [distributed](#distributed)
 - [docker](#docker)
 - [docker-compose](#docker-compose)
+- [document-management](#document-management)
 - [documentation](#documentation)
 - [dom](#dom)
 - [dotnet](#dotnet)
@@ -160,7 +162,10 @@
 - [hls](#hls)
 - [hmr](#hmr)
 - [home-assistant](#home-assistant)
+- [home-automation](#home-automation)
 - [homeassistant](#homeassistant)
+- [homelab](#homelab)
+- [homelab-setup](#homelab-setup)
 - [html](#html)
 - [http-client](#http-client)
 - [image-generation](#image-generation)
@@ -215,6 +220,7 @@
 - [low-code](#low-code)
 - [low-code-platform](#low-code-platform)
 - [low-latency](#low-latency)
+- [lxc](#lxc)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [macos-app](#macos-app)
@@ -248,6 +254,7 @@
 - [mysql](#mysql)
 - [n8n](#n8n)
 - [natural-language-processing](#natural-language-processing)
+- [network](#network)
 - [nextjs](#nextjs)
 - [ngrok](#ngrok)
 - [ngrok-alternative](#ngrok-alternative)
@@ -293,6 +300,8 @@
 - [productivity](#productivity)
 - [programming](#programming)
 - [prometheus-exporter](#prometheus-exporter)
+- [proxmox](#proxmox)
+- [proxmox-ve](#proxmox-ve)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -318,6 +327,7 @@
 - [rust](#rust)
 - [rwkv](#rwkv)
 - [script](#script)
+- [scripts](#scripts)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [server](#server)
@@ -332,6 +342,7 @@
 - [signal](#signal)
 - [signal-cli](#signal-cli)
 - [signal-messenger](#signal-messenger)
+- [smarthome](#smarthome)
 - [solid](#solid)
 - [speech-recognition](#speech-recognition)
 - [speech-to-text](#speech-to-text)
@@ -389,6 +400,7 @@
 - [vite-plugin](#vite-plugin)
 - [vitejs](#vitejs)
 - [vitest](#vitest)
+- [vm](#vm)
 - [voice-assistant](#voice-assistant)
 - [vscode](#vscode)
 - [vscode-extension](#vscode-extension)
@@ -421,6 +433,7 @@
 - [yaml](#yaml)
 - [yarn](#yarn)
 - [zero-config](#zero-config)
+- [zigbee](#zigbee)
 - [zsh](#zsh)
 - [zsh-completions](#zsh-completions)
 
@@ -761,6 +774,10 @@
 
 - [davestewart/alias-hq](https://github.com/davestewart/alias-hq) - The end-to-end solution for configuring, refactoring, maintaining and using path aliases
 
+## container 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
 ## contentful 
 
 - [sbezludny/content-type-to-typescript](https://github.com/sbezludny/content-type-to-typescript) - Converts Contentful Models to Typescript Definitions
@@ -874,12 +891,17 @@
 
 ## docker 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 
 ## docker-compose 
 
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
+
+## document-management 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## documentation 
 
@@ -1116,11 +1138,24 @@
 
 ## home-assistant 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
+
+## home-automation 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## homeassistant 
 
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
+
+## homelab 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
+## homelab-setup 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## html 
 
@@ -1380,6 +1415,10 @@
 
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
 
+## lxc 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
 ## machine-learning 
 
 - [Andrew-Jang/RAGHub](https://github.com/Andrew-Jang/RAGHub) - A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.
@@ -1503,6 +1542,7 @@
 
 ## mqtt 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 
 ## multimedia 
@@ -1528,6 +1568,10 @@
 ## natural-language-processing 
 
 - [Andrew-Jang/RAGHub](https://github.com/Andrew-Jang/RAGHub) - A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.
+
+## network 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## nextjs 
 
@@ -1674,6 +1718,7 @@
 
 ## others 
 
+- [jensbodal/ProxmoxVE](https://github.com/jensbodal/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
 - [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
 - [brandon-schabel/octoprompt](https://github.com/brandon-schabel/octoprompt) - Software Toolkit For Rapidly Building Codebases Using AI
@@ -1801,6 +1846,14 @@
 
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
 
+## proxmox 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
+## proxmox-ve 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
 ## pwa 
 
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
@@ -1925,8 +1978,13 @@
 
 - [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript
 
+## scripts 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
 ## security 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 
 ## self-hosted 
@@ -1967,6 +2025,7 @@
 
 ## shell 
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1991,6 +2050,10 @@
 ## signal-messenger 
 
 - [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
+
+## smarthome 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## solid 
 
@@ -2246,6 +2309,10 @@
 
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 
+## vm 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
 ## voice-assistant 
 
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
@@ -2385,6 +2452,10 @@
 ## zero-config 
 
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
+
+## zigbee 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## zsh 
 
