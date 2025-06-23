@@ -1718,6 +1718,8 @@
 
 ## others 
 
+- [Couchraver/claude-chatgpt-gemini-downloader](https://github.com/Couchraver/claude-chatgpt-gemini-downloader) - Chrome extension to export AI conversations from Claude, ChatGPT, and Gemini
+- [ed-donner/action](https://github.com/ed-donner/action) - Repo to accompany Jon Krohn and Ed Donner's workshop on Agentic AI in Action at ODSC East
 - [jensbodal/ProxmoxVE](https://github.com/jensbodal/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
 - [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
