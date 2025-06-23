@@ -75,6 +75,7 @@
 
 ## JavaScript 
 
+- [Couchraver/claude-chatgpt-gemini-downloader](https://github.com/Couchraver/claude-chatgpt-gemini-downloader) - Chrome extension to export AI conversations from Claude, ChatGPT, and Gemini
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - The platform for AI agents. (wip)
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -92,6 +93,7 @@
 
 ## Jupyter Notebook 
 
+- [ed-donner/action](https://github.com/ed-donner/action) - Repo to accompany Jon Krohn and Ed Donner's workshop on Agentic AI in Action at ODSC East
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 
 ## MDX 
