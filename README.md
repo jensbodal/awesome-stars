@@ -17,6 +17,8 @@
 - [aiagentframework](#aiagentframework)
 - [aliases](#aliases)
 - [angular](#angular)
+- [ansible-playbook](#ansible-playbook)
+- [ansible-role](#ansible-role)
 - [anthropic](#anthropic)
 - [api](#api)
 - [api-client](#api-client)
@@ -122,6 +124,7 @@
 - [emulator](#emulator)
 - [entity-framework-core](#entity-framework-core)
 - [environment](#environment)
+- [environment-manager](#environment-manager)
 - [esbuild](#esbuild)
 - [esm](#esm)
 - [everything](#everything)
@@ -178,6 +181,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [jest](#jest)
+- [jitsi](#jitsi)
 - [js](#js)
 - [json-rpc](#json-rpc)
 - [jsx](#jsx)
@@ -228,6 +232,8 @@
 - [mariadb](#mariadb)
 - [markdown](#markdown)
 - [math](#math)
+- [matrix-org](#matrix-org)
+- [matrix-server](#matrix-server)
 - [mcp](#mcp)
 - [mcp-client](#mcp-client)
 - [mcp-server](#mcp-server)
@@ -242,6 +248,7 @@
 - [mmo](#mmo)
 - [mmorpg](#mmorpg)
 - [mobx](#mobx)
+- [model-context-protocol](#model-context-protocol)
 - [modelcontextprotocol](#modelcontextprotocol)
 - [modules](#modules)
 - [monorepo](#monorepo)
@@ -285,6 +292,7 @@
 - [orchestration](#orchestration)
 - [others](#others)
 - [overlayfs](#overlayfs)
+- [package-manager](#package-manager)
 - [password-manager](#password-manager)
 - [pdf](#pdf)
 - [performance](#performance)
@@ -330,6 +338,7 @@
 - [scripts](#scripts)
 - [security](#security)
 - [self-hosted](#self-hosted)
+- [self-hosting](#self-hosting)
 - [server](#server)
 - [server-emulator](#server-emulator)
 - [server-rendering](#server-rendering)
@@ -514,6 +523,14 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
+## ansible-playbook 
+
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
+
+## ansible-role 
+
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
+
 ## anthropic 
 
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
@@ -580,6 +597,7 @@
 
 ## automation 
 
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
@@ -891,6 +909,7 @@
 
 ## docker 
 
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
@@ -965,6 +984,10 @@
 ## environment 
 
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+
+## environment-manager 
+
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 
 ## esbuild 
 
@@ -1217,6 +1240,10 @@
 - [davestewart/alias-hq](https://github.com/davestewart/alias-hq) - The end-to-end solution for configuring, refactoring, maintaining and using path aliases
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 
+## jitsi 
+
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
+
 ## js 
 
 - [bennycode/ts2esm](https://github.com/bennycode/ts2esm) - Transforms CommonJS projects into ESM.
@@ -1450,6 +1477,14 @@
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
+## matrix-org 
+
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
+
+## matrix-server 
+
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
+
 ## mcp 
 
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
@@ -1519,6 +1554,10 @@
 ## mobx 
 
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
+
+## model-context-protocol 
+
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 
 ## modelcontextprotocol 
 
@@ -1718,6 +1757,9 @@
 
 ## others 
 
+- [danielrosehill/My-AI-Stack](https://github.com/danielrosehill/My-AI-Stack) - Periodically updated documentation about current AI stack/favorite components
+- [danielrosehill/Weird-AI-Bots](https://github.com/danielrosehill/Weird-AI-Bots) - Some configurations for offbeat AI roleplay characters just for fun
+- [mattfreire/zig-llm](https://github.com/mattfreire/zig-llm) - An llm wrapper for OpenAI
 - [Couchraver/claude-chatgpt-gemini-downloader](https://github.com/Couchraver/claude-chatgpt-gemini-downloader) - Chrome extension to export AI conversations from Claude, ChatGPT, and Gemini
 - [ed-donner/action](https://github.com/ed-donner/action) - Repo to accompany Jon Krohn and Ed Donner's workshop on Agentic AI in Action at ODSC East
 - [jensbodal/ProxmoxVE](https://github.com/jensbodal/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -1786,6 +1828,10 @@
 ## overlayfs 
 
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+
+## package-manager 
+
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 
 ## password-manager 
 
@@ -1996,6 +2042,10 @@
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
+
+## self-hosting 
+
+- [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 
 ## server 
 
