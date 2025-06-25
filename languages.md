@@ -113,6 +113,7 @@
 
 ## Others 
 
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [danielrosehill/My-AI-Stack](https://github.com/danielrosehill/My-AI-Stack) - Periodically updated documentation about current AI stack/favorite components
 - [danielrosehill/Weird-AI-Bots](https://github.com/danielrosehill/Weird-AI-Bots) - Some configurations for offbeat AI roleplay characters just for fun
 - [tattwamasi/starry-eye](https://github.com/tattwamasi/starry-eye) - 
@@ -190,6 +191,7 @@
 
 ## TypeScript 
 
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [brandon-schabel/octoprompt](https://github.com/brandon-schabel/octoprompt) - Software Toolkit For Rapidly Building Codebases Using AI
 - [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
