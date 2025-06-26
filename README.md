@@ -66,6 +66,8 @@
 - [claude-ai](#claude-ai)
 - [cli](#cli)
 - [click](#click)
+- [clojure](#clojure)
+- [clojurescript](#clojurescript)
 - [code-quality](#code-quality)
 - [codemod](#codemod)
 - [coding-agents](#coding-agents)
@@ -157,6 +159,7 @@
 - [gpt](#gpt)
 - [gpt-4](#gpt-4)
 - [gpt4all](#gpt4all)
+- [graph](#graph)
 - [hacktoberfest](#hacktoberfest)
 - [hassio](#hassio)
 - [hassio-addons](#hassio-addons)
@@ -188,6 +191,8 @@
 - [jsx](#jsx)
 - [klipper](#klipper)
 - [klipperscreen](#klipperscreen)
+- [knowledge-base](#knowledge-base)
+- [knowledge-graph](#knowledge-graph)
 - [kodi](#kodi)
 - [kong](#kong)
 - [kubernetes](#kubernetes)
@@ -219,6 +224,7 @@
 - [lm-studio](#lm-studio)
 - [lmstudio](#lmstudio)
 - [loader](#loader)
+- [local-first](#local-first)
 - [local-llm](#local-llm)
 - [localai](#localai)
 - [lora](#lora)
@@ -271,6 +277,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [nonprofits](#nonprofits)
+- [note-taking](#note-taking)
 - [npm](#npm)
 - [nvr](#nvr)
 - [nx](#nx)
@@ -291,6 +298,7 @@
 - [openapi](#openapi)
 - [openrouter](#openrouter)
 - [orchestration](#orchestration)
+- [org-mode](#org-mode)
 - [others](#others)
 - [overlayfs](#overlayfs)
 - [package-manager](#package-manager)
@@ -298,6 +306,7 @@
 - [pdf](#pdf)
 - [performance](#performance)
 - [perplexity](#perplexity)
+- [pkm](#pkm)
 - [planning](#planning)
 - [playwright](#playwright)
 - [plex](#plex)
@@ -746,6 +755,14 @@
 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 
+## clojure 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
+## clojurescript 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
 ## code-quality 
 
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
@@ -1101,6 +1118,7 @@
 
 ## git 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 
 ## github 
@@ -1127,6 +1145,10 @@
 ## gpt4all 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+
+## graph 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## hacktoberfest 
 
@@ -1271,6 +1293,14 @@
 ## klipperscreen 
 
 - [leadustin/QIDI-up2date-english](https://github.com/leadustin/QIDI-up2date-english) - Update of the Qidi Series 3
+
+## knowledge-base 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
+## knowledge-graph 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## kodi 
 
@@ -1424,6 +1454,10 @@
 
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
+## local-first 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
 ## local-llm 
 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -1479,6 +1513,7 @@
 
 ## markdown 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 ## math 
@@ -1665,6 +1700,10 @@
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
+## note-taking 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
 ## npm 
 
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
@@ -1764,6 +1803,10 @@
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
+## org-mode 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
 ## others 
 
 - [danielrosehill/My-AI-Stack](https://github.com/danielrosehill/My-AI-Stack) - Periodically updated documentation about current AI stack/favorite components
@@ -1857,6 +1900,10 @@
 ## perplexity 
 
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
+
+## pkm 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## planning 
 
