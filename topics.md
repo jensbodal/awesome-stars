@@ -19,6 +19,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
+- [clojure](#clojure)
 - [code-quality](#code-quality)
 - [compiler](#compiler)
 - [csharp](#csharp)
@@ -186,6 +187,10 @@
 - [sbezludny/content-type-to-typescript](https://github.com/sbezludny/content-type-to-typescript) - Converts Contentful Models to Typescript Definitions
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 
+## clojure 
+
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
 ## code-quality 
 
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
@@ -254,6 +259,7 @@
 
 ## git 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 
 ## github 
@@ -357,6 +363,7 @@
 
 ## markdown 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 
 ## mysql 
