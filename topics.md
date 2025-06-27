@@ -80,6 +80,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [sql](#sql)
+- [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
 - [storybook](#storybook)
 - [svelte](#svelte)
@@ -473,7 +474,7 @@
 - [EndoTheDev/Awesome-Ollama](https://github.com/EndoTheDev/Awesome-Ollama) - An opinionated list of awesome Ollama web and desktop uis, frameworks, libraries, software and resources.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [smol-ai/developer](https://github.com/smol-ai/developer) - the first library to let you embed a developer agent in your own app!
-- [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee) - An MCP generator for OpenAPIs 🫳🎤💥
+- [loopwork/emcee](https://github.com/loopwork/emcee) - An MCP generator for OpenAPIs 🫳🎤💥
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [Phil1988/FreeDi](https://github.com/Phil1988/FreeDi) - LCD firmware for Qidi X-3 Series printers with mainline Klipper
 - [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
@@ -603,6 +604,10 @@
 ## sql 
 
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
+
+## sqlite 
+
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB.
 
 ## stable-diffusion 
 
