@@ -367,6 +367,7 @@
 - [speech-to-text](#speech-to-text)
 - [sponsor](#sponsor)
 - [sql](#sql)
+- [sqlite](#sqlite)
 - [sqlserver](#sqlserver)
 - [srt](#srt)
 - [ssh](#ssh)
@@ -487,7 +488,7 @@
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
-- [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee) - An MCP generator for OpenAPIs 🫳🎤💥
+- [loopwork/emcee](https://github.com/loopwork/emcee) - An MCP generator for OpenAPIs 🫳🎤💥
 
 ## ai 
 
@@ -1605,7 +1606,7 @@
 
 ## modelcontextprotocol 
 
-- [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee) - An MCP generator for OpenAPIs 🫳🎤💥
+- [loopwork/emcee](https://github.com/loopwork/emcee) - An MCP generator for OpenAPIs 🫳🎤💥
 
 ## modules 
 
@@ -1792,7 +1793,7 @@
 ## openapi 
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [loopwork-ai/emcee](https://github.com/loopwork-ai/emcee) - An MCP generator for OpenAPIs 🫳🎤💥
+- [loopwork/emcee](https://github.com/loopwork/emcee) - An MCP generator for OpenAPIs 🫳🎤💥
 
 ## openrouter 
 
@@ -2182,6 +2183,10 @@
 ## sql 
 
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
+
+## sqlite 
+
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB.
 
 ## sqlserver 
 
