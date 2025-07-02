@@ -91,9 +91,13 @@
 - [custom-ai-agents](#custom-ai-agents)
 - [custom-hooks](#custom-hooks)
 - [d3](#d3)
+- [dag](#dag)
 - [dash](#dash)
 - [data-flow](#data-flow)
+- [data-science](#data-science)
+- [data-visualization](#data-visualization)
 - [database](#database)
+- [dataflow](#dataflow)
 - [datahoarding](#datahoarding)
 - [date](#date)
 - [date-fns](#date-fns)
@@ -104,6 +108,7 @@
 - [design-systems](#design-systems)
 - [deskband](#deskband)
 - [dev-server](#dev-server)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [diffusion](#diffusion)
 - [diffusion-models](#diffusion-models)
@@ -280,6 +285,7 @@
 - [nodejs](#nodejs)
 - [nonprofits](#nonprofits)
 - [note-taking](#note-taking)
+- [notebooks](#notebooks)
 - [npm](#npm)
 - [nvr](#nvr)
 - [nx](#nx)
@@ -308,6 +314,7 @@
 - [pdf](#pdf)
 - [performance](#performance)
 - [perplexity](#perplexity)
+- [pipeline](#pipeline)
 - [pkm](#pkm)
 - [planning](#planning)
 - [playwright](#playwright)
@@ -332,6 +339,7 @@
 - [react-native](#react-native)
 - [react-ssr](#react-ssr)
 - [react-testing-library](#react-testing-library)
+- [reactive](#reactive)
 - [reactjs](#reactjs)
 - [recorder](#recorder)
 - [registry](#registry)
@@ -430,6 +438,7 @@
 - [vue-ssr](#vue-ssr)
 - [watch](#watch)
 - [web](#web)
+- [web-app](#web-app)
 - [web-components](#web-components)
 - [web-framework](#web-framework)
 - [web-performance](#web-performance)
@@ -583,6 +592,7 @@
 
 ## artificial-intelligence 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [Andrew-Jang/RAGHub](https://github.com/Andrew-Jang/RAGHub) - A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 
@@ -859,6 +869,10 @@
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
+## dag 
+
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+
 ## dash 
 
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
@@ -867,9 +881,21 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
+## data-science 
+
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+
+## data-visualization 
+
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+
 ## database 
 
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB.
+
+## dataflow 
+
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 
 ## datahoarding 
 
@@ -913,6 +939,10 @@
 ## dev-server 
 
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+
+## developer-tools 
+
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 
 ## development 
 
@@ -1501,6 +1531,7 @@
 
 ## machine-learning 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [Andrew-Jang/RAGHub](https://github.com/Andrew-Jang/RAGHub) - A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.
 
 ## macos 
@@ -1715,6 +1746,10 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
+## notebooks 
+
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+
 ## npm 
 
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
@@ -1912,6 +1947,10 @@
 
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
 
+## pipeline 
+
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+
 ## pkm 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
@@ -1975,6 +2014,7 @@
 
 ## python 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -2026,6 +2066,10 @@
 ## react-testing-library 
 
 - [karlhadwen/todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
+
+## reactive 
+
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 
 ## reactjs 
 
@@ -2192,6 +2236,7 @@
 
 ## sql 
 
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
 
 ## sqlite 
@@ -2467,6 +2512,10 @@
 ## web 
 
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
+
+## web-app 
+
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 
 ## web-components 
 
