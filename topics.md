@@ -345,6 +345,7 @@
 
 ## llm 
 
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -454,6 +455,7 @@
 
 ## others 
 
+- [hellovai/ai-that-works](https://github.com/hellovai/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [danielrosehill/My-AI-Stack](https://github.com/danielrosehill/My-AI-Stack) - Periodically updated documentation about current AI stack/favorite components
 - [danielrosehill/Weird-AI-Bots](https://github.com/danielrosehill/Weird-AI-Bots) - Some configurations for offbeat AI roleplay characters just for fun
