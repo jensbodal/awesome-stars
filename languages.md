@@ -178,6 +178,7 @@
 
 ## Rust 
 
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -199,6 +200,7 @@
 
 ## TypeScript 
 
+- [hellovai/ai-that-works](https://github.com/hellovai/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [brandon-schabel/octoprompt](https://github.com/brandon-schabel/octoprompt) - Software Toolkit For Rapidly Building Codebases Using AI
 - [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
