@@ -19,6 +19,7 @@
 - [aiagentframework](#aiagentframework)
 - [aliases](#aliases)
 - [alpine](#alpine)
+- [amazon-q](#amazon-q)
 - [angular](#angular)
 - [ansible-playbook](#ansible-playbook)
 - [ansible-role](#ansible-role)
@@ -305,6 +306,7 @@
 - [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
+- [obsidian-template](#obsidian-template)
 - [ollama](#ollama)
 - [ollama-client](#ollama-client)
 - [ollama-ui](#ollama-ui)
@@ -371,6 +373,7 @@
 - [rwkv](#rwkv)
 - [script](#script)
 - [scripts](#scripts)
+- [second-brain](#second-brain)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [self-hosting](#self-hosting)
@@ -418,6 +421,7 @@
 - [tca](#tca)
 - [tcsh](#tcsh)
 - [teachers](#teachers)
+- [templates](#templates)
 - [terminal](#terminal)
 - [testing](#testing)
 - [testing-library](#testing-library)
@@ -430,6 +434,7 @@
 - [tsx](#tsx)
 - [tts](#tts)
 - [tui](#tui)
+- [tunnel-proxy](#tunnel-proxy)
 - [tunneling](#tunneling)
 - [typehints](#typehints)
 - [typescript](#typescript)
@@ -459,6 +464,7 @@
 - [watch](#watch)
 - [web](#web)
 - [web-app](#web-app)
+- [web-clipper](#web-clipper)
 - [web-components](#web-components)
 - [web-framework](#web-framework)
 - [web-performance](#web-performance)
@@ -484,6 +490,7 @@
 - [yaml](#yaml)
 - [yarn](#yarn)
 - [zero-config](#zero-config)
+- [zettelkasten](#zettelkasten)
 - [zsh](#zsh)
 - [zsh-completions](#zsh-completions)
 
@@ -576,6 +583,10 @@
 ## alpine 
 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
+## amazon-q 
+
+- [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 
 ## angular 
 
@@ -1502,6 +1513,7 @@
 
 ## llm 
 
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
@@ -1639,6 +1651,7 @@
 
 ## mcp 
 
+- [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1659,6 +1672,7 @@
 
 ## mcp-server 
 
+- [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -1815,6 +1829,7 @@
 
 ## note-taking 
 
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
 
 ## notebooklm 
@@ -1847,15 +1862,21 @@
 
 ## obsidian 
 
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [Elhary/Obsidian-NetClip](https://github.com/Elhary/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
 
 ## obsidian-md 
 
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [Elhary/Obsidian-NetClip](https://github.com/Elhary/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
 
 ## obsidian-plugin 
 
 - [Elhary/Obsidian-NetClip](https://github.com/Elhary/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
+
+## obsidian-template 
+
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 
 ## ollama 
 
@@ -1889,6 +1910,7 @@
 
 ## open-webui 
 
+- [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 ## openai 
@@ -1918,6 +1940,7 @@
 
 ## openapi 
 
+- [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [loopwork/emcee](https://github.com/loopwork/emcee) - An MCP generator for OpenAPIs 🫳🎤💥
 
@@ -1936,6 +1959,7 @@
 
 ## others 
 
+- [pressdarling/obsidian-web-clipper-templates](https://github.com/pressdarling/obsidian-web-clipper-templates) - Obsidian Web Clipper templates for various sites.
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A practical, first-principles handbook inspire
 - [hellovai/ai-that-works](https://github.com/hellovai/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST
 - [danielrosehill/My-AI-Stack](https://github.com/danielrosehill/My-AI-Stack) - Periodically updated documentation about current AI stack/favorite components
@@ -2077,6 +2101,7 @@
 
 ## productivity 
 
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 
@@ -2239,6 +2264,10 @@
 ## scripts 
 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
+## second-brain 
+
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 
 ## security 
 
@@ -2446,6 +2475,10 @@
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
+## templates 
+
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
+
 ## terminal 
 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
@@ -2494,6 +2527,10 @@
 ## tui 
 
 - [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
+
+## tunnel-proxy 
+
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 
 ## tunneling 
 
@@ -2639,6 +2676,10 @@
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 
+## web-clipper 
+
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
+
 ## web-components 
 
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
@@ -2746,6 +2787,10 @@
 ## zero-config 
 
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
+
+## zettelkasten 
+
+- [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 
 ## zsh 
 
