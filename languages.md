@@ -62,7 +62,7 @@
 
 ## G-code 
 
-- [Phil1988/FreeDi](https://github.com/Phil1988/FreeDi) - LCD firmware for Qidi X-3 Series printers with mainline Klipper
+- [Phil1988/FreeDi](https://github.com/Phil1988/FreeDi) - LCD firmware for QIDI printers with mainline Klipper
 
 ## Go 
 
