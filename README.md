@@ -6,6 +6,7 @@
 ## Contents
 
 - [a2a](#a2a)
+- [a2a-protocol](#a2a-protocol)
 - [aceternity-ui](#aceternity-ui)
 - [agent](#agent)
 - [agentic-ai](#agentic-ai)
@@ -497,6 +498,10 @@
 - [zsh-completions](#zsh-completions)
 
 ## a2a 
+
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
+
+## a2a-protocol 
 
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 
@@ -1982,7 +1987,7 @@
 - [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 
 - [pkgxdev/mcp](https://github.com/pkgxdev/mcp) - can your ai run anything? yes it can
 - [pkgxdev/pkgo](https://github.com/pkgxdev/pkgo) - Package…GO!
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - The platform for AI agents. (wip)
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Command Claude Code. (wip)
 - [WildEval/ZeroEval](https://github.com/WildEval/ZeroEval) - A simple unified framework for evaluating LLMs
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [Simple-Efficient/RL-Factory](https://github.com/Simple-Efficient/RL-Factory) - Train your Agent model via our easy and efficient framework
