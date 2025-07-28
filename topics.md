@@ -28,6 +28,7 @@
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
 - [database](#database)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -232,6 +233,10 @@
 ## database 
 
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB.
+
+## developer-tools 
+
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 
 ## development 
 
@@ -475,7 +480,7 @@
 - [jensbodal/ProxmoxVE](https://github.com/jensbodal/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
 - [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
-- [brandon-schabel/octoprompt](https://github.com/brandon-schabel/octoprompt) - Software Toolkit For Context Engineering
+- [brandon-schabel/Promptliano](https://github.com/brandon-schabel/Promptliano) - Software Toolkit For Context Engineering
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [tattwamasi/starry-eye](https://github.com/tattwamasi/starry-eye) - 
