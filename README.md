@@ -207,6 +207,7 @@
 - [js](#js)
 - [json-rpc](#json-rpc)
 - [jsx](#jsx)
+- [kimi](#kimi)
 - [klipper](#klipper)
 - [klipperscreen](#klipperscreen)
 - [knowledge-base](#knowledge-base)
@@ -1413,6 +1414,10 @@
 
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
+## kimi 
+
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+
 ## klipper 
 
 - [leadustin/QIDI-up2date-english](https://github.com/leadustin/QIDI-up2date-english) - Update of the Qidi Series 3
@@ -1985,7 +1990,7 @@
 - [jensbodal/ProxmoxVE](https://github.com/jensbodal/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
 - [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
-- [brandon-schabel/Promptliano](https://github.com/brandon-schabel/Promptliano) - Software Toolkit For Context Engineering
+- [brandon-schabel/Promptliano](https://github.com/brandon-schabel/Promptliano) - npx promptliano@latest - Software Toolkit For Context Engineering
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [tattwamasi/starry-eye](https://github.com/tattwamasi/starry-eye) - 
