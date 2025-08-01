@@ -100,6 +100,7 @@
 - [web-components](#web-components)
 - [webpack](#webpack)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -480,7 +481,7 @@
 - [jensbodal/ProxmoxVE](https://github.com/jensbodal/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - State-of-the-Art Text Embeddings
 - [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
-- [brandon-schabel/Promptliano](https://github.com/brandon-schabel/Promptliano) - Software Toolkit For Context Engineering
+- [brandon-schabel/Promptliano](https://github.com/brandon-schabel/Promptliano) - npx promptliano@latest - Software Toolkit For Context Engineering
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [tattwamasi/starry-eye](https://github.com/tattwamasi/starry-eye) - 
@@ -733,6 +734,11 @@
 
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
+
+## zsh 
+
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 
 
 ## License
