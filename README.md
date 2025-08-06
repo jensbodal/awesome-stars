@@ -263,6 +263,7 @@
 - [matrix-server](#matrix-server)
 - [mcp](#mcp)
 - [mcp-client](#mcp-client)
+- [mcp-gateway](#mcp-gateway)
 - [mcp-server](#mcp-server)
 - [mcp-servers](#mcp-servers)
 - [media-server](#media-server)
@@ -1688,6 +1689,10 @@
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+
+## mcp-gateway 
+
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 
 ## mcp-server 
 
