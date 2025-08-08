@@ -467,6 +467,7 @@
 
 ## others 
 
+- [hamidra/yamcp](https://github.com/hamidra/yamcp) - Organize your MCP servers in local workspaces, share them as Yet-Another-MCP through a single command
 - [pedramamini/MCPeek](https://github.com/pedramamini/MCPeek) - MCPeek is a "swiss army knife" for AI hackers to explore and interact with MCP endpoints, supporting both HTTP/S and STDIO transport mechanisms.
 - [pressdarling/obsidian-web-clipper-templates](https://github.com/pressdarling/obsidian-web-clipper-templates) - Obsidian Web Clipper templates for various sites.
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
