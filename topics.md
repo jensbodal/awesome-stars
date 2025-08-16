@@ -100,7 +100,6 @@
 - [web-components](#web-components)
 - [webpack](#webpack)
 - [windows](#windows)
-- [zsh](#zsh)
 
 ## ai 
 
@@ -741,11 +740,6 @@
 
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-
-## zsh 
-
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 
 
 ## License
