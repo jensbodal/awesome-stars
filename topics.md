@@ -475,7 +475,7 @@
 - [pressdarling/obsidian-web-clipper-templates](https://github.com/pressdarling/obsidian-web-clipper-templates) - Obsidian Web Clipper templates for various sites.
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A frontier, first-principles handbook inspired
-- [hellovai/ai-that-works](https://github.com/hellovai/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST
+- [ai-that-works/ai-that-works](https://github.com/ai-that-works/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 - [danielrosehill/My-AI-Stack](https://github.com/danielrosehill/My-AI-Stack) - Periodically updated documentation about current AI stack/favorite components
 - [danielrosehill/Weird-AI-Bots](https://github.com/danielrosehill/Weird-AI-Bots) - Some configurations for offbeat AI roleplay characters just for fun
