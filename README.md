@@ -177,6 +177,7 @@
 - [gpt-engineer](#gpt-engineer)
 - [gpt4all](#gpt4all)
 - [graph](#graph)
+- [guardrails](#guardrails)
 - [hacktoberfest](#hacktoberfest)
 - [hassio](#hassio)
 - [hassio-addons](#hassio-addons)
@@ -1279,6 +1280,10 @@
 ## graph 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
+
+## guardrails 
+
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 
 ## hacktoberfest 
 
