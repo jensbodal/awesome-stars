@@ -13,6 +13,7 @@
 - [agentic-framework](#agentic-framework)
 - [agentic-workflow](#agentic-workflow)
 - [agents](#agents)
+- [agi](#agi)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [ai-gateway](#ai-gateway)
@@ -548,6 +549,10 @@
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [mattt/emcee](https://github.com/mattt/emcee) - MCP generator for OpenAPIs 🫳🎤💥
+
+## agi 
+
+- [neoneye/PlanExe](https://github.com/neoneye/PlanExe) - Convert your idea to a plan
 
 ## ai 
 
