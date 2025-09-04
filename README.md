@@ -420,6 +420,7 @@
 - [streamlit](#streamlit)
 - [structured-data](#structured-data)
 - [structured-generation](#structured-generation)
+- [structured-output](#structured-output)
 - [styleguide](#styleguide)
 - [subsonic](#subsonic)
 - [svelte](#svelte)
@@ -2494,6 +2495,10 @@
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 
 ## structured-generation 
+
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+
+## structured-output 
 
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 
