@@ -398,7 +398,6 @@
 - [shell-extension](#shell-extension)
 - [signal](#signal)
 - [signal-cli](#signal-cli)
-- [signal-messenger](#signal-messenger)
 - [slack](#slack)
 - [smarthome](#smarthome)
 - [software-engineering](#software-engineering)
@@ -2405,10 +2404,6 @@
 ## signal-cli 
 
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
-- [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
-
-## signal-messenger 
-
 - [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
 
 ## slack 
