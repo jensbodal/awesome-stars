@@ -227,6 +227,7 @@
 - [libp2p](#libp2p)
 - [libraries](#libraries)
 - [linux](#linux)
+- [linux-foundation](#linux-foundation)
 - [lit-element](#lit-element)
 - [lit-html](#lit-html)
 - [litellm](#litellm)
@@ -1506,6 +1507,10 @@
 
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
+
+## linux-foundation 
+
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 
 ## lit-element 
 
