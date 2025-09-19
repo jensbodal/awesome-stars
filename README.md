@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [1password](#1password)
 - [a2a](#a2a)
 - [a2a-protocol](#a2a-protocol)
 - [aceternity-ui](#aceternity-ui)
@@ -45,6 +46,7 @@
 - [autonomous-agents](#autonomous-agents)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [aws-secrets-manager](#aws-secrets-manager)
 - [azure-openai](#azure-openai)
 - [babel](#babel)
 - [babyagi](#babyagi)
@@ -52,6 +54,7 @@
 - [bedrock](#bedrock)
 - [benchmark](#benchmark)
 - [benchmarking](#benchmarking)
+- [bitwarden](#bitwarden)
 - [browser](#browser)
 - [browser-automation](#browser-automation)
 - [browser-use](#browser-use)
@@ -112,6 +115,7 @@
 - [date-fns](#date-fns)
 - [dbus](#dbus)
 - [debian](#debian)
+- [decentralized](#decentralized)
 - [deepseek](#deepseek)
 - [deepseek-r1](#deepseek-r1)
 - [design-systems](#design-systems)
@@ -129,6 +133,7 @@
 - [docker-compose](#docker-compose)
 - [documentation](#documentation)
 - [dom](#dom)
+- [dotenv](#dotenv)
 - [dotnet](#dotnet)
 - [dotnet-core](#dotnet-core)
 - [dts](#dts)
@@ -143,6 +148,7 @@
 - [entity-framework-core](#entity-framework-core)
 - [environment](#environment)
 - [environment-manager](#environment-manager)
+- [environment-variables](#environment-variables)
 - [esbuild](#esbuild)
 - [esm](#esm)
 - [everything](#everything)
@@ -175,7 +181,6 @@
 - [gpt](#gpt)
 - [gpt-4](#gpt-4)
 - [gpt-engineer](#gpt-engineer)
-- [gpt4all](#gpt4all)
 - [graph](#graph)
 - [guardrails](#guardrails)
 - [hacktoberfest](#hacktoberfest)
@@ -208,6 +213,7 @@
 - [js](#js)
 - [json-rpc](#json-rpc)
 - [jsx](#jsx)
+- [keepassxc](#keepassxc)
 - [kimi](#kimi)
 - [klipper](#klipper)
 - [klipperscreen](#klipperscreen)
@@ -311,6 +317,7 @@
 - [nvr](#nvr)
 - [nx](#nx)
 - [nx-workspace](#nx-workspace)
+- [object-detection](#object-detection)
 - [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
@@ -385,6 +392,10 @@
 - [script](#script)
 - [scripts](#scripts)
 - [second-brain](#second-brain)
+- [secret-management](#secret-management)
+- [secret-manager](#secret-manager)
+- [secrets](#secrets)
+- [secrets-management](#secrets-management)
 - [security](#security)
 - [self-hosted](#self-hosted)
 - [self-hosting](#self-hosting)
@@ -505,6 +516,10 @@
 - [zettelkasten](#zettelkasten)
 - [zsh](#zsh)
 - [zsh-completions](#zsh-completions)
+
+## 1password 
+
+- [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
 
 ## a2a 
 
@@ -716,6 +731,10 @@
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 
+## aws-secrets-manager 
+
+- [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
+
 ## azure-openai 
 
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
@@ -746,6 +765,10 @@
 ## benchmarking 
 
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
+
+## bitwarden 
+
+- [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
 
 ## browser 
 
@@ -1003,6 +1026,10 @@
 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
+## decentralized 
+
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+
 ## deepseek 
 
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
@@ -1075,6 +1102,10 @@
 
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 
+## dotenv 
+
+- [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
+
 ## dotnet 
 
 - [ACEmulator/ACE](https://github.com/ACEmulator/ACE) - Asheron's Call server emulator.
@@ -1128,10 +1159,15 @@
 ## environment 
 
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
 
 ## environment-manager 
 
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
+
+## environment-variables 
+
+- [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
 
 ## esbuild 
 
@@ -1273,10 +1309,6 @@
 ## gpt-engineer 
 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-
-## gpt4all 
-
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 
 ## graph 
 
@@ -1426,6 +1458,10 @@
 
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
+## keepassxc 
+
+- [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
+
 ## kimi 
 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -1460,7 +1496,6 @@
 
 ## kubernetes 
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 
 ## langchain 
@@ -1543,7 +1578,6 @@
 
 ## llama3 
 
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 
 ## llamacpp 
@@ -1914,6 +1948,10 @@
 
 - [lemonade-hq/traf](https://github.com/lemonade-hq/traf) - Find truly affected packages in monorepos
 
+## object-detection 
+
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+
 ## obsidian 
 
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to Claude again. Local-first, integrates with Obsidian. Join our Discord: https://discord.gg/tyvKNccgqN
@@ -2060,7 +2098,6 @@
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [Phil1988/FreeDi](https://github.com/Phil1988/FreeDi) - LCD firmware for QIDI printers with mainline Klipper
 - [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
-- [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables or .env files from various secret providers via URIs
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [Le0Michine/FusionGridfinityGenerator](https://github.com/Le0Michine/FusionGridfinityGenerator) - 
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -2340,6 +2377,22 @@
 ## second-brain 
 
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
+
+## secret-management 
+
+- [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
+
+## secret-manager 
+
+- [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
+
+## secrets 
+
+- [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
+
+## secrets-management 
+
+- [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
 
 ## security 
 
