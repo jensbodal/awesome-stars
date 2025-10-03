@@ -2059,7 +2059,7 @@
 
 - [pedramamini/MCPeek](https://github.com/pedramamini/MCPeek) - MCPeek is a "swiss army knife" for AI hackers to explore and interact with MCP endpoints, supporting both HTTP/S and STDIO transport mechanisms.
 - [pressdarling/obsidian-web-clipper-templates](https://github.com/pressdarling/obsidian-web-clipper-templates) - Obsidian Web Clipper templates for various sites.
-- [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A frontier, first-principles guide inspired by
+- [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A frontier, first-principles handbook inspired
 - [ai-that-works/ai-that-works](https://github.com/ai-that-works/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST
 - [danielrosehill/My-AI-Stack](https://github.com/danielrosehill/My-AI-Stack) - Periodically updated documentation about current AI stack/favorite components
 - [danielrosehill/Weird-AI-Bots](https://github.com/danielrosehill/Weird-AI-Bots) - Some configurations for offbeat AI roleplay characters just for fun
