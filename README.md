@@ -391,6 +391,7 @@
 - [rwkv](#rwkv)
 - [script](#script)
 - [scripts](#scripts)
+- [search-interface](#search-interface)
 - [second-brain](#second-brain)
 - [secret-management](#secret-management)
 - [secret-manager](#secret-manager)
@@ -1325,7 +1326,6 @@
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [bennycode/ts2esm](https://github.com/bennycode/ts2esm) - Transforms CommonJS projects into ESM.
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 
 ## hacktoberfest2025 
@@ -2376,6 +2376,10 @@
 ## scripts 
 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
+## search-interface 
+
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 
 ## second-brain 
 
