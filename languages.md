@@ -159,7 +159,6 @@
 - [Simple-Efficient/RL-Factory](https://github.com/Simple-Efficient/RL-Factory) - Train your Agent model via our easy and efficient framework
 - [Nardien/agent-distillation](https://github.com/Nardien/agent-distillation) - Official Code Repository for the paper "Distilling LLM Agent into Small Models with Retrieval and Code Tools"
 - [dwmkerr/ai-providers-and-models](https://github.com/dwmkerr/ai-providers-and-models) - Regularly updated list of AI providers and models, available for mulitple languages and platforms.
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [pedramamini/RSSidian](https://github.com/pedramamini/RSSidian) - An MCP-capable intelligent RSS feed ingestion and summarization to markdown tool.
@@ -218,6 +217,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB.
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [Elhary/Obsidian-NetClip](https://github.com/Elhary/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [buhe/mcp_rss](https://github.com/buhe/mcp_rss) - MCP RSS is a Model Context Protocol (MCP) server for interacting with RSS feeds.
@@ -234,7 +234,7 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [stormkit-io/react-starter](https://github.com/stormkit-io/react-starter) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
-- [vikejs/vike](https://github.com/vikejs/vike) - The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - [Next.js/Nuxt alternative] The framework for advanced applications — with blazing fast quick-start & DX, and unprecedented flexibility & stability.
 - [axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [cyco130/vavite](https://github.com/cyco130/vavite) - Develop server-side applications with Vite
 - [sbezludny/content-type-to-typescript](https://github.com/sbezludny/content-type-to-typescript) - Converts Contentful Models to Typescript Definitions
