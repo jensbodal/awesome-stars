@@ -437,7 +437,7 @@
 ## node 
 
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
-- [vikejs/vike](https://github.com/vikejs/vike) - The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - [Next.js/Nuxt alternative] The framework for advanced applications — with blazing fast quick-start & DX, and unprecedented flexibility & stability.
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 
 ## nodejs 
@@ -619,7 +619,7 @@
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [stormkit-io/react-starter](https://github.com/stormkit-io/react-starter) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
-- [vikejs/vike](https://github.com/vikejs/vike) - The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - [Next.js/Nuxt alternative] The framework for advanced applications — with blazing fast quick-start & DX, and unprecedented flexibility & stability.
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [karlhadwen/todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
@@ -741,7 +741,7 @@
 
 ## vue 
 
-- [vikejs/vike](https://github.com/vikejs/vike) - The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - [Next.js/Nuxt alternative] The framework for advanced applications — with blazing fast quick-start & DX, and unprecedented flexibility & stability.
 - [davestewart/alias-hq](https://github.com/davestewart/alias-hq) - The end-to-end solution for configuring, refactoring, maintaining and using path aliases
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
