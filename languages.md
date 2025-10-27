@@ -152,7 +152,7 @@
 - [sierra-research/tau-bench](https://github.com/sierra-research/tau-bench) - Code and Data for Tau-Bench
 - [neoneye/PlanExe](https://github.com/neoneye/PlanExe) - Create a business plan from a description in minutes
 - [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Command center for your coding agents
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Command center for your coding agents (wip)
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
