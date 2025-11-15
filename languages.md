@@ -160,7 +160,7 @@
 - [Simple-Efficient/RL-Factory](https://github.com/Simple-Efficient/RL-Factory) - Train your Agent model via our easy and efficient framework
 - [Nardien/agent-distillation](https://github.com/Nardien/agent-distillation) - Official Code Repository for the paper "Distilling LLM Agent into Small Models with Retrieval and Code Tools"
 - [dwmkerr/ai-providers-and-models](https://github.com/dwmkerr/ai-providers-and-models) - Regularly updated list of AI providers and models, available for mulitple languages and platforms.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [pedramamini/RSSidian](https://github.com/pedramamini/RSSidian) - An MCP-capable intelligent RSS feed ingestion and summarization to markdown tool.
 - [ErikTromp/RAGMeUp](https://github.com/ErikTromp/RAGMeUp) - Generic rag framework to apply the power of LLMs on any given dataset
@@ -182,6 +182,7 @@
 
 ## Rust 
 
+- [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
