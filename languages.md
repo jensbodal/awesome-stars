@@ -117,7 +117,6 @@
 ## Others 
 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [danielrosehill/My-AI-Stack](https://github.com/danielrosehill/My-AI-Stack) - Periodically updated documentation about current AI stack/favorite components
 - [danielrosehill/Weird-AI-Bots](https://github.com/danielrosehill/Weird-AI-Bots) - Some configurations for offbeat AI roleplay characters just for fun
 - [tattwamasi/starry-eye](https://github.com/tattwamasi/starry-eye) - 
@@ -147,7 +146,6 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Text Embeddings
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The AI toolkit for the AI developer
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [sierra-research/tau-bench](https://github.com/sierra-research/tau-bench) - Code and Data for Tau-Bench
@@ -167,6 +165,7 @@
 - [ErikTromp/RAGMeUp](https://github.com/ErikTromp/RAGMeUp) - Generic rag framework to apply the power of LLMs on any given dataset
 - [disler/pocket-pick](https://github.com/disler/pocket-pick) - What if the exact code snippet or idea you were looking for was one prompt away?
 - [elephantscale/OpenAI-labs](https://github.com/elephantscale/OpenAI-labs) - 
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 - [aidatatools/ollama-benchmark](https://github.com/aidatatools/ollama-benchmark) - LLM Benchmark for Throughput via Ollama (Local LLMs)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -195,6 +194,7 @@
 
 - [jensbodal/ProxmoxVE](https://github.com/jensbodal/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [leadustin/QIDI-up2date-english](https://github.com/leadustin/QIDI-up2date-english) - Update of the Qidi Series 3
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [joeyhoer/starter](https://github.com/joeyhoer/starter) - Take the monotony out of macOS system setup.
@@ -225,7 +225,6 @@
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [buhe/mcp_rss](https://github.com/buhe/mcp_rss) - MCP RSS is a Model Context Protocol (MCP) server for interacting with RSS feeds.
 - [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server) - Server for forwarding iMessages to clients within the BlueBubbles App ecosystem
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
 - [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript
 - [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
