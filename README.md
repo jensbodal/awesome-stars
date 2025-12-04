@@ -38,6 +38,7 @@
 - [audio-generation](#audio-generation)
 - [audio-to-text](#audio-to-text)
 - [aufs](#aufs)
+- [authentification](#authentification)
 - [autogen](#autogen)
 - [autogen-extension](#autogen-extension)
 - [autogpt](#autogpt)
@@ -391,6 +392,7 @@
 - [reactjs](#reactjs)
 - [recorder](#recorder)
 - [registry](#registry)
+- [registry-proxy](#registry-proxy)
 - [reinforcement-learning](#reinforcement-learning)
 - [repl](#repl)
 - [reranking](#reranking)
@@ -710,6 +712,10 @@
 ## aufs 
 
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+
+## authentification 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## autogen 
 
@@ -2396,6 +2402,10 @@
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 
 ## registry 
+
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
+
+## registry-proxy 
 
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 
