@@ -100,6 +100,7 @@
 - [swiftui](#swiftui)
 - [terminal](#terminal)
 - [testing](#testing)
+- [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
@@ -594,7 +595,6 @@
 - [sensity-ai/dot](https://github.com/sensity-ai/dot) - The Deepfake Offensive Toolkit
 - [alexdebrie/awesome-dynamodb](https://github.com/alexdebrie/awesome-dynamodb) - List of resources for learning about modeling, operating, and using Amazon DynamoDB
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
-- [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
 - [aws-solutions/real-time-iot-device-monitoring-with-kinesis](https://github.com/aws-solutions/real-time-iot-device-monitoring-with-kinesis) - AWS Solution with a CloudFormation template for an ingestion mechanism for analytics about device connectivity and activity (i.e. sensor readings), as well as a dashboard for visualizing this data.
 - [Mag-nus/Mag-Plugins](https://github.com/Mag-nus/Mag-Plugins) - A group of plugins that helps take away some of the burden of playing Asherons Call.  Many of the tools are designed to help those who play multiple accounts at once.
 - [IbespwnAC/MagTools](https://github.com/IbespwnAC/MagTools) - MagFilter extended by IbespwnAC to implement certain improved features like "loginByIndex"
@@ -758,6 +758,10 @@
 ## testing 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+
+## tui 
+
+- [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
 
 ## typescript 
 
