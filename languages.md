@@ -192,7 +192,7 @@
 - [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Agent command center (wip)
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - The agentic OS
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
