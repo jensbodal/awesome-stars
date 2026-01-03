@@ -46,6 +46,7 @@
 - [autogpt](#autogpt)
 - [automatic1111](#automatic1111)
 - [automation](#automation)
+- [automation-framework](#automation-framework)
 - [autonomous-agents](#autonomous-agents)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -436,6 +437,7 @@
 - [shell-extension](#shell-extension)
 - [signal](#signal)
 - [signal-cli](#signal-cli)
+- [simulators](#simulators)
 - [slack](#slack)
 - [smarthome](#smarthome)
 - [software-engineering](#software-engineering)
@@ -491,6 +493,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
+- [ui-automation](#ui-automation)
 - [unionfs](#unionfs)
 - [update](#update)
 - [utilities](#utilities)
@@ -761,6 +764,10 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 
+## automation-framework 
+
+- [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
+
 ## autonomous-agents 
 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -988,6 +995,7 @@
 
 ## command-line-tool 
 
+- [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 
 ## commandline 
@@ -1509,6 +1517,7 @@
 
 ## ios 
 
+- [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
 - [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
 
 ## ipaas 
@@ -2634,6 +2643,10 @@
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
 - [derricw/siggo](https://github.com/derricw/siggo) - a TUI for signal messenger, written in Go
 
+## simulators 
+
+- [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
+
 ## slack 
 
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM, Perplexity, and Glean. Connects to search engines, Slack, Linear, Jira, ClickUp, Notion, Discord, and 15+ more connectors.  Join our Discord: https://discord.gg/
@@ -2745,6 +2758,7 @@
 
 ## swift 
 
+- [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
 
 ## swiftui 
@@ -2876,6 +2890,10 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+
+## ui-automation 
+
+- [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
 
 ## unionfs 
 
