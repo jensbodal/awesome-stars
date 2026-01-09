@@ -161,6 +161,7 @@
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
 - [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 - [Simple-Efficient/RL-Factory](https://github.com/Simple-Efficient/RL-Factory) - Train your Agent model via our easy and efficient framework
 - [Nardien/agent-distillation](https://github.com/Nardien/agent-distillation) - Official Code Repository for the paper "Distilling LLM Agent into Small Models with Retrieval and Code Tools"
@@ -234,7 +235,6 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [Elhary/Obsidian-NetClip](https://github.com/Elhary/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
