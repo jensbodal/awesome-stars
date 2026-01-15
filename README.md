@@ -11,7 +11,9 @@
 - [aceternity-ui](#aceternity-ui)
 - [agent](#agent)
 - [agentic-ai](#agentic-ai)
+- [agentic-engineering](#agentic-engineering)
 - [agentic-framework](#agentic-framework)
+- [agentic-systems](#agentic-systems)
 - [agentic-workflow](#agentic-workflow)
 - [agents](#agents)
 - [agi](#agi)
@@ -20,6 +22,7 @@
 - [ai-gateway](#ai-gateway)
 - [ai-infrastructure](#ai-infrastructure)
 - [ai-memory](#ai-memory)
+- [ai-platform](#ai-platform)
 - [ai-tools](#ai-tools)
 - [aiagentframework](#aiagentframework)
 - [aliases](#aliases)
@@ -105,6 +108,7 @@
 - [configuration](#configuration)
 - [container](#container)
 - [contentful](#contentful)
+- [context-engineering](#context-engineering)
 - [copilot](#copilot)
 - [csharp](#csharp)
 - [css](#css)
@@ -297,6 +301,7 @@
 - [memory](#memory)
 - [mergerfs](#mergerfs)
 - [messaging](#messaging)
+- [meta-prompting](#meta-prompting)
 - [microsoft-office](#microsoft-office)
 - [minifier](#minifier)
 - [mistral](#mistral)
@@ -440,6 +445,7 @@
 - [smarthome](#smarthome)
 - [software-engineering](#software-engineering)
 - [solid](#solid)
+- [spec-driven-development](#spec-driven-development)
 - [speech-recognition](#speech-recognition)
 - [speech-to-text](#speech-to-text)
 - [splade](#splade)
@@ -558,6 +564,7 @@
 
 ## a2a-protocol 
 
+- [i-am-bee/agentstack](https://github.com/i-am-bee/agentstack) - Deploy and share agents with open infrastructure, free from vendor lock-in.
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 
 ## aceternity-ui 
@@ -574,13 +581,22 @@
 
 ## agentic-ai 
 
+- [i-am-bee/agentstack](https://github.com/i-am-bee/agentstack) - Deploy and share agents with open infrastructure, free from vendor lock-in.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
+
+## agentic-engineering 
+
+- [i-am-bee/agentstack](https://github.com/i-am-bee/agentstack) - Deploy and share agents with open infrastructure, free from vendor lock-in.
 
 ## agentic-framework 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+
+## agentic-systems 
+
+- [i-am-bee/agentstack](https://github.com/i-am-bee/agentstack) - Deploy and share agents with open infrastructure, free from vendor lock-in.
 
 ## agentic-workflow 
 
@@ -645,6 +661,10 @@
 ## ai-memory 
 
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
+
+## ai-platform 
+
+- [i-am-bee/agentstack](https://github.com/i-am-bee/agentstack) - Deploy and share agents with open infrastructure, free from vendor lock-in.
 
 ## ai-tools 
 
@@ -918,6 +938,7 @@
 
 ## claude-code 
 
+- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [pedramamini/Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
 - [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
@@ -1032,6 +1053,10 @@
 ## contentful 
 
 - [sbezludny/content-type-to-typescript](https://github.com/sbezludny/content-type-to-typescript) - Converts Contentful Models to Typescript Definitions
+
+## context-engineering 
+
+- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 
 ## copilot 
 
@@ -1870,6 +1895,7 @@
 
 ## mcp-gateway 
 
+- [i-am-bee/agentstack](https://github.com/i-am-bee/agentstack) - Deploy and share agents with open infrastructure, free from vendor lock-in.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 
@@ -1911,6 +1937,10 @@
 ## messaging 
 
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
+
+## meta-prompting 
+
+- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 
 ## microsoft-office 
 
@@ -2650,6 +2680,10 @@
 ## solid 
 
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 The composable framework to build advanced applications with flexibility and stability.
+
+## spec-driven-development 
+
+- [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 
 ## speech-recognition 
 
