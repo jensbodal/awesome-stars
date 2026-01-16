@@ -219,7 +219,7 @@
 
 ## TypeScript 
 
-- [mikehostetler/wreckit](https://github.com/mikehostetler/wreckit) - My code is in danger!
+- [mikehostetler/wreckit](https://github.com/mikehostetler/wreckit) - Wreck it Ralph Wiggum - My code is in danger!
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [pedramamini/Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
 - [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
@@ -249,7 +249,7 @@
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [stormkit-io/react-starter](https://github.com/stormkit-io/react-starter) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
-- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 The composable framework to build advanced applications with flexibility and stability.
+- [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Composable framework to build (advanced) applications with flexibility and stability.
 - [axe-me/vite-plugin-node](https://github.com/axe-me/vite-plugin-node) - Vite plugin to run your node dev server with HMR!
 - [cyco130/vavite](https://github.com/cyco130/vavite) - Develop server-side applications with Vite
 - [sbezludny/content-type-to-typescript](https://github.com/sbezludny/content-type-to-typescript) - Converts Contentful Models to Typescript Definitions
