@@ -2255,6 +2255,7 @@
 
 ## others 
 
+- [joshuadavidthomas/opencode-agent-memory](https://github.com/joshuadavidthomas/opencode-agent-memory) - Memory blocks for OpenCode, inspired by Letta.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [joysey/genspark-to-obsidian](https://github.com/joysey/genspark-to-obsidian) - Save Genspark conversations to Obsidian markdown file with one click. Batch export Genspark conversations
 - [mikehostetler/wreckit](https://github.com/mikehostetler/wreckit) - Wreck it Ralph Wiggum - My code is in danger!
