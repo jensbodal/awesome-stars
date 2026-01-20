@@ -122,6 +122,7 @@
 
 ## Others 
 
+- [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
 - [joysey/genspark-to-obsidian](https://github.com/joysey/genspark-to-obsidian) - Save Genspark conversations to Obsidian markdown file with one click. Batch export Genspark conversations
 - [BayramAnnakov/notebooklm-youtube-skill](https://github.com/BayramAnnakov/notebooklm-youtube-skill) - A Claude skill that automates NotebookLM notebook creation from YouTube videos — research featured people, add sources, and generate Audio Overviews automatically
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -223,6 +224,7 @@
 
 ## TypeScript 
 
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Reasoning ledger and context engine for Claude Code. By using Thoughtbox, agents create an addressable record of their thinking process, which they can then view and improve on while still in-flight.
 - [joshuadavidthomas/opencode-agent-memory](https://github.com/joshuadavidthomas/opencode-agent-memory) - Memory blocks for OpenCode, inspired by Letta.
 - [mikehostetler/wreckit](https://github.com/mikehostetler/wreckit) - Wreck it Ralph Wiggum - My code is in danger!
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
