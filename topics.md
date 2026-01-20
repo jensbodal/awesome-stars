@@ -149,6 +149,7 @@
 
 ## ai-agents 
 
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Reasoning ledger and context engine for Claude Code. By using Thoughtbox, agents create an addressable record of their thinking process, which they can then view and improve on while still in-flight.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [pedramamini/Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -456,6 +457,7 @@
 
 ## mcp 
 
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Reasoning ledger and context engine for Claude Code. By using Thoughtbox, agents create an addressable record of their thinking process, which they can then view and improve on while still in-flight.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [hamidra/yamcp](https://github.com/hamidra/yamcp) - Organize your MCP servers in local workspaces, share them as Yet-Another-MCP through a single command
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
@@ -557,6 +559,7 @@
 
 ## others 
 
+- [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
 - [joshuadavidthomas/opencode-agent-memory](https://github.com/joshuadavidthomas/opencode-agent-memory) - Memory blocks for OpenCode, inspired by Letta.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [yuyu1815/GenSpark-Export](https://github.com/yuyu1815/GenSpark-Export) - 
