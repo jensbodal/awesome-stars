@@ -84,6 +84,7 @@
 - [claude](#claude)
 - [claude-ai](#claude-ai)
 - [claude-code](#claude-code)
+- [claudecode](#claudecode)
 - [cli](#cli)
 - [cli-framework](#cli-framework)
 - [cli-generator](#cli-generator)
@@ -347,6 +348,7 @@
 - [nx](#nx)
 - [nx-workspace](#nx-workspace)
 - [object-detection](#object-detection)
+- [observability](#observability)
 - [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
@@ -410,6 +412,7 @@
 - [react-testing-library](#react-testing-library)
 - [reactive](#reactive)
 - [reactjs](#reactjs)
+- [reasoning](#reasoning)
 - [recorder](#recorder)
 - [registry](#registry)
 - [reinforcement-learning](#reinforcement-learning)
@@ -649,6 +652,7 @@
 
 ## ai-agents 
 
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Reasoning ledger and context engine for Claude Code. By using Thoughtbox, agents create an addressable record of their thinking process, which they can then view and improve on while still in-flight.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [pedramamini/Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -935,6 +939,7 @@
 
 ## claude 
 
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Reasoning ledger and context engine for Claude Code. By using Thoughtbox, agents create an addressable record of their thinking process, which they can then view and improve on while still in-flight.
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - Claude Chat Exporter is a JavaScript tool that allows you to export your conversations with Claude AI into a well-formatted Markdown file.
 - [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
@@ -950,10 +955,15 @@
 
 ## claude-code 
 
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Reasoning ledger and context engine for Claude Code. By using Thoughtbox, agents create an addressable record of their thinking process, which they can then view and improve on while still in-flight.
 - [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [pedramamini/Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
 - [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+
+## claudecode 
+
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Reasoning ledger and context engine for Claude Code. By using Thoughtbox, agents create an addressable record of their thinking process, which they can then view and improve on while still in-flight.
 
 ## cli 
 
@@ -1903,6 +1913,7 @@
 
 ## mcp 
 
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Reasoning ledger and context engine for Claude Code. By using Thoughtbox, agents create an addressable record of their thinking process, which they can then view and improve on while still in-flight.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [hamidra/yamcp](https://github.com/hamidra/yamcp) - Organize your MCP servers in local workspaces, share them as Yet-Another-MCP through a single command
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
@@ -2005,6 +2016,7 @@
 
 ## model-context-protocol 
 
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Reasoning ledger and context engine for Claude Code. By using Thoughtbox, agents create an addressable record of their thinking process, which they can then view and improve on while still in-flight.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 
 ## modelcontextprotocol 
@@ -2146,6 +2158,10 @@
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 
+## observability 
+
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Reasoning ledger and context engine for Claude Code. By using Thoughtbox, agents create an addressable record of their thinking process, which they can then view and improve on while still in-flight.
+
 ## obsidian 
 
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
@@ -2255,6 +2271,7 @@
 
 ## others 
 
+- [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
 - [joshuadavidthomas/opencode-agent-memory](https://github.com/joshuadavidthomas/opencode-agent-memory) - Memory blocks for OpenCode, inspired by Letta.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [joysey/genspark-to-obsidian](https://github.com/joysey/genspark-to-obsidian) - Save Genspark conversations to Obsidian markdown file with one click. Batch export Genspark conversations
@@ -2530,6 +2547,10 @@
 ## reactjs 
 
 - [stormkit-io/react-starter](https://github.com/stormkit-io/react-starter) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
+
+## reasoning 
+
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Reasoning ledger and context engine for Claude Code. By using Thoughtbox, agents create an addressable record of their thinking process, which they can then view and improve on while still in-flight.
 
 ## recorder 
 
