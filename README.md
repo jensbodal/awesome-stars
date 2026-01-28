@@ -373,6 +373,7 @@
 - [overlayfs](#overlayfs)
 - [package-manager](#package-manager)
 - [password-manager](#password-manager)
+- [pddl](#pddl)
 - [pdf](#pdf)
 - [performance](#performance)
 - [perplexity](#perplexity)
@@ -2364,6 +2365,10 @@
 ## password-manager 
 
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
+
+## pddl 
+
+- [PlanExeOrg/PlanExe](https://github.com/PlanExeOrg/PlanExe) - Create a plan from a description in minutes
 
 ## pdf 
 
