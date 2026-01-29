@@ -66,6 +66,7 @@
 
 ## Go 
 
+- [bm611/arcane](https://github.com/bm611/arcane) - minimal ai chat TUI
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
