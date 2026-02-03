@@ -197,6 +197,7 @@
 
 ## Rust 
 
+- [lynaghk/vibe](https://github.com/lynaghk/vibe) - Easy Linux virtual machine on MacOS to sandbox LLM agents.
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
