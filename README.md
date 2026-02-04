@@ -1210,11 +1210,11 @@
 
 ## diffusion 
 
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Machine Learning Research Platform designed for frontier AI/ML workflows. Local, on-prem, or in the cloud. Open source.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 
 ## diffusion-models 
 
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Machine Learning Research Platform designed for frontier AI/ML workflows. Local, on-prem, or in the cloud. Open source.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 
 ## dify 
 
@@ -1278,7 +1278,7 @@
 ## electron 
 
 - [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server) - Server for forwarding iMessages to clients within the BlueBubbles App ecosystem
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Machine Learning Research Platform designed for frontier AI/ML workflows. Local, on-prem, or in the cloud. Open source.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 
 ## email 
@@ -1754,7 +1754,7 @@
 ## llama 
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Machine Learning Research Platform designed for frontier AI/ML workflows. Local, on-prem, or in the cloud. Open source.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 
 ## llama3 
 
@@ -1821,7 +1821,7 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Spectral-Finance/lux](https://github.com/Spectral-Finance/lux) - Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly auto
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Machine Learning Research Platform designed for frontier AI/ML workflows. Local, on-prem, or in the cloud. Open source.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 
 ## lm-studio 
@@ -1856,7 +1856,7 @@
 
 ## lora 
 
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Machine Learning Research Platform designed for frontier AI/ML workflows. Local, on-prem, or in the cloud. Open source.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 
 ## low-code 
 
@@ -2017,7 +2017,7 @@
 
 ## mlx 
 
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Machine Learning Research Platform designed for frontier AI/ML workflows. Local, on-prem, or in the cloud. Open source.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 
 ## mmo 
 
@@ -2622,7 +2622,7 @@
 
 ## rlhf 
 
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Machine Learning Research Platform designed for frontier AI/ML workflows. Local, on-prem, or in the cloud. Open source.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 
 ## rollup 
 
@@ -2953,7 +2953,7 @@
 
 ## transformers 
 
-- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - Open Source Machine Learning Research Platform designed for frontier AI/ML workflows. Local, on-prem, or in the cloud. Open source.
+- [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 
 ## tsx 
 
