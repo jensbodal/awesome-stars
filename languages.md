@@ -149,6 +149,8 @@
 
 ## Python 
 
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
+- [oracle/wayflow](https://github.com/oracle/wayflow) - WayFlow is a powerful, intuitive Python library for building sophisticated AI-powered assistants. It is a reference runtime for Agent Spec, with native support for all Agent Spec Agents and Flows.
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models
 - [i-am-bee/agentstack](https://github.com/i-am-bee/agentstack) - Deploy and share agents with open infrastructure, free from vendor lock-in.
 - [mksunny1/general-intelligence](https://github.com/mksunny1/general-intelligence) - A framework for building self-organizing, reactive knowledge systems that learn, identify, and compose patterns through structural similarity.
@@ -227,11 +229,12 @@
 
 ## TypeScript 
 
+- [the-artinet-project/artinet](https://github.com/the-artinet-project/artinet) - an agentic orchestration and deployment platform
 - [datalayer/agent-runtimes](https://github.com/datalayer/agent-runtimes) - 🤖 🚀 Agent Runtimes - Expose AI Agents through multiple protocols.
 - [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
 - [sachnun/opencode-smart-title](https://github.com/sachnun/opencode-smart-title) - Auto-generate meaningful session titles for OpenCode conversations using AI
 - [a2aproject/a2a-inspector](https://github.com/a2aproject/a2a-inspector) - Validation Tools for A2A Agents
-- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox lets you assemble and orchestrate ad-hoc agent teams over MCP. Orchestrate Claude Code, Codex, Cursor, Antigravity, Cline, Roo Code, and any other agents you want  to work together.
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is a Git-inspired workspace for Agent Teams.
 - [joshuadavidthomas/opencode-agent-memory](https://github.com/joshuadavidthomas/opencode-agent-memory) - Memory blocks for OpenCode, inspired by Letta.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [pedramamini/Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
