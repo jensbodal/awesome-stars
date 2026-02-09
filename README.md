@@ -9,6 +9,7 @@
 - [a2a](#a2a)
 - [a2a-protocol](#a2a-protocol)
 - [aceternity-ui](#aceternity-ui)
+- [acp](#acp)
 - [agent](#agent)
 - [agentic-ai](#agentic-ai)
 - [agentic-engineering](#agentic-engineering)
@@ -271,6 +272,7 @@
 - [llamacpp](#llamacpp)
 - [llamaindex](#llamaindex)
 - [llm](#llm)
+- [llm-agent](#llm-agent)
 - [llm-agents](#llm-agents)
 - [llm-gateway](#llm-gateway)
 - [llm-ui](#llm-ui)
@@ -407,6 +409,7 @@
 - [proxmox](#proxmox)
 - [proxmox-ve](#proxmox-ve)
 - [pwa](#pwa)
+- [pydantic](#pydantic)
 - [python](#python)
 - [python3](#python3)
 - [qwen3](#qwen3)
@@ -587,8 +590,13 @@
 
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
 
+## acp 
+
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
+
 ## agent 
 
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -635,6 +643,7 @@
 
 ## ai 
 
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 - [datalayer/agent-runtimes](https://github.com/datalayer/agent-runtimes) - 🤖 🚀 Agent Runtimes - Expose AI Agents through multiple protocols.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
@@ -664,7 +673,7 @@
 
 ## ai-agents 
 
-- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox lets you assemble and orchestrate ad-hoc agent teams over MCP. Orchestrate Claude Code, Codex, Cursor, Antigravity, Cline, Roo Code, and any other agents you want  to work together.
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is a Git-inspired workspace for Agent Teams.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [pedramamini/Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -952,7 +961,7 @@
 
 ## claude 
 
-- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox lets you assemble and orchestrate ad-hoc agent teams over MCP. Orchestrate Claude Code, Codex, Cursor, Antigravity, Cline, Roo Code, and any other agents you want  to work together.
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is a Git-inspired workspace for Agent Teams.
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - Claude Chat Exporter is a JavaScript tool that allows you to export your conversations with Claude AI into a well-formatted Markdown file.
 - [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
@@ -968,7 +977,7 @@
 
 ## claude-code 
 
-- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox lets you assemble and orchestrate ad-hoc agent teams over MCP. Orchestrate Claude Code, Codex, Cursor, Antigravity, Cline, Roo Code, and any other agents you want  to work together.
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is a Git-inspired workspace for Agent Teams.
 - [glittercowboy/get-shit-done](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [pedramamini/Maestro](https://github.com/pedramamini/Maestro) - Agent Orchestration Command Center
 - [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
@@ -976,7 +985,7 @@
 
 ## claudecode 
 
-- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox lets you assemble and orchestrate ad-hoc agent teams over MCP. Orchestrate Claude Code, Codex, Cursor, Antigravity, Cline, Roo Code, and any other agents you want  to work together.
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is a Git-inspired workspace for Agent Teams.
 
 ## cli 
 
@@ -1747,6 +1756,7 @@
 
 ## litellm 
 
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 
 ## live 
@@ -1776,6 +1786,7 @@
 
 ## llm 
 
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
@@ -1800,6 +1811,10 @@
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [aidatatools/ollama-benchmark](https://github.com/aidatatools/ollama-benchmark) - LLM Benchmark for Throughput via Ollama (Local LLMs)
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
+
+## llm-agent 
+
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 
 ## llm-agents 
 
@@ -1931,7 +1946,8 @@
 
 ## mcp 
 
-- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox lets you assemble and orchestrate ad-hoc agent teams over MCP. Orchestrate Claude Code, Codex, Cursor, Antigravity, Cline, Roo Code, and any other agents you want  to work together.
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is a Git-inspired workspace for Agent Teams.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [hamidra/yamcp](https://github.com/hamidra/yamcp) - Organize your MCP servers in local workspaces, share them as Yet-Another-MCP through a single command
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
@@ -2039,7 +2055,7 @@
 
 ## model-context-protocol 
 
-- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox lets you assemble and orchestrate ad-hoc agent teams over MCP. Orchestrate Claude Code, Codex, Cursor, Antigravity, Cline, Roo Code, and any other agents you want  to work together.
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is a Git-inspired workspace for Agent Teams.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 
 ## modelcontextprotocol 
@@ -2187,7 +2203,7 @@
 
 ## observability 
 
-- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox lets you assemble and orchestrate ad-hoc agent teams over MCP. Orchestrate Claude Code, Codex, Cursor, Antigravity, Cline, Roo Code, and any other agents you want  to work together.
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is a Git-inspired workspace for Agent Teams.
 
 ## obsidian 
 
@@ -2298,6 +2314,8 @@
 
 ## others 
 
+- [the-artinet-project/artinet](https://github.com/the-artinet-project/artinet) - an agentic orchestration and deployment platform
+- [oracle/wayflow](https://github.com/oracle/wayflow) - WayFlow is a powerful, intuitive Python library for building sophisticated AI-powered assistants. It is a reference runtime for Agent Spec, with native support for all Agent Spec Agents and Flows.
 - [lynaghk/vibe](https://github.com/lynaghk/vibe) - Easy Linux virtual machine on MacOS to sandbox LLM agents.
 - [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
 - [sachnun/opencode-smart-title](https://github.com/sachnun/opencode-smart-title) - Auto-generate meaningful session titles for OpenCode conversations using AI
@@ -2520,6 +2538,10 @@
 
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 
+## pydantic 
+
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
+
 ## python 
 
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
@@ -2594,7 +2616,7 @@
 
 ## reasoning 
 
-- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox lets you assemble and orchestrate ad-hoc agent teams over MCP. Orchestrate Claude Code, Codex, Cursor, Antigravity, Cline, Roo Code, and any other agents you want  to work together.
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is a Git-inspired workspace for Agent Teams.
 
 ## recorder 
 
@@ -3237,6 +3259,7 @@
 
 ## yaml 
 
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more.
 
 ## yarn 
