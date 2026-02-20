@@ -206,6 +206,7 @@
 - [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - The agentic OS
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
@@ -248,11 +249,10 @@
 - [pkgxdev/mcp](https://github.com/pkgxdev/mcp) - can your ai run anything? yes it can
 - [pkgxdev/pkgo](https://github.com/pkgxdev/pkgo) - Package…GO!
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - The agentic OS
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [hariiy-sys/Obsidian-NetClip](https://github.com/hariiy-sys/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [buhe/mcp_rss](https://github.com/buhe/mcp_rss) - MCP RSS is a Model Context Protocol (MCP) server for interacting with RSS feeds.
