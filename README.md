@@ -60,6 +60,7 @@
 - [azure-openai](#azure-openai)
 - [babel](#babel)
 - [babyagi](#babyagi)
+- [backend](#backend)
 - [bash](#bash)
 - [bashscript](#bashscript)
 - [bedrock](#bedrock)
@@ -143,11 +144,14 @@
 - [design-systems](#design-systems)
 - [deskband](#deskband)
 - [dev-server](#dev-server)
+- [dev-tools](#dev-tools)
 - [developer-tools](#developer-tools)
 - [development](#development)
+- [development-tools](#development-tools)
 - [diffusion](#diffusion)
 - [diffusion-models](#diffusion-models)
 - [dify](#dify)
+- [dioxus](#dioxus)
 - [direnv](#direnv)
 - [distributed](#distributed)
 - [docker](#docker)
@@ -208,6 +212,7 @@
 - [gpt-engineer](#gpt-engineer)
 - [graph](#graph)
 - [guardrails](#guardrails)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [hacktoberfest2025](#hacktoberfest2025)
 - [hassio](#hassio)
@@ -225,6 +230,7 @@
 - [html](#html)
 - [html-to-markdown](#html-to-markdown)
 - [http-client](#http-client)
+- [https](#https)
 - [image-generation](#image-generation)
 - [imba](#imba)
 - [imessage](#imessage)
@@ -287,6 +293,7 @@
 - [local-first](#local-first)
 - [local-llm](#local-llm)
 - [localai](#localai)
+- [localhost](#localhost)
 - [long-term-memory](#long-term-memory)
 - [lora](#lora)
 - [low-code](#low-code)
@@ -404,6 +411,7 @@
 - [postman](#postman)
 - [privacy-first](#privacy-first)
 - [productivity](#productivity)
+- [productivity-tools](#productivity-tools)
 - [programming](#programming)
 - [prometheus-exporter](#prometheus-exporter)
 - [prompt](#prompt)
@@ -412,6 +420,7 @@
 - [prompts](#prompts)
 - [proxmox](#proxmox)
 - [proxmox-ve](#proxmox-ve)
+- [proxy](#proxy)
 - [pwa](#pwa)
 - [pydantic](#pydantic)
 - [pypi-package](#pypi-package)
@@ -435,12 +444,14 @@
 - [reranking](#reranking)
 - [retrieval](#retrieval)
 - [retrieval-augmented-generation](#retrieval-augmented-generation)
+- [reverse-proxy](#reverse-proxy)
 - [rlhf](#rlhf)
 - [rollup](#rollup)
 - [rtmp](#rtmp)
 - [rtsp](#rtsp)
 - [runtime](#runtime)
 - [rust](#rust)
+- [rust-lang](#rust-lang)
 - [rwkv](#rwkv)
 - [script](#script)
 - [scripts](#scripts)
@@ -481,6 +492,7 @@
 - [srt](#srt)
 - [sse](#sse)
 - [ssh](#ssh)
+- [ssl-certificates](#ssl-certificates)
 - [ssr](#ssr)
 - [stable-diffusion](#stable-diffusion)
 - [static-site-generator](#static-site-generator)
@@ -512,11 +524,13 @@
 - [testing-library](#testing-library)
 - [text-generation](#text-generation)
 - [time](#time)
+- [tls](#tls)
 - [todoist](#todoist)
 - [toolbar](#toolbar)
 - [transcription](#transcription)
 - [transfer-learning](#transfer-learning)
 - [transformers](#transformers)
+- [tree-sitter](#tree-sitter)
 - [tsx](#tsx)
 - [tts](#tts)
 - [tui](#tui)
@@ -554,6 +568,7 @@
 - [web-app](#web-app)
 - [web-clipper](#web-clipper)
 - [web-components](#web-components)
+- [web-development](#web-development)
 - [web-framework](#web-framework)
 - [web-performance](#web-performance)
 - [web-scraping](#web-scraping)
@@ -667,6 +682,7 @@
 - [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 - [datalayer/agent-runtimes](https://github.com/datalayer/agent-runtimes) - 🤖 🚀 Agent Runtimes - Expose AI Agents through multiple protocols.
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
+- [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
@@ -877,6 +893,10 @@
 
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 
+## backend 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
+
 ## bash 
 
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
@@ -1012,6 +1032,7 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
 - [d-kimuson/claude-code-viewer](https://github.com/d-kimuson/claude-code-viewer) - A full-featured web-based Claude Code client that provides complete interactive functionality for managing Claude Code projects
+- [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
 ## claudecode 
@@ -1020,6 +1041,8 @@
 
 ## cli 
 
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
+- [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -1247,13 +1270,22 @@
 
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 
+## dev-tools 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
+
 ## developer-tools 
 
+- [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 
 ## development 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
+## development-tools 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 
 ## diffusion 
 
@@ -1266,6 +1298,10 @@
 ## dify 
 
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
+
+## dioxus 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 
 ## direnv 
 
@@ -1529,6 +1565,10 @@
 
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 
+## gui 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
+
 ## hacktoberfest 
 
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -1604,6 +1644,10 @@
 ## http-client 
 
 - [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
+
+## https 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 
 ## image-generation 
 
@@ -1773,6 +1817,7 @@
 
 ## linux 
 
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
@@ -1825,6 +1870,7 @@
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l
 - [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
+- [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
@@ -1908,6 +1954,10 @@
 
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+
+## localhost 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 
 ## long-term-memory 
 
@@ -2383,7 +2433,6 @@
 - [i-am-bee/agentstack](https://github.com/i-am-bee/agentstack) - Deploy, and share agents with open infrastructure, free from vendor lock-in.
 - [mikehostetler/wreckit](https://github.com/mikehostetler/wreckit) - Wreck it Ralph Wiggum - My code is in danger!
 - [BayramAnnakov/notebooklm-youtube-skill](https://github.com/BayramAnnakov/notebooklm-youtube-skill) - A Claude skill that automates NotebookLM notebook creation from YouTube videos — research featured people, add sources, and generate Audio Overviews automatically
-- [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 - [pedramamini/MCPeek](https://github.com/pedramamini/MCPeek) - MCPeek is a "swiss army knife" for AI hackers to explore and interact with MCP endpoints, supporting both HTTP/S and STDIO transport mechanisms.
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering) - "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A frontier, first-principles handbook inspired
 - [ai-that-works/ai-that-works](https://github.com/ai-that-works/ai-that-works) - 🦄 ai that works - every tuesday 10 AM PST
@@ -2558,6 +2607,10 @@
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 
+## productivity-tools 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
+
 ## programming 
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
@@ -2589,6 +2642,10 @@
 ## proxmox-ve 
 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
+## proxy 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 
 ## pwa 
 
@@ -2707,6 +2764,10 @@
 - [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 
+## reverse-proxy 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
+
 ## rlhf 
 
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
@@ -2731,10 +2792,16 @@
 
 ## rust 
 
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
+- [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+
+## rust-lang 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 
 ## rwkv 
 
@@ -2913,6 +2980,10 @@
 
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
 
+## ssl-certificates 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
+
 ## ssr 
 
 - [stormkit-io/react-starter](https://github.com/stormkit-io/react-starter) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
@@ -3042,6 +3113,10 @@
 
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 
+## tls 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
+
 ## todoist 
 
 - [karlhadwen/todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
@@ -3061,6 +3136,10 @@
 ## transformers 
 
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
+
+## tree-sitter 
+
+- [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 
 ## tsx 
 
@@ -3240,6 +3319,10 @@
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
+## web-development 
+
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
+
 ## web-framework 
 
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Composable framework to build advanced applications with flexibility and stability.
@@ -3351,6 +3434,7 @@
 
 ## zero-config 
 
+- [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
 
 ## zerotier 
