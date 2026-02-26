@@ -162,6 +162,7 @@
 - [dotnet](#dotnet)
 - [dotnet-core](#dotnet-core)
 - [dts](#dts)
+- [edge-ai](#edge-ai)
 - [edge-extension](#edge-extension)
 - [editor](#editor)
 - [education](#education)
@@ -268,6 +269,7 @@
 - [libfuse](#libfuse)
 - [libp2p](#libp2p)
 - [libraries](#libraries)
+- [lightweight](#lightweight)
 - [linux](#linux)
 - [linux-foundation](#linux-foundation)
 - [lit-element](#lit-element)
@@ -373,6 +375,7 @@
 - [ollama-client](#ollama-client)
 - [ollama-ui](#ollama-ui)
 - [ollama-webui](#ollama-webui)
+- [on-device](#on-device)
 - [open-source](#open-source)
 - [open-webui](#open-webui)
 - [openai](#openai)
@@ -426,6 +429,7 @@
 - [pypi-package](#pypi-package)
 - [python](#python)
 - [python3](#python3)
+- [pytorch](#pytorch)
 - [qwen3](#qwen3)
 - [rag](#rag)
 - [react](#react)
@@ -483,6 +487,7 @@
 - [solid](#solid)
 - [spec-driven-development](#spec-driven-development)
 - [speech-recognition](#speech-recognition)
+- [speech-synthesis](#speech-synthesis)
 - [speech-to-text](#speech-to-text)
 - [splade](#splade)
 - [sponsor](#sponsor)
@@ -523,6 +528,7 @@
 - [testing](#testing)
 - [testing-library](#testing-library)
 - [text-generation](#text-generation)
+- [text-to-speech](#text-to-speech)
 - [time](#time)
 - [tls](#tls)
 - [todoist](#todoist)
@@ -558,7 +564,9 @@
 - [vitejs](#vitejs)
 - [vitest](#vitest)
 - [vm](#vm)
+- [voice-ai](#voice-ai)
 - [voice-assistant](#voice-assistant)
+- [voice-cloning](#voice-cloning)
 - [vscode](#vscode)
 - [vscode-extension](#vscode-extension)
 - [vue](#vue)
@@ -820,6 +828,7 @@
 
 ## audio-generation 
 
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 
 ## audio-to-text 
@@ -1164,6 +1173,7 @@
 ## conversational-ai 
 
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - Claude Chat Exporter is a JavaScript tool that allows you to export your conversations with Claude AI into a well-formatted Markdown file.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
 
 ## copilot 
 
@@ -1345,6 +1355,10 @@
 ## dts 
 
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
+
+## edge-ai 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
 
 ## edge-extension 
 
@@ -1815,6 +1829,10 @@
 
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 
+## lightweight 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+
 ## linux 
 
 - [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
@@ -1850,6 +1868,7 @@
 
 ## llama 
 
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 
@@ -2348,6 +2367,10 @@
 
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
+## on-device 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+
 ## open-source 
 
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l
@@ -2449,7 +2472,6 @@
 - [tattwamasi/starry-eye](https://github.com/tattwamasi/starry-eye) - 
 - [drewbitt/starred](https://github.com/drewbitt/starred) - 
 - [sierra-research/tau-bench](https://github.com/sierra-research/tau-bench) - Code and Data for Tau-Bench
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 
 - [pkgxdev/mcp](https://github.com/pkgxdev/mcp) - can your ai run anything? yes it can
 - [pkgxdev/pkgo](https://github.com/pkgxdev/pkgo) - Package…GO!
 - [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - The agentic OS
@@ -2673,6 +2695,10 @@
 ## python3 
 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+
+## pytorch 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
 
 ## qwen3 
 
@@ -2942,6 +2968,10 @@
 
 - [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
 
+## speech-synthesis 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+
 ## speech-to-text 
 
 - [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
@@ -3012,6 +3042,7 @@
 
 ## streaming 
 
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
 
 ## streamlit 
@@ -3109,6 +3140,10 @@
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 
+## text-to-speech 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+
 ## time 
 
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
@@ -3147,6 +3182,7 @@
 
 ## tts 
 
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 
 ## tui 
@@ -3273,9 +3309,17 @@
 
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
+## voice-ai 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+
 ## voice-assistant 
 
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
+
+## voice-cloning 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
 
 ## vscode 
 
