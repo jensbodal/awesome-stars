@@ -86,6 +86,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
+- [pytorch](#pytorch)
 - [rag](#rag)
 - [react](#react)
 - [react-native](#react-native)
@@ -106,6 +107,7 @@
 - [swiftui](#swiftui)
 - [terminal](#terminal)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [tui](#tui)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -637,7 +639,6 @@
 - [tattwamasi/starry-eye](https://github.com/tattwamasi/starry-eye) - 
 - [drewbitt/starred](https://github.com/drewbitt/starred) - 
 - [sierra-research/tau-bench](https://github.com/sierra-research/tau-bench) - Code and Data for Tau-Bench
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 
 - [pkgxdev/mcp](https://github.com/pkgxdev/mcp) - can your ai run anything? yes it can
 - [pkgxdev/pkgo](https://github.com/pkgxdev/pkgo) - Package…GO!
 - [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - The agentic OS
@@ -739,6 +740,10 @@
 ## python3 
 
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+
+## pytorch 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
 
 ## rag 
 
@@ -858,6 +863,10 @@
 ## testing 
 
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+
+## text-to-speech 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
 
 ## tui 
 
