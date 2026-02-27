@@ -407,6 +407,7 @@
 - [playwright](#playwright)
 - [plex](#plex)
 - [plugin](#plugin)
+- [pmbok](#pmbok)
 - [pnpm](#pnpm)
 - [portainer](#portainer)
 - [postgres](#postgres)
@@ -2474,7 +2475,7 @@
 - [sierra-research/tau-bench](https://github.com/sierra-research/tau-bench) - Code and Data for Tau-Bench
 - [pkgxdev/mcp](https://github.com/pkgxdev/mcp) - can your ai run anything? yes it can
 - [pkgxdev/pkgo](https://github.com/pkgxdev/pkgo) - Package…GO!
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - The agentic OS
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Autopilot and the agent network
 - [WildEval/ZeroEval](https://github.com/WildEval/ZeroEval) - A simple unified framework for evaluating LLMs
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [Simple-Efficient/RL-Factory](https://github.com/Simple-Efficient/RL-Factory) - Train your Agent model via our easy and efficient framework
@@ -2597,6 +2598,10 @@
 ## plugin 
 
 - [Mag-nus/Mag-Plugins](https://github.com/Mag-nus/Mag-Plugins) - A group of plugins that helps take away some of the burden of playing Asherons Call.  Many of the tools are designed to help those who play multiple accounts at once.
+
+## pmbok 
+
+- [PlanExeOrg/PlanExe](https://github.com/PlanExeOrg/PlanExe) - Create a plan from a description in minutes
 
 ## pnpm 
 
