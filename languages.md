@@ -96,7 +96,7 @@
 
 - [yuyu1815/GenSpark-Export](https://github.com/yuyu1815/GenSpark-Export) - 
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - Claude Chat Exporter is a JavaScript tool that allows you to export your conversations with Claude AI into a well-formatted Markdown file.
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [Couchraver/claude-chatgpt-gemini-downloader](https://github.com/Couchraver/claude-chatgpt-gemini-downloader) - Chrome extension to export AI conversations from Claude, ChatGPT, and Gemini
 - [SensAI-PT/RAGMeUp](https://github.com/SensAI-PT/RAGMeUp) - Generic rag framework to apply the power of LLMs on any given dataset
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
@@ -125,7 +125,7 @@
 
 ## Others 
 
-- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,400+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney.  收集1400+ X热门AI生图prompt分享贴，每周更新
+- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,500+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney.  收集1500+ X热门AI生图prompt分享贴，每周更新
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
 - [joysey/genspark-to-obsidian](https://github.com/joysey/genspark-to-obsidian) - Save Genspark conversations to Obsidian markdown file with one click. Batch export Genspark conversations
 - [BayramAnnakov/notebooklm-youtube-skill](https://github.com/BayramAnnakov/notebooklm-youtube-skill) - A Claude skill that automates NotebookLM notebook creation from YouTube videos — research featured people, add sources, and generate Audio Overviews automatically
@@ -175,7 +175,7 @@
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Connect any LLM to your internal knowledge sources and chat with it in real time alongside your team. OSS alternative to NotebookLM, Perplexity, and Glean. Join our Discord: https://discord.gg/ejRNvft
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
 - [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 - [Simple-Efficient/RL-Factory](https://github.com/Simple-Efficient/RL-Factory) - Train your Agent model via our easy and efficient framework
 - [Nardien/agent-distillation](https://github.com/Nardien/agent-distillation) - Official Code Repository for the paper "Distilling LLM Agent into Small Models with Retrieval and Code Tools"
