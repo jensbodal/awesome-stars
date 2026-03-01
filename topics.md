@@ -223,7 +223,7 @@
 
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
 ## c 
@@ -819,7 +819,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 
