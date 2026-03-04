@@ -323,6 +323,7 @@
 - [mcp-tools](#mcp-tools)
 - [media-server](#media-server)
 - [memory](#memory)
+- [memory-engine](#memory-engine)
 - [mergerfs](#mergerfs)
 - [messaging](#messaging)
 - [meta-prompting](#meta-prompting)
@@ -2128,6 +2129,10 @@
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
 
 ## memory 
+
+- [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
+
+## memory-engine 
 
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 
