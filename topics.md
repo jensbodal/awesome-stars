@@ -41,6 +41,7 @@
 - [electron](#electron)
 - [embedded](#embedded)
 - [emulator](#emulator)
+- [fastapi](#fastapi)
 - [firebase](#firebase)
 - [frontend](#frontend)
 - [generative-ai](#generative-ai)
@@ -345,6 +346,10 @@
 ## emulator 
 
 - [ACEmulator/ACE](https://github.com/ACEmulator/ACE) - Asheron's Call server emulator.
+
+## fastapi 
+
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
 
 ## firebase 
 
