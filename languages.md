@@ -99,7 +99,7 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [Couchraver/claude-chatgpt-gemini-downloader](https://github.com/Couchraver/claude-chatgpt-gemini-downloader) - Chrome extension to export AI conversations from Claude, ChatGPT, and Gemini
 - [SensAI-PT/RAGMeUp](https://github.com/SensAI-PT/RAGMeUp) - Generic rag framework to apply the power of LLMs on any given dataset
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configration.
 - [kazuph/mcp-pocket](https://github.com/kazuph/mcp-pocket) - 🔗 Model Context Protocol (MCP) Server for retrieving saved articles from Pocket API and loading them into Claude
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [barhun/extensionless](https://github.com/barhun/extensionless) - Node.js loader for import specifiers as file paths without extensions or as directory paths
