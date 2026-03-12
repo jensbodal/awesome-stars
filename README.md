@@ -8,7 +8,6 @@
 - [1password](#1password)
 - [a2a](#a2a)
 - [a2a-protocol](#a2a-protocol)
-- [aceternity-ui](#aceternity-ui)
 - [acp](#acp)
 - [agent](#agent)
 - [agent2agent](#agent2agent)
@@ -368,7 +367,6 @@
 - [note-taking](#note-taking)
 - [notebooklm](#notebooklm)
 - [notebooks](#notebooks)
-- [notion](#notion)
 - [npm](#npm)
 - [nvr](#nvr)
 - [nx](#nx)
@@ -491,7 +489,6 @@
 - [signal-cli](#signal-cli)
 - [simulators](#simulators)
 - [skills](#skills)
-- [slack](#slack)
 - [smarthome](#smarthome)
 - [software-engineering](#software-engineering)
 - [solid](#solid)
@@ -633,10 +630,6 @@
 
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
-
-## aceternity-ui 
-
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
 
 ## acp 
 
@@ -2347,10 +2340,6 @@
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 
-## notion 
-
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
-
 ## npm 
 
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
@@ -2500,6 +2489,7 @@
 
 ## others 
 
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [johnlindquist/dotagent](https://github.com/johnlindquist/dotagent) - Universal AI agent configuration parser and converter
 - [entur/tavla](https://github.com/entur/tavla) - 🖥 A customizable departure board for all public transport in Norway
 - [the-artinet-project/artinet](https://github.com/the-artinet-project/artinet) - an agentic orchestration and deployment platform
@@ -3008,10 +2998,6 @@
 ## skills 
 
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
-
-## slack 
-
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
 
 ## smarthome 
 
