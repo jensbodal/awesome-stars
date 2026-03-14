@@ -59,6 +59,7 @@
 - [autonomous-agents](#autonomous-agents)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [aws-cdk](#aws-cdk)
 - [aws-secrets-manager](#aws-secrets-manager)
 - [azure-openai](#azure-openai)
 - [babel](#babel)
@@ -80,6 +81,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [careers](#careers)
 - [cd](#cd)
+- [cdk](#cdk)
 - [certification](#certification)
 - [chat](#chat)
 - [chat-bot](#chat-bot)
@@ -116,6 +118,7 @@
 - [components](#components)
 - [composable-architecture](#composable-architecture)
 - [configuration](#configuration)
+- [constructs](#constructs)
 - [container](#container)
 - [contentful](#contentful)
 - [context-engineering](#context-engineering)
@@ -131,6 +134,7 @@
 - [d3](#d3)
 - [dag](#dag)
 - [dash](#dash)
+- [data](#data)
 - [data-flow](#data-flow)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
@@ -162,6 +166,11 @@
 - [documentation](#documentation)
 - [dom](#dom)
 - [dotenv](#dotenv)
+- [dotfile](#dotfile)
+- [dotfile-management](#dotfile-management)
+- [dotfile-manager](#dotfile-manager)
+- [dotfile-managers](#dotfile-managers)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [dotnet-core](#dotnet-core)
 - [dts](#dts)
@@ -205,6 +214,7 @@
 - [genai](#genai)
 - [generative-ai](#generative-ai)
 - [generative-art](#generative-art)
+- [generator](#generator)
 - [genspark](#genspark)
 - [ghostty](#ghostty)
 - [gif](#gif)
@@ -251,6 +261,7 @@
 - [jest](#jest)
 - [jitsi](#jitsi)
 - [js](#js)
+- [jsii](#jsii)
 - [json-rpc](#json-rpc)
 - [jsx](#jsx)
 - [keepassxc](#keepassxc)
@@ -453,6 +464,8 @@
 - [registry](#registry)
 - [reinforcement-learning](#reinforcement-learning)
 - [repl](#repl)
+- [repository-management](#repository-management)
+- [repository-tools](#repository-tools)
 - [reranking](#reranking)
 - [retrieval](#retrieval)
 - [retrieval-augmented-generation](#retrieval-augmented-generation)
@@ -465,6 +478,7 @@
 - [rust](#rust)
 - [rust-lang](#rust-lang)
 - [rwkv](#rwkv)
+- [scaffolding](#scaffolding)
 - [script](#script)
 - [scripts](#scripts)
 - [search-interface](#search-interface)
@@ -559,6 +573,7 @@
 - [unionfs](#unionfs)
 - [update](#update)
 - [utilities](#utilities)
+- [validation](#validation)
 - [vector-database](#vector-database)
 - [vector-search](#vector-search)
 - [verdaccio](#verdaccio)
@@ -908,6 +923,10 @@
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 
+## aws-cdk 
+
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
+
 ## aws-secrets-manager 
 
 - [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
@@ -996,6 +1015,10 @@
 ## cd 
 
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
+
+## cdk 
+
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 
 ## certification 
 
@@ -1179,7 +1202,13 @@
 
 ## configuration 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [davestewart/alias-hq](https://github.com/davestewart/alias-hq) - The end-to-end solution for configuring, refactoring, maintaining and using path aliases
+
+## constructs 
+
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 
 ## container 
 
@@ -1241,6 +1270,10 @@
 ## dash 
 
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
+
+## data 
+
+- [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 
 ## data-flow 
 
@@ -1370,6 +1403,26 @@
 ## dotenv 
 
 - [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
+
+## dotfile 
+
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+
+## dotfile-management 
+
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+
+## dotfile-manager 
+
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+
+## dotfile-managers 
+
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+
+## dotfiles 
+
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 
 ## dotnet 
 
@@ -1559,6 +1612,10 @@
 
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 
+## generator 
+
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
+
 ## genspark 
 
 - [yuyu1815/GenSpark-Export](https://github.com/yuyu1815/GenSpark-Export) - 
@@ -1617,6 +1674,7 @@
 
 ## hacktoberfest 
 
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
 - [bennycode/ts2esm](https://github.com/bennycode/ts2esm) - Transforms CommonJS projects into ESM.
@@ -1768,6 +1826,10 @@
 
 - [bennycode/ts2esm](https://github.com/bennycode/ts2esm) - Transforms CommonJS projects into ESM.
 
+## jsii 
+
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
+
 ## json-rpc 
 
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
@@ -1818,6 +1880,7 @@
 
 ## kubernetes 
 
+- [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 
 ## langchain 
@@ -1871,6 +1934,7 @@
 
 ## linux 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
@@ -2052,6 +2116,7 @@
 
 ## macos 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l
 - [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server) - Server for forwarding iMessages to clients within the BlueBubbles App ecosystem
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
@@ -2831,6 +2896,14 @@
 
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 
+## repository-management 
+
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
+
+## repository-tools 
+
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
+
 ## reranking 
 
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
@@ -2888,6 +2961,10 @@
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 
+## scaffolding 
+
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
+
 ## script 
 
 - [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
@@ -2922,6 +2999,7 @@
 
 ## security 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 
@@ -3172,6 +3250,7 @@
 
 ## templates 
 
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 
 ## terminal 
@@ -3263,6 +3342,7 @@
 
 ## typescript 
 
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open source alternative to NotebookLM for teams. Join our Discord: https://discord.gg/ejRNvftDp9
 - [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server) - Server for forwarding iMessages to clients within the BlueBubbles App ecosystem
@@ -3304,6 +3384,10 @@
 ## utilities 
 
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+
+## validation 
+
+- [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 
 ## vector-database 
 
@@ -3482,6 +3566,7 @@
 
 ## windows 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
