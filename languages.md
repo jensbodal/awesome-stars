@@ -67,6 +67,8 @@
 
 ## Go 
 
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [bm611/arcane](https://github.com/bm611/arcane) - minimal ai chat TUI
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -235,6 +237,7 @@
 
 ## TypeScript 
 
+- [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 - [johnlindquist/dotagent](https://github.com/johnlindquist/dotagent) - Universal AI agent configuration parser and converter
 - [entur/tavla](https://github.com/entur/tavla) - 🖥 A customizable departure board for all public transport in Norway
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
