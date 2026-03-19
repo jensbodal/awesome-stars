@@ -553,6 +553,7 @@
 - [tls](#tls)
 - [tmux](#tmux)
 - [todoist](#todoist)
+- [token-optimization](#token-optimization)
 - [toolbar](#toolbar)
 - [transcription](#transcription)
 - [transfer-learning](#transfer-learning)
@@ -3294,6 +3295,10 @@
 ## todoist 
 
 - [karlhadwen/todoist](https://github.com/karlhadwen/todoist) - Subscribe to my YouTube channel: https://bit.ly/CognitiveSurge - Building Todoist Using React
+
+## token-optimization 
+
+- [dean0x/skim](https://github.com/dean0x/skim) - Skim intelligently strips function bodies and implementation details while preserving the information AI agents need to understand your code.
 
 ## toolbar 
 
