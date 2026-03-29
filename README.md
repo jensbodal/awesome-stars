@@ -28,6 +28,7 @@
 - [ai-tools](#ai-tools)
 - [aiagentframework](#aiagentframework)
 - [aiagents](#aiagents)
+- [alerts](#alerts)
 - [aliases](#aliases)
 - [alpine](#alpine)
 - [amazon-q](#amazon-q)
@@ -137,6 +138,7 @@
 - [d3](#d3)
 - [dag](#dag)
 - [dash](#dash)
+- [dashboard](#dashboard)
 - [data](#data)
 - [data-flow](#data-flow)
 - [data-science](#data-science)
@@ -166,6 +168,7 @@
 - [distributed](#distributed)
 - [docker](#docker)
 - [docker-compose](#docker-compose)
+- [docker-monitoring](#docker-monitoring)
 - [documentation](#documentation)
 - [dom](#dom)
 - [dotenv](#dotenv)
@@ -356,6 +359,7 @@
 - [model-context-protocol](#model-context-protocol)
 - [modelcontextprotocol](#modelcontextprotocol)
 - [modules](#modules)
+- [monitoring](#monitoring)
 - [monorepo](#monorepo)
 - [monorepos](#monorepos)
 - [moonraker](#moonraker)
@@ -614,6 +618,7 @@
 - [web-scraping](#web-scraping)
 - [web3](#web3)
 - [webcam](#webcam)
+- [webhooks](#webhooks)
 - [webpack](#webpack)
 - [webrtc](#webrtc)
 - [webstorm](#webstorm)
@@ -718,6 +723,7 @@
 
 ## ai 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [minhtribk12/code-review-ai](https://github.com/minhtribk12/code-review-ai) - Multi-agent code review CLI using NVIDIA Nemotron 3 Super
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
@@ -792,6 +798,10 @@
 ## aiagents 
 
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
+
+## alerts 
+
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 
 ## aliases 
 
@@ -1299,6 +1309,10 @@
 
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
 
+## dashboard 
+
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
+
 ## data 
 
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
@@ -1412,6 +1426,7 @@
 
 ## docker 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
@@ -1420,6 +1435,10 @@
 ## docker-compose 
 
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
+
+## docker-monitoring 
+
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 
 ## documentation 
 
@@ -1666,6 +1685,7 @@
 
 ## go 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 
 ## gpg 
@@ -1757,6 +1777,7 @@
 
 ## homelab 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## homelab-setup 
@@ -1907,6 +1928,7 @@
 
 ## kubernetes 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 
@@ -2331,6 +2353,10 @@
 ## modules 
 
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
+
+## monitoring 
+
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 
 ## monorepo 
 
@@ -2843,10 +2869,12 @@
 
 ## proxmox 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## proxmox-ve 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## proxy 
@@ -2905,6 +2933,7 @@
 
 ## react 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [stormkit-io/react-starter](https://github.com/stormkit-io/react-starter) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
@@ -3068,6 +3097,7 @@
 
 ## self-hosted 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -3414,6 +3444,7 @@
 
 ## typescript 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -3602,6 +3633,10 @@
 ## webcam 
 
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+
+## webhooks 
+
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 
 ## webpack 
 
