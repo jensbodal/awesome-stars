@@ -190,6 +190,7 @@
 - [embedded-systems](#embedded-systems)
 - [embeddings](#embeddings)
 - [emulator](#emulator)
+- [energy-based-model](#energy-based-model)
 - [entity-framework-core](#entity-framework-core)
 - [environment](#environment)
 - [environment-manager](#environment-manager)
@@ -231,6 +232,7 @@
 - [gpt-4](#gpt-4)
 - [gpt-engineer](#gpt-engineer)
 - [graph](#graph)
+- [graph-algorithms](#graph-algorithms)
 - [guardrails](#guardrails)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
@@ -589,6 +591,7 @@
 - [validation](#validation)
 - [vector-database](#vector-database)
 - [vector-search](#vector-search)
+- [vector-search-engine](#vector-search-engine)
 - [verdaccio](#verdaccio)
 - [vertex-ai](#vertex-ai)
 - [vibe-coding](#vibe-coding)
@@ -1528,6 +1531,10 @@
 
 - [ACEmulator/ACE](https://github.com/ACEmulator/ACE) - Asheron's Call server emulator.
 
+## energy-based-model 
+
+- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - VectorDB library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
+
 ## entity-framework-core 
 
 - [ACEmulator/ACE](https://github.com/ACEmulator/ACE) - Asheron's Call server emulator.
@@ -1710,6 +1717,10 @@
 ## graph 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
+
+## graph-algorithms 
+
+- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - VectorDB library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
 
 ## guardrails 
 
@@ -3495,6 +3506,7 @@
 
 ## vector-database 
 
+- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - VectorDB library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
@@ -3502,6 +3514,10 @@
 ## vector-search 
 
 - [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
+
+## vector-search-engine 
+
+- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - VectorDB library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
 
 ## verdaccio 
 
