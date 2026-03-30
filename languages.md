@@ -204,6 +204,7 @@
 
 ## Rust 
 
+- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - VectorDB library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
 - [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 - [lynaghk/vibe](https://github.com/lynaghk/vibe) - Easy Linux virtual machine on MacOS to sandbox LLM agents.
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
