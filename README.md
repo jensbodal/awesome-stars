@@ -448,6 +448,7 @@
 - [postgresql](#postgresql)
 - [postman](#postman)
 - [privacy-first](#privacy-first)
+- [privacy-first-ai](#privacy-first-ai)
 - [productivity](#productivity)
 - [productivity-tools](#productivity-tools)
 - [programming](#programming)
@@ -2851,6 +2852,10 @@
 - [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
 
 ## privacy-first 
+
+- [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
+
+## privacy-first-ai 
 
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 
