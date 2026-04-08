@@ -129,7 +129,6 @@
 - [joysey/genspark-to-obsidian](https://github.com/joysey/genspark-to-obsidian) - Save Genspark conversations to Obsidian markdown file with one click. Batch export Genspark conversations
 - [BayramAnnakov/notebooklm-youtube-skill](https://github.com/BayramAnnakov/notebooklm-youtube-skill) - A Claude skill that automates NotebookLM notebook creation from YouTube videos — research featured people, add sources, and generate Audio Overviews automatically
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [danielrosehill/My-AI-Stack](https://github.com/danielrosehill/My-AI-Stack) - Periodically updated documentation about current AI stack/favorite components
 - [danielrosehill/Weird-AI-Bots](https://github.com/danielrosehill/Weird-AI-Bots) - Some configurations for offbeat AI roleplay characters just for fun
 - [tattwamasi/starry-eye](https://github.com/tattwamasi/starry-eye) - 
