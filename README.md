@@ -458,6 +458,7 @@
 - [prompt-templates](#prompt-templates)
 - [prompts](#prompts)
 - [proxmox](#proxmox)
+- [proxmox-backup-server](#proxmox-backup-server)
 - [proxmox-ve](#proxmox-ve)
 - [proxy](#proxy)
 - [pwa](#pwa)
@@ -2899,6 +2900,10 @@
 
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+
+## proxmox-backup-server 
+
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 
 ## proxmox-ve 
 
