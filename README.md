@@ -339,6 +339,7 @@
 - [matrix-org](#matrix-org)
 - [matrix-server](#matrix-server)
 - [mcp](#mcp)
+- [mcp-apps](#mcp-apps)
 - [mcp-client](#mcp-client)
 - [mcp-gateway](#mcp-gateway)
 - [mcp-host](#mcp-host)
@@ -2260,6 +2261,10 @@
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
+
+## mcp-apps 
+
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
 ## mcp-client 
 
