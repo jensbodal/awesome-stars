@@ -7,7 +7,9 @@
 
 - [1password](#1password)
 - [a2a](#a2a)
+- [a2a-mcp](#a2a-mcp)
 - [a2a-protocol](#a2a-protocol)
+- [a2a-server](#a2a-server)
 - [acp](#acp)
 - [agent](#agent)
 - [agent-memory](#agent-memory)
@@ -663,9 +665,17 @@
 - [datalayer/agent-runtimes](https://github.com/datalayer/agent-runtimes) - 🤖 🚀 Agent Runtimes - Expose AI Agents through multiple protocols.
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 
+## a2a-mcp 
+
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+
 ## a2a-protocol 
 
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
+- [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+
+## a2a-server 
+
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 
 ## acp 
