@@ -91,6 +91,7 @@
 - [chat-bot](#chat-bot)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
+- [child-process](#child-process)
 - [chroma](#chroma)
 - [chrome-extension](#chrome-extension)
 - [ci](#ci)
@@ -526,6 +527,7 @@
 - [smarthome](#smarthome)
 - [software-engineering](#software-engineering)
 - [solid](#solid)
+- [spawn](#spawn)
 - [spec-driven-development](#spec-driven-development)
 - [speech-recognition](#speech-recognition)
 - [speech-synthesis](#speech-synthesis)
@@ -1095,6 +1097,10 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
+
+## child-process 
+
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
 ## chroma 
 
@@ -3239,6 +3245,11 @@
 ## solid 
 
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Composable framework to build advanced applications with flexibility and stability.
+
+## spawn 
+
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
 ## spec-driven-development 
 
