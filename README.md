@@ -69,6 +69,7 @@
 - [babel](#babel)
 - [babyagi](#babyagi)
 - [backend](#backend)
+- [baml](#baml)
 - [bash](#bash)
 - [bashscript](#bashscript)
 - [bedrock](#bedrock)
@@ -488,6 +489,7 @@
 - [repl](#repl)
 - [repository-management](#repository-management)
 - [repository-tools](#repository-tools)
+- [rerank](#rerank)
 - [reranking](#reranking)
 - [retrieval](#retrieval)
 - [retrieval-augmented-generation](#retrieval-augmented-generation)
@@ -997,6 +999,10 @@
 ## backend 
 
 - [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
+
+## baml 
+
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 
 ## bash 
 
@@ -2689,6 +2695,16 @@
 
 ## others 
 
+- [karpathy/reader3](https://github.com/karpathy/reader3) - Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
+- [karpathy/hn-time-capsule](https://github.com/karpathy/hn-time-capsule) - Analyzing Hacker News discussions from a decade ago in hindsight with LLMs
+- [karpathy/lifejs](https://github.com/karpathy/lifejs) - Artificial Life simulator using canvas. Based on https://github.com/karpathy/scriptsbots
+- [karpathy/sqlitedict](https://github.com/karpathy/sqlitedict) - Persistent dict, backed by sqlite3 and pickle, multithread-safe.
+- [karpathy/optim](https://github.com/karpathy/optim) - A numeric optimization package for Torch.
+- [karpathy/karpathy.github.io](https://github.com/karpathy/karpathy.github.io) - my blog
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
+- [karpathy/jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for ex
+- [karpathy/rustbpe](https://github.com/karpathy/rustbpe) - The missing tiktoken training code
 - [anthropics/buffa](https://github.com/anthropics/buffa) - Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
@@ -3063,6 +3079,10 @@
 ## repository-tools 
 
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
+
+## rerank 
+
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## reranking 
 
