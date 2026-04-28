@@ -19,6 +19,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Others](#others)
 - [Python](#python)
@@ -45,6 +46,7 @@
 
 ## CSS 
 
+- [karpathy/karpathy.github.io](https://github.com/karpathy/karpathy.github.io) - my blog
 - [aws-solutions/real-time-iot-device-monitoring-with-kinesis](https://github.com/aws-solutions/real-time-iot-device-monitoring-with-kinesis) - AWS Solution with a CloudFormation template for an ingestion mechanism for analytics about device connectivity and activity (i.e. sensor readings), as well as a dashboard for visualizing this data.
 
 ## Clojure 
@@ -85,6 +87,7 @@
 
 ## HTML 
 
+- [karpathy/jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for ex
 - [WildEval/ZeroEval](https://github.com/WildEval/ZeroEval) - A simple unified framework for evaluating LLMs
 - [icco/resume](https://github.com/icco/resume) - A markdown port of my resume
 
@@ -124,12 +127,17 @@
 - [ed-donner/action](https://github.com/ed-donner/action) - Repo to accompany Jon Krohn and Ed Donner's workshop on Agentic AI in Action at ODSC East
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 
+## Lua 
+
+- [karpathy/optim](https://github.com/karpathy/optim) - A numeric optimization package for Torch.
+
 ## MDX 
 
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 
 ## Others 
 
+- [karpathy/lifejs](https://github.com/karpathy/lifejs) - Artificial Life simulator using canvas. Based on https://github.com/karpathy/scriptsbots
 - [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - 
 - [mlopscommunity/Coding-Agents-Conference-skills](https://github.com/mlopscommunity/Coding-Agents-Conference-skills) - list of skills that folks talked about on the stage at the coding agent conference March 3rd
 - [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,300+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney
@@ -157,6 +165,11 @@
 
 ## Python 
 
+- [karpathy/reader3](https://github.com/karpathy/reader3) - Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
+- [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
+- [karpathy/hn-time-capsule](https://github.com/karpathy/hn-time-capsule) - Analyzing Hacker News discussions from a decade ago in hindsight with LLMs
+- [karpathy/sqlitedict](https://github.com/karpathy/sqlitedict) - Persistent dict, backed by sqlite3 and pickle, multithread-safe.
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [minhtribk12/code-review-ai](https://github.com/minhtribk12/code-review-ai) - Multi-agent code review CLI using NVIDIA Nemotron 3 Super
@@ -214,6 +227,7 @@
 
 ## Rust 
 
+- [karpathy/rustbpe](https://github.com/karpathy/rustbpe) - The missing tiktoken training code
 - [anthropics/buffa](https://github.com/anthropics/buffa) - Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
 - [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - VectorDB library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
 - [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
