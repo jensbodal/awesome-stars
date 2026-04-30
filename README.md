@@ -972,7 +972,7 @@
 
 ## awesome-list 
 
-- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,300+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney
+- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,400+ curated trending AI image prompts from X, ranked by engagement. Works with NanoBanana, GPT Image 2, Midjourney
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
 
@@ -1851,7 +1851,7 @@
 
 ## image-generation 
 
-- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,300+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney
+- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,400+ curated trending AI image prompts from X, ranked by engagement. Works with NanoBanana, GPT Image 2, Midjourney
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## imba 
@@ -2373,7 +2373,7 @@
 
 ## midjourney 
 
-- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,300+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney
+- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,400+ curated trending AI image prompts from X, ranked by engagement. Works with NanoBanana, GPT Image 2, Midjourney
 
 ## minifier 
 
@@ -2460,11 +2460,11 @@
 
 ## nanobanana 
 
-- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,300+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney
+- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,400+ curated trending AI image prompts from X, ranked by engagement. Works with NanoBanana, GPT Image 2, Midjourney
 
 ## nanobananapro 
 
-- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,300+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney
+- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,400+ curated trending AI image prompts from X, ranked by engagement. Works with NanoBanana, GPT Image 2, Midjourney
 
 ## natural-language-processing 
 
@@ -2933,7 +2933,7 @@
 
 ## prompt-engineering 
 
-- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,300+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney
+- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,400+ curated trending AI image prompts from X, ranked by engagement. Works with NanoBanana, GPT Image 2, Midjourney
 
 ## prompt-templates 
 
@@ -2941,7 +2941,7 @@
 
 ## prompts 
 
-- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,300+ curated trending AI image prompts from X/Twitter, ranked by engagement. Works with NanoBanana Pro, GPT Image, Midjourney
+- [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,400+ curated trending AI image prompts from X, ranked by engagement. Works with NanoBanana, GPT Image 2, Midjourney
 
 ## proxmox 
 
