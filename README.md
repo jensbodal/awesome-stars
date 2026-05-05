@@ -27,6 +27,7 @@
 - [ai-gateway](#ai-gateway)
 - [ai-infrastructure](#ai-infrastructure)
 - [ai-memory](#ai-memory)
+- [ai-planning](#ai-planning)
 - [ai-tools](#ai-tools)
 - [aiagentframework](#aiagentframework)
 - [aiagents](#aiagents)
@@ -442,6 +443,7 @@
 - [pkm](#pkm)
 - [planner](#planner)
 - [planning](#planning)
+- [planning-algorithms](#planning-algorithms)
 - [playground](#playground)
 - [playwright](#playwright)
 - [plex](#plex)
@@ -808,6 +810,10 @@
 
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
+
+## ai-planning 
+
+- [PlanExeOrg/PlanExe](https://github.com/PlanExeOrg/PlanExe) - Create a plan from a description in minutes
 
 ## ai-tools 
 
@@ -2855,6 +2861,10 @@
 - [PlanExeOrg/PlanExe](https://github.com/PlanExeOrg/PlanExe) - Create a plan from a description in minutes
 
 ## planning 
+
+- [PlanExeOrg/PlanExe](https://github.com/PlanExeOrg/PlanExe) - Create a plan from a description in minutes
+
+## planning-algorithms 
 
 - [PlanExeOrg/PlanExe](https://github.com/PlanExeOrg/PlanExe) - Create a plan from a description in minutes
 
