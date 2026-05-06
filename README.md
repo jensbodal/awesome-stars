@@ -1572,7 +1572,7 @@
 
 ## energy-based-model 
 
-- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - VectorDB library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
+- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
 
 ## entity-framework-core 
 
@@ -1759,7 +1759,7 @@
 
 ## graph-algorithms 
 
-- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - VectorDB library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
+- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
 
 ## guardrails 
 
@@ -3593,7 +3593,7 @@
 
 ## vector-database 
 
-- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - VectorDB library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
+- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
@@ -3604,7 +3604,7 @@
 
 ## vector-search-engine 
 
-- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - VectorDB library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
+- [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
 
 ## verdaccio 
 
