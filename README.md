@@ -2743,7 +2743,7 @@
 - [Couchraver/claude-chatgpt-gemini-downloader](https://github.com/Couchraver/claude-chatgpt-gemini-downloader) - Chrome extension to export AI conversations from Claude, ChatGPT, and Gemini
 - [ed-donner/action](https://github.com/ed-donner/action) - Repo to accompany Jon Krohn and Ed Donner's workshop on Agentic AI in Action at ODSC East
 - [jensbodal/ProxmoxVE](https://github.com/jensbodal/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
-- [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Text Embeddings
+- [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Embeddings, Retrieval, and Reranking
 - [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
 - [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) - 
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
