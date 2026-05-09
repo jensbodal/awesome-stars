@@ -261,6 +261,7 @@
 
 ## TypeScript 
 
+- [badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts) - 
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
