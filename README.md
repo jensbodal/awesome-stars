@@ -865,6 +865,7 @@
 ## anthropic 
 
 - [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
+- [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - Report issues related to MCP integration with Claude here.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
@@ -1134,6 +1135,7 @@
 ## claude 
 
 - [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
+- [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - Report issues related to MCP integration with Claude here.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - Claude Chat Exporter is a JavaScript tool that allows you to export your conversations with Claude AI into a well-formatted Markdown file.
@@ -1145,6 +1147,7 @@
 
 ## claude-ai 
 
+- [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - Report issues related to MCP integration with Claude here.
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - Claude Chat Exporter is a JavaScript tool that allows you to export your conversations with Claude AI into a well-formatted Markdown file.
 - [Hugo-COLLIN/SaveMyPhind-conversation-exporter](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) - 🚀 Save my Chatbot: Download your ChatGPT, Claude, Perplexity and Phind conversations into markdown files. ⏩ Now available in the Chrome Web Store and the Firefox Add-ons Store!
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
@@ -2272,6 +2275,7 @@
 
 ## mcp 
 
+- [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - Report issues related to MCP integration with Claude here.
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
@@ -2403,6 +2407,7 @@
 
 ## model-context-protocol 
 
+- [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - Report issues related to MCP integration with Claude here.
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
@@ -2702,6 +2707,7 @@
 ## others 
 
 - [badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts) - 
+- [jensbodal/agents-js](https://github.com/jensbodal/agents-js) - Agent Protocol SDK
 - [karpathy/reader3](https://github.com/karpathy/reader3) - Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [karpathy/hn-time-capsule](https://github.com/karpathy/hn-time-capsule) - Analyzing Hacker News discussions from a decade ago in hindsight with LLMs
@@ -2715,7 +2721,6 @@
 - [anthropics/buffa](https://github.com/anthropics/buffa) - Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-- [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - 
 - [anthropics/terragrunt](https://github.com/anthropics/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [mlopscommunity/Coding-Agents-Conference-skills](https://github.com/mlopscommunity/Coding-Agents-Conference-skills) - list of skills that folks talked about on the stage at the coding agent conference March 3rd
