@@ -566,6 +566,7 @@
 
 ## mcp 
 
+- [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - Report issues related to MCP integration with Claude here.
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-l
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
@@ -682,6 +683,7 @@
 ## others 
 
 - [badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts) - 
+- [jensbodal/agents-js](https://github.com/jensbodal/agents-js) - Agent Protocol SDK
 - [karpathy/reader3](https://github.com/karpathy/reader3) - Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [karpathy/hn-time-capsule](https://github.com/karpathy/hn-time-capsule) - Analyzing Hacker News discussions from a decade ago in hindsight with LLMs
@@ -695,7 +697,6 @@
 - [anthropics/buffa](https://github.com/anthropics/buffa) - Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-- [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - 
 - [anthropics/terragrunt](https://github.com/anthropics/terragrunt) - Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
