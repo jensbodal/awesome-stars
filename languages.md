@@ -138,7 +138,7 @@
 ## Others 
 
 - [karpathy/lifejs](https://github.com/karpathy/lifejs) - Artificial Life simulator using canvas. Based on https://github.com/karpathy/scriptsbots
-- [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - 
+- [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - Report issues related to MCP integration with Claude here.
 - [mlopscommunity/Coding-Agents-Conference-skills](https://github.com/mlopscommunity/Coding-Agents-Conference-skills) - list of skills that folks talked about on the stage at the coding agent conference March 3rd
 - [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,400+ curated trending AI image prompts from X, ranked by engagement. Works with NanoBanana, GPT Image 2, Midjourney
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) - 🤖 Awesome list of AI Agents
@@ -262,6 +262,7 @@
 ## TypeScript 
 
 - [badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts) - 
+- [jensbodal/agents-js](https://github.com/jensbodal/agents-js) - Agent Protocol SDK
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
