@@ -357,6 +357,7 @@
 - [media-server](#media-server)
 - [memory](#memory)
 - [memory-engine](#memory-engine)
+- [memory-retrieval](#memory-retrieval)
 - [mergerfs](#mergerfs)
 - [messaging](#messaging)
 - [meta-prompting](#meta-prompting)
@@ -2372,6 +2373,10 @@
 
 - [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 
+## memory-retrieval 
+
+- [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
+
 ## mergerfs 
 
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
@@ -2713,6 +2718,7 @@
 
 ## others 
 
+- [Broomy-AI/broomy](https://github.com/Broomy-AI/broomy) - Tool for making it easy to work with lots of AI agents
 - [badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts) - 
 - [jensbodal/agents-js](https://github.com/jensbodal/agents-js) - Agent Protocol SDK
 - [karpathy/reader3](https://github.com/karpathy/reader3) - Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
