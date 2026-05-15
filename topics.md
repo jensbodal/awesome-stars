@@ -848,7 +848,7 @@
 
 ## pytorch 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## rag 
 
@@ -976,7 +976,7 @@
 
 ## text-to-speech 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## tui 
 
