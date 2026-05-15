@@ -476,6 +476,7 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
+- [qwen](#qwen)
 - [qwen3](#qwen3)
 - [rag](#rag)
 - [react](#react)
@@ -486,6 +487,7 @@
 - [react-testing-library](#react-testing-library)
 - [reactive](#reactive)
 - [reactjs](#reactjs)
+- [realtime-api](#realtime-api)
 - [reasoning](#reasoning)
 - [recorder](#recorder)
 - [registry](#registry)
@@ -924,7 +926,7 @@
 
 ## audio-generation 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## audio-to-text 
@@ -1320,7 +1322,7 @@
 ## conversational-ai 
 
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - Claude Chat Exporter is a JavaScript tool that allows you to export your conversations with Claude AI into a well-formatted Markdown file.
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## copilot 
 
@@ -1539,7 +1541,7 @@
 
 ## edge-ai 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## edge-extension 
 
@@ -2049,7 +2051,7 @@
 
 ## lightweight 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## linux 
 
@@ -2087,7 +2089,7 @@
 
 ## llama 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 
@@ -2636,7 +2638,7 @@
 
 ## on-device 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## open-source 
 
@@ -3020,7 +3022,11 @@
 
 ## pytorch 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+
+## qwen 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## qwen3 
 
@@ -3079,6 +3085,10 @@
 ## reactjs 
 
 - [stormkit-io/react-starter](https://github.com/stormkit-io/react-starter) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
+
+## realtime-api 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## reasoning 
 
@@ -3309,7 +3319,7 @@
 
 ## speech-synthesis 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## speech-to-text 
 
@@ -3385,7 +3395,7 @@
 
 ## streaming 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
 
 ## streamlit 
@@ -3487,7 +3497,7 @@
 
 ## text-to-speech 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## time 
 
@@ -3535,7 +3545,7 @@
 
 ## tts 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## tui 
@@ -3679,15 +3689,16 @@
 
 ## voice-ai 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## voice-assistant 
 
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 
 ## voice-cloning 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - 100M parameter lightweight conversational text-to-speech model with breaths, laughter, multi-speaker dialogue, voice cloning, and streaming. Llama-based, on-device.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## vscode 
 
@@ -3767,6 +3778,7 @@
 
 ## webrtc 
 
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 
@@ -3785,6 +3797,7 @@
 
 ## whisper 
 
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 - [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
 
 ## whisper-cpp 
