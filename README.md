@@ -417,6 +417,7 @@
 - [ollama-ui](#ollama-ui)
 - [ollama-webui](#ollama-webui)
 - [on-device](#on-device)
+- [open-claw](#open-claw)
 - [open-source](#open-source)
 - [open-webui](#open-webui)
 - [openai](#openai)
@@ -2652,6 +2653,10 @@
 ## on-device 
 
 - [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+
+## open-claw 
+
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 
 ## open-source 
 
