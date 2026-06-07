@@ -54,6 +54,7 @@
 - [audio-generation](#audio-generation)
 - [audio-to-text](#audio-to-text)
 - [aufs](#aufs)
+- [authentification](#authentification)
 - [autocompletion](#autocompletion)
 - [autogen](#autogen)
 - [autogen-extension](#autogen-extension)
@@ -944,6 +945,10 @@
 ## aufs 
 
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
+
+## authentification 
+
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## autocompletion 
 
