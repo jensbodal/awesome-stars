@@ -43,6 +43,7 @@
 - [anthropic](#anthropic)
 - [api](#api)
 - [api-client](#api-client)
+- [api-gateway](#api-gateway)
 - [api-rest](#api-rest)
 - [api-testing](#api-testing)
 - [apis](#apis)
@@ -224,6 +225,7 @@
 - [function-calling](#function-calling)
 - [fuse](#fuse)
 - [gateway](#gateway)
+- [gateway-api](#gateway-api)
 - [gemini](#gemini)
 - [genai](#genai)
 - [generative-ai](#generative-ai)
@@ -528,6 +530,7 @@
 - [server-side-rendering](#server-side-rendering)
 - [serverless](#serverless)
 - [serverless-framework](#serverless-framework)
+- [service-mesh](#service-mesh)
 - [shell](#shell)
 - [shell-extension](#shell-extension)
 - [signal](#signal)
@@ -741,6 +744,7 @@
 
 ## agents 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
@@ -760,6 +764,7 @@
 
 ## ai 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
@@ -814,6 +819,7 @@
 
 ## ai-gateway 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 
 ## ai-infrastructure 
@@ -894,6 +900,10 @@
 ## api-client 
 
 - [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
+
+## api-gateway 
+
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 
 ## api-rest 
 
@@ -1708,6 +1718,10 @@
 
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 
+## gateway-api 
+
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
+
 ## gemini 
 
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
@@ -2021,6 +2035,7 @@
 
 ## kubernetes 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
@@ -2303,6 +2318,7 @@
 
 ## mcp 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
 - [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - Report issues related to MCP integration with Claude here.
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
@@ -2341,6 +2357,7 @@
 
 ## mcp-gateway 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 
@@ -2743,6 +2760,8 @@
 
 ## others 
 
+- [osscontainertools/kaniko](https://github.com/osscontainertools/kaniko) - Build Container Images In Kubernetes
+- [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review.
 - [Broomy-AI/broomy](https://github.com/Broomy-AI/broomy) - Tool for making it easy to work with lots of AI agents
 - [badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts) - 
 - [jensbodal/agents-js](https://github.com/jensbodal/agents-js) - Agent Protocol SDK
@@ -3154,6 +3173,7 @@
 
 ## reverse-proxy 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 
 ## rlhf 
@@ -3180,6 +3200,7 @@
 
 ## rust 
 
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [dean0x/skim](https://github.com/dean0x/skim) - The most intelligent context optimization engine for coding agents. Code-aware AST parsing across 17 languages. Command rewriting. Test, build, and git output compression. Token budget cascading. Buil
@@ -3275,6 +3296,10 @@
 ## serverless-framework 
 
 - [stormkit-io/react-starter](https://github.com/stormkit-io/react-starter) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
+
+## service-mesh 
+
+- [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 
 ## shell 
 
