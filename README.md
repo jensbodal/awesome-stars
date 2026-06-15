@@ -2760,6 +2760,7 @@
 
 ## others 
 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [osscontainertools/kaniko](https://github.com/osscontainertools/kaniko) - Build Container Images In Kubernetes
 - [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review.
 - [Broomy-AI/broomy](https://github.com/Broomy-AI/broomy) - Tool for making it easy to work with lots of AI agents
