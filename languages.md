@@ -20,6 +20,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
+- [Objective-C](#objective-c)
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
@@ -131,6 +132,10 @@
 ## Lua 
 
 - [karpathy/optim](https://github.com/karpathy/optim) - A numeric optimization package for Torch.
+
+## Objective-C 
+
+- [rxhanson/MASShortcut](https://github.com/rxhanson/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store. More details:
 
 ## Others 
 
@@ -253,6 +258,7 @@
 
 ## Swift 
 
+- [rxhanson/KeyboardShortcuts](https://github.com/rxhanson/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts to your macOS app in minutes
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
