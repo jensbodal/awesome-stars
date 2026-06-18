@@ -425,6 +425,7 @@
 - [openai](#openai)
 - [openai-api](#openai-api)
 - [openai-chatgpt](#openai-chatgpt)
+- [openai-compatible](#openai-compatible)
 - [openai-proxy](#openai-proxy)
 - [openapi](#openapi)
 - [openclaw](#openclaw)
@@ -2714,6 +2715,10 @@
 
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 
+## openai-compatible 
+
+- [minhtribk12/code-review-ai](https://github.com/minhtribk12/code-review-ai) - Multi-agent code review CLI using NVIDIA Nemotron 3 Super
+
 ## openai-proxy 
 
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
@@ -2756,6 +2761,8 @@
 
 ## others 
 
+- [rxhanson/MASShortcut](https://github.com/rxhanson/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store. More details:
+- [rxhanson/KeyboardShortcuts](https://github.com/rxhanson/KeyboardShortcuts) - ⌨️ Add user-customizable global keyboard shortcuts to your macOS app in minutes
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [osscontainertools/kaniko](https://github.com/osscontainertools/kaniko) - Build Container Images In Kubernetes
 - [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review.
