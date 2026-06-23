@@ -234,6 +234,7 @@
 
 ## Rust 
 
+- [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [karpathy/rustbpe](https://github.com/karpathy/rustbpe) - The missing tiktoken training code
 - [anthropics/buffa](https://github.com/anthropics/buffa) - Rust implementation of protobuf with editions support, JSON serialization, and zero-copy views
@@ -271,7 +272,7 @@
 
 ## TypeScript 
 
-- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
+- [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [Broomy-AI/broomy](https://github.com/Broomy-AI/broomy) - Tool for making it easy to work with lots of AI agents
 - [badlogic/gpt-2-ts](https://github.com/badlogic/gpt-2-ts) - 
 - [jensbodal/agents-js](https://github.com/jensbodal/agents-js) - Agent Protocol SDK
