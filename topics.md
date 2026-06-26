@@ -909,6 +909,7 @@
 - [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [dean0x/skim](https://github.com/dean0x/skim) - The most intelligent context optimization engine for coding agents. Code-aware AST parsing across 17 languages. Command rewriting. Test, build, and git output compression. Token budget cascading. Buil
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
