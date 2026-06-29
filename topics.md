@@ -18,7 +18,6 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
-- [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
@@ -258,10 +257,6 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-
-## c 
-
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
 
 ## c-plus-plus 
 
