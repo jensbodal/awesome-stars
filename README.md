@@ -86,7 +86,6 @@
 - [build-tool](#build-tool)
 - [bun](#bun)
 - [bundler](#bundler)
-- [c](#c)
 - [c-plus-plus](#c-plus-plus)
 - [careers](#careers)
 - [cd](#cd)
@@ -1096,10 +1095,6 @@
 
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
-
-## c 
-
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
 
 ## c-plus-plus 
 
