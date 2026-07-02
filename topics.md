@@ -63,6 +63,7 @@
 - [javascript](#javascript)
 - [js](#js)
 - [kubernetes](#kubernetes)
+- [learn-to-code](#learn-to-code)
 - [linux](#linux)
 - [llm](#llm)
 - [low-code](#low-code)
@@ -502,6 +503,10 @@
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring for Proxmox, Docker, and Kubernetes with AI-powered insights, smart alerts, and a beautiful unified dashboard
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
+
+## learn-to-code 
+
+- [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
 ## linux 
 
