@@ -251,6 +251,7 @@
 
 ## Shell 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [trailofbits/claude-code-devcontainer](https://github.com/trailofbits/claude-code-devcontainer) - Sandboxed devcontainer for running Claude Code in bypass mode safely. Built for security audits and untrusted code review.
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 - [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
