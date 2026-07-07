@@ -128,6 +128,7 @@
 - [completion](#completion)
 - [components](#components)
 - [composable-architecture](#composable-architecture)
+- [computer-use](#computer-use)
 - [configuration](#configuration)
 - [constructs](#constructs)
 - [container](#container)
@@ -1307,6 +1308,10 @@
 ## composable-architecture 
 
 - [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
+
+## computer-use 
+
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 
 ## configuration 
 
