@@ -14,6 +14,7 @@
 - [agent](#agent)
 - [agent-harness](#agent-harness)
 - [agent-memory](#agent-memory)
+- [agent-orchestration](#agent-orchestration)
 - [agent2agent](#agent2agent)
 - [agentic](#agentic)
 - [agentic-ai](#agentic-ai)
@@ -722,6 +723,10 @@
 ## agent-memory 
 
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
+
+## agent-orchestration 
+
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 
 ## agent2agent 
 
