@@ -20,7 +20,6 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
-- [MDX](#mdx)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [Python](#python)
@@ -135,10 +134,6 @@
 
 - [karpathy/optim](https://github.com/karpathy/optim) - A numeric optimization package for Torch.
 
-## MDX 
-
-- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
-
 ## Objective-C 
 
 - [rxhanson/MASShortcut](https://github.com/rxhanson/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store. More details:
@@ -252,6 +247,7 @@
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
+- [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
 
 ## Shell 
 
