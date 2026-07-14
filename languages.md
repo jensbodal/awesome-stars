@@ -20,6 +20,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
+- [Nix](#nix)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [Python](#python)
@@ -134,12 +135,17 @@
 
 - [karpathy/optim](https://github.com/karpathy/optim) - A numeric optimization package for Torch.
 
+## Nix 
+
+- [kitten/system](https://github.com/kitten/system) - Personal Nix setup
+
 ## Objective-C 
 
 - [rxhanson/MASShortcut](https://github.com/rxhanson/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store. More details:
 
 ## Others 
 
+- [khanklatt/sancak](https://github.com/khanklatt/sancak) - A framework for disciplined, cross-disciplinary software development with clear requirements, rigorous testing, and structured human+AI collaboration.
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [agent0ai/dox](https://github.com/agent0ai/dox) - Self-documenting AGENTS.md
 - [karpathy/lifejs](https://github.com/karpathy/lifejs) - Artificial Life simulator using canvas. Based on https://github.com/karpathy/scriptsbots
