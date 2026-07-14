@@ -2861,6 +2861,8 @@
 
 ## others 
 
+- [khanklatt/sancak](https://github.com/khanklatt/sancak) - A framework for disciplined, cross-disciplinary software development with clear requirements, rigorous testing, and structured human+AI collaboration.
+- [kitten/system](https://github.com/kitten/system) - Personal Nix setup
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [rxhanson/MASShortcut](https://github.com/rxhanson/MASShortcut) - Modern framework for managing global keyboard shortcuts compatible with Mac App Store. More details:
