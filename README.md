@@ -397,6 +397,7 @@
 - [mqtt](#mqtt)
 - [mssql](#mssql)
 - [multi-agent](#multi-agent)
+- [multi-speaker](#multi-speaker)
 - [multimedia](#multimedia)
 - [multimodal](#multimodal)
 - [multiplexer](#multiplexer)
@@ -2628,6 +2629,10 @@
 ## multi-agent 
 
 - [minhtribk12/code-review-ai](https://github.com/minhtribk12/code-review-ai) - Multi-agent code review CLI using NVIDIA Nemotron 3 Super
+
+## multi-speaker 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## multimedia 
 
