@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [C](#c)
 - [C#](#c#)
 - [C++](#c++)
 - [CSS](#css)
@@ -30,10 +31,13 @@
 - [TypeScript](#typescript)
 - [Zig](#zig)
 
+## C 
+
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
+
 ## C# # 
 
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Mag-nus/Mag-Plugins](https://github.com/Mag-nus/Mag-Plugins) - A group of plugins that helps take away some of the burden of playing Asherons Call.  Many of the tools are designed to help those who play multiple accounts at once.
 - [IbespwnAC/MagTools](https://github.com/IbespwnAC/MagTools) - MagFilter extended by IbespwnAC to implement certain improved features like "loginByIndex"
 - [ACEmulator/ACE](https://github.com/ACEmulator/ACE) - Asheron's Call server emulator.
@@ -313,7 +317,7 @@
 - [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - The Agent IDE
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token efficient, zero-dependency database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Minimal database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [hariiy-sys/Obsidian-NetClip](https://github.com/hariiy-sys/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
