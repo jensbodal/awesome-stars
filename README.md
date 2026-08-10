@@ -16,6 +16,7 @@
 - [agent-harness](#agent-harness)
 - [agent-memory](#agent-memory)
 - [agent-orchestration](#agent-orchestration)
+- [agent-plugins](#agent-plugins)
 - [agent2agent](#agent2agent)
 - [agentic](#agentic)
 - [agentic-ai](#agentic-ai)
@@ -765,6 +766,10 @@
 ## agent-orchestration 
 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
+
+## agent-plugins 
+
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
 ## agent2agent 
 
@@ -2906,7 +2911,6 @@
 ## openclaw 
 
 - [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
 ## opencode 
 
