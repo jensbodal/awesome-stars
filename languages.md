@@ -44,7 +44,7 @@
 
 ## C++ 
 
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 - [exercism/cpp](https://github.com/exercism/cpp) - Exercism exercises in C++.
@@ -244,6 +244,8 @@
 
 ## Rust 
 
+- [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [karpathy/rustbpe](https://github.com/karpathy/rustbpe) - The missing tiktoken training code
@@ -284,6 +286,10 @@
 
 ## TypeScript 
 
+- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
+- [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [Doist/todoist-sdk-typescript](https://github.com/Doist/todoist-sdk-typescript) - A TypeScript wrapper for the Todoist REST API.
 - [replenhq/replen](https://github.com/replenhq/replen) - Smarter AI Development Workflows
 - [vibhasjain/agent-keyboard](https://github.com/vibhasjain/agent-keyboard) - A prompt bar that edits the site it's on — ask for a change; a real Claude Code session edits the repo and pushes to main. Self-hosted, single-owner, MIT.
