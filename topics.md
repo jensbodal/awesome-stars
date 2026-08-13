@@ -274,7 +274,7 @@
 
 ## c-plus-plus 
 
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
 
 ## chatbot 
 
@@ -375,6 +375,7 @@
 
 ## css 
 
+- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
 ## data 
@@ -705,6 +706,7 @@
 
 ## obsidian 
 
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - One-click, privacy-first exporter for Claude.ai chats — clean Markdown with artifacts and attachments, ready for Obsidian and RAG.
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
@@ -712,6 +714,7 @@
 
 ## obsidian-md 
 
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 - [hariiy-sys/Obsidian-NetClip](https://github.com/hariiy-sys/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
@@ -747,6 +750,10 @@
 
 ## others 
 
+- [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
+- [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [Doist/todoist-sdk-typescript](https://github.com/Doist/todoist-sdk-typescript) - A TypeScript wrapper for the Todoist REST API.
 - [khanklatt/sancak](https://github.com/khanklatt/sancak) - A framework for disciplined, cross-disciplinary software development with clear requirements, rigorous testing, and structured human+AI collaboration.
 - [kitten/system](https://github.com/kitten/system) - Personal Nix setup
@@ -941,6 +948,7 @@
 
 ## react 
 
+- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [stormkit-io/react-starter](https://github.com/stormkit-io/react-starter) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
@@ -1069,6 +1077,7 @@
 
 ## typescript 
 
+- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
@@ -1101,11 +1110,12 @@
 
 ## video 
 
-- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.7
+- [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 
 ## vue 
 
+- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.
 - [davestewart/alias-hq](https://github.com/davestewart/alias-hq) - The end-to-end solution for configuring, refactoring, maintaining and using path aliases
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
