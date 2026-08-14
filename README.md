@@ -403,6 +403,7 @@
 - [monorepos](#monorepos)
 - [moonraker](#moonraker)
 - [mqtt](#mqtt)
+- [msp](#msp)
 - [mssql](#mssql)
 - [multi-agent](#multi-agent)
 - [multi-speaker](#multi-speaker)
@@ -564,6 +565,7 @@
 - [self-hosted-ai](#self-hosted-ai)
 - [self-hosting](#self-hosting)
 - [semantic-search](#semantic-search)
+- [sequential-thinking](#sequential-thinking)
 - [server](#server)
 - [server-emulator](#server-emulator)
 - [server-rendering](#server-rendering)
@@ -581,7 +583,6 @@
 - [smarthome](#smarthome)
 - [software-engineering](#software-engineering)
 - [solid](#solid)
-- [solidjs](#solidjs)
 - [spawn](#spawn)
 - [spec-driven-development](#spec-driven-development)
 - [speech-recognition](#speech-recognition)
@@ -2672,6 +2673,10 @@
 
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 
+## msp 
+
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
+
 ## mssql 
 
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token conscious database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
@@ -3547,6 +3552,10 @@
 
 - [replenhq/replen](https://github.com/replenhq/replen) - Smarter AI Development Workflows
 
+## sequential-thinking 
+
+- [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
+
 ## server 
 
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
@@ -3624,10 +3633,6 @@
 ## solid 
 
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.
-
-## solidjs 
-
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
 
 ## spawn 
 
