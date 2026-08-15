@@ -304,7 +304,7 @@
 - [entur/tavla](https://github.com/entur/tavla) - 🖥 A customizable departure board for all public transport in Norway
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
 - [the-artinet-project/artinet](https://github.com/the-artinet-project/artinet) - an agentic orchestration and deployment platform
-- [datalayer/agent-runtimes](https://github.com/datalayer/agent-runtimes) - 🤖 🚀 Agent Runtimes - Managed AI Agents.
+- [datalayer/agent-runtimes](https://github.com/datalayer/agent-runtimes) - 🤖 🚀 Agent Runtimes — Managed AI Agents.
 - [numman-ali/opencode-openai-codex-auth](https://github.com/numman-ali/opencode-openai-codex-auth) - OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
 - [a2aproject/a2a-inspector](https://github.com/a2aproject/a2a-inspector) - Validation Tools for A2A Agents
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
