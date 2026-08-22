@@ -291,6 +291,7 @@
 - [integrations](#integrations)
 - [ios](#ios)
 - [ipaas](#ipaas)
+- [issue-tracker](#issue-tracker)
 - [java](#java)
 - [javascript](#javascript)
 - [javascript-library](#javascript-library)
@@ -752,6 +753,7 @@
 
 ## agent 
 
+- [mantoni/beads-ui](https://github.com/mantoni/beads-ui) - Local UI for Beads — Collaborate on issues with your coding agent.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
@@ -913,6 +915,7 @@
 
 ## ai-tools 
 
+- [mantoni/beads-ui](https://github.com/mantoni/beads-ui) - Local UI for Beads — Collaborate on issues with your coding agent.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [aidatatools/ollama-benchmark](https://github.com/aidatatools/ollama-benchmark) - LLM Benchmark for Throughput via Ollama (Local LLMs)
 
@@ -2085,6 +2088,10 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
+## issue-tracker 
+
+- [mantoni/beads-ui](https://github.com/mantoni/beads-ui) - Local UI for Beads — Collaborate on issues with your coding agent.
+
 ## java 
 
 - [AsamK/signal-cli](https://github.com/AsamK/signal-cli) - signal-cli provides an unofficial commandline, JSON-RPC and dbus interface for the Signal messenger.
@@ -2374,6 +2381,7 @@
 
 ## local-first 
 
+- [mantoni/beads-ui](https://github.com/mantoni/beads-ui) - Local UI for Beads — Collaborate on issues with your coding agent.
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
