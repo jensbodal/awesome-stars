@@ -21,6 +21,7 @@
 - [agentic](#agentic)
 - [agentic-ai](#agentic-ai)
 - [agentic-framework](#agentic-framework)
+- [agentic-rag](#agentic-rag)
 - [agentic-workflow](#agentic-workflow)
 - [agents](#agents)
 - [agi](#agi)
@@ -202,6 +203,7 @@
 - [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [dotnet-core](#dotnet-core)
+- [dsh-plugin](#dsh-plugin)
 - [dts](#dts)
 - [edge-ai](#edge-ai)
 - [edge-extension](#edge-extension)
@@ -478,7 +480,6 @@
 - [performance](#performance)
 - [perplexity](#perplexity)
 - [perplexity-ai](#perplexity-ai)
-- [personalization](#personalization)
 - [phind](#phind)
 - [pi](#pi)
 - [pi-coding-agent](#pi-coding-agent)
@@ -600,7 +601,6 @@
 - [ssl-certificates](#ssl-certificates)
 - [ssr](#ssr)
 - [stable-diffusion](#stable-diffusion)
-- [state-management](#state-management)
 - [static-site](#static-site)
 - [static-site-generator](#static-site-generator)
 - [stories](#stories)
@@ -804,6 +804,10 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
+## agentic-rag 
+
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
+
 ## agentic-workflow 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -969,7 +973,6 @@
 
 - [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
 - [anthropics/claude-ai-mcp](https://github.com/anthropics/claude-ai-mcp) - Report issues related to MCP integration with Claude here.
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - One-click, privacy-first exporter for Claude.ai chats — clean Markdown with artifacts and attachments, ready for Obsidian and RAG.
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token conscious database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite.
@@ -1697,6 +1700,10 @@
 
 - [ACEmulator/ACE](https://github.com/ACEmulator/ACE) - Asheron's Call server emulator.
 
+## dsh-plugin 
+
+- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
+
 ## dts 
 
 - [privatenumber/pkgroll](https://github.com/privatenumber/pkgroll) - 📦  Zero-config package bundler for Node.js + TypeScript
@@ -1738,7 +1745,6 @@
 ## embeddings 
 
 - [replenhq/replen](https://github.com/replenhq/replen) - Smarter AI Development Workflows
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [qdrant/fastembed](https://github.com/qdrant/fastembed) - Fast, Accurate, Lightweight Python library to make State of the Art Embedding
 
@@ -1809,7 +1815,6 @@
 
 ## fastapi 
 
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
 
 ## filesystem 
@@ -2200,7 +2205,6 @@
 
 ## langchain 
 
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
@@ -2405,7 +2409,6 @@
 
 ## long-term-memory 
 
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 
 ## lora 
@@ -2926,7 +2929,6 @@
 
 ## openai 
 
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
 - [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -2996,7 +2998,7 @@
 
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-- [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
+- [aubepkg/aube](https://github.com/aubepkg/aube) - A fast Node.js package manager
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [Doist/todoist-sdk-typescript](https://github.com/Doist/todoist-sdk-typescript) - A TypeScript wrapper for the Todoist REST API.
@@ -3147,10 +3149,6 @@
 ## perplexity-ai 
 
 - [Hugo-COLLIN/SaveMyPhind-conversation-exporter](https://github.com/Hugo-COLLIN/SaveMyPhind-conversation-exporter) - 🚀 Save my Chatbot: Download your ChatGPT, Claude, Perplexity and Phind conversations into markdown files. ⏩ Now available in the Chrome Web Store and the Firefox Add-ons Store!
-
-## personalization 
-
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 
 ## phind 
 
@@ -3304,7 +3302,6 @@
 
 ## python 
 
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [minhtribk12/code-review-ai](https://github.com/minhtribk12/code-review-ai) - Multi-agent code review CLI using NVIDIA Nemotron 3 Super
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -3333,7 +3330,6 @@
 
 ## rag 
 
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - One-click, privacy-first exporter for Claude.ai chats — clean Markdown with artifacts and attachments, ready for Obsidian and RAG.
 - [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -3710,10 +3706,6 @@
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
-## state-management 
-
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
-
 ## static-site 
 
 - [vibhasjain/agent-keyboard](https://github.com/vibhasjain/agent-keyboard) - A prompt bar that edits the site it's on — ask for a change; a real Claude Code session edits the repo and pushes to main. Self-hosted, single-owner, MIT.
@@ -3922,7 +3914,6 @@
 - [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Indeed, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://dis
@@ -3977,7 +3968,6 @@
 ## vector-database 
 
 - [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
-- [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 
