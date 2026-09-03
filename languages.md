@@ -246,7 +246,7 @@
 
 ## Rust 
 
-- [jdx/aube](https://github.com/jdx/aube) - A fast Node.js package manager
+- [aubepkg/aube](https://github.com/aubepkg/aube) - A fast Node.js package manager
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
