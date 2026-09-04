@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [agent](#agent)
 - [agents](#agents)
 - [ai](#ai)
@@ -135,6 +136,10 @@
 - [windows](#windows)
 - [workflow](#workflow)
 - [zsh](#zsh)
+
+## 3d 
+
+- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 
 ## agent 
 
