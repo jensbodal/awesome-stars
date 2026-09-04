@@ -6,6 +6,8 @@
 ## Contents
 
 - [1password](#1password)
+- [3d](#3d)
+- [3d-engine](#3d-engine)
 - [a2a](#a2a)
 - [a2a-mcp](#a2a-mcp)
 - [a2a-protocol](#a2a-protocol)
@@ -56,6 +58,7 @@
 - [argv](#argv)
 - [armbian](#armbian)
 - [artificial-intelligence](#artificial-intelligence)
+- [ascii](#ascii)
 - [ascii-art](#ascii-art)
 - [assistant](#assistant)
 - [audio](#audio)
@@ -727,6 +730,14 @@
 
 - [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
 
+## 3d 
+
+- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
+
+## 3d-engine 
+
+- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
+
 ## a2a 
 
 - [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
@@ -1021,6 +1032,10 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [Andrew-Jang/RAGHub](https://github.com/Andrew-Jang/RAGHub) - A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
+
+## ascii 
+
+- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 
 ## ascii-art 
 
