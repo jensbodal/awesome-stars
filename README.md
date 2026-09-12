@@ -523,7 +523,6 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [quartz-ssg](#quartz-ssg)
-- [qwen](#qwen)
 - [rag](#rag)
 - [react](#react)
 - [react-context](#react-context)
@@ -534,6 +533,7 @@
 - [reactive](#reactive)
 - [reactjs](#reactjs)
 - [realtime-api](#realtime-api)
+- [realtime-tts](#realtime-tts)
 - [reasoning](#reasoning)
 - [recorder](#recorder)
 - [registry](#registry)
@@ -1051,7 +1051,6 @@
 
 ## audio-generation 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## audio-to-text 
@@ -1490,7 +1489,7 @@
 
 ## conversational-ai 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## copilot 
 
@@ -1725,7 +1724,7 @@
 
 ## edge-ai 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## edge-extension 
 
@@ -2265,7 +2264,7 @@
 
 ## lightweight 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## linux 
 
@@ -2303,7 +2302,6 @@
 
 ## llama 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
 
@@ -2717,7 +2715,7 @@
 
 ## multi-speaker 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## multimedia 
 
@@ -2918,7 +2916,7 @@
 
 ## on-device 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## ontology 
 
@@ -3333,15 +3331,11 @@
 
 ## pytorch 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## quartz-ssg 
 
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
-
-## qwen 
-
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
 
 ## rag 
 
@@ -3399,7 +3393,11 @@
 
 ## realtime-api 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
+
+## realtime-tts 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## reasoning 
 
@@ -3668,7 +3666,7 @@
 
 ## speech-synthesis 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## speech-to-text 
 
@@ -3745,7 +3743,7 @@
 
 ## streaming 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
 
 ## streamlit 
@@ -3847,7 +3845,7 @@
 
 ## text-to-speech 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## time 
 
@@ -3900,7 +3898,7 @@
 ## tts 
 
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## tui 
@@ -4048,16 +4046,16 @@
 
 ## voice-ai 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## voice-assistant 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 
 ## voice-cloning 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## voxel 
 
@@ -4149,7 +4147,7 @@
 
 ## webrtc 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
 
@@ -4168,7 +4166,7 @@
 
 ## whisper 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 - [Saik0s/Whisperboard](https://github.com/Saik0s/Whisperboard) - The open-source iOS app that's making quality voice transcription more accessible on mobile devices.
 
 ## whisper-cpp 
