@@ -939,7 +939,7 @@
 
 ## pytorch 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## rag 
 
@@ -1075,7 +1075,7 @@
 
 ## text-to-speech 
 
-- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Real-time voice assistant — WebRTC streaming, faster-whisper ASR, local LLM, Vui Nano (300M) TTS. OpenAI Realtime API compatible. Voice cloning, barge-in, ~9× realtime on a 4090. Apache 2.0.
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## tui 
 
