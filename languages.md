@@ -33,6 +33,7 @@
 
 ## C 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 
 ## C# # 
@@ -180,6 +181,7 @@
 
 ## Python 
 
+- [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
 - [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
 - [karpathy/reader3](https://github.com/karpathy/reader3) - Quick illustration of how one can easily read books together with LLMs. It's great and I highly recommend it.
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
@@ -246,6 +248,7 @@
 
 ## Rust 
 
+- [smartcomputer-ai/lightspeed](https://github.com/smartcomputer-ai/lightspeed) - Deterministic agent harness for Temporal (in Rust)
 - [aubepkg/aube](https://github.com/aubepkg/aube) - A fast Node.js package manager
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
