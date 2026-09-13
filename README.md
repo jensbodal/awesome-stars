@@ -46,6 +46,7 @@
 - [amazon-q](#amazon-q)
 - [amp](#amp)
 - [angular](#angular)
+- [ansi](#ansi)
 - [ansible-playbook](#ansible-playbook)
 - [ansible-role](#ansible-role)
 - [anthropic](#anthropic)
@@ -226,6 +227,7 @@
 - [esbuild](#esbuild)
 - [esm](#esm)
 - [evals](#evals)
+- [event-sourcing](#event-sourcing)
 - [everything](#everything)
 - [everything-search](#everything-search)
 - [exec](#exec)
@@ -266,6 +268,8 @@
 - [gpt-image](#gpt-image)
 - [graph](#graph)
 - [graph-algorithms](#graph-algorithms)
+- [graphics](#graphics)
+- [graphics-library](#graphics-library)
 - [guardrails](#guardrails)
 - [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
@@ -286,10 +290,16 @@
 - [homelab](#homelab)
 - [homelab-setup](#homelab-setup)
 - [html](#html)
+- [html-extraction](#html-extraction)
+- [html-extractor](#html-extractor)
+- [html-page](#html-page)
 - [http-client](#http-client)
 - [https](#https)
 - [ide](#ide)
 - [image-generation](#image-generation)
+- [image-processing](#image-processing)
+- [image-viewer](#image-viewer)
+- [images](#images)
 - [imba](#imba)
 - [imessage](#imessage)
 - [insomnia](#insomnia)
@@ -298,6 +308,7 @@
 - [ios](#ios)
 - [ipaas](#ipaas)
 - [issue-tracker](#issue-tracker)
+- [iterm2](#iterm2)
 - [java](#java)
 - [javascript](#javascript)
 - [javascript-library](#javascript-library)
@@ -310,6 +321,7 @@
 - [json-rpc](#json-rpc)
 - [jsx](#jsx)
 - [keepassxc](#keepassxc)
+- [kitty](#kitty)
 - [klipper](#klipper)
 - [klipperscreen](#klipperscreen)
 - [knowledge](#knowledge)
@@ -476,6 +488,7 @@
 - [others](#others)
 - [overlayfs](#overlayfs)
 - [package-manager](#package-manager)
+- [pagerank-algorithm](#pagerank-algorithm)
 - [parallel-agents](#parallel-agents)
 - [password-manager](#password-manager)
 - [pddl](#pddl)
@@ -501,6 +514,7 @@
 - [postgres](#postgres)
 - [postgresql](#postgresql)
 - [postman](#postman)
+- [powershell](#powershell)
 - [privacy](#privacy)
 - [privacy-first](#privacy-first)
 - [privacy-first-ai](#privacy-first-ai)
@@ -584,9 +598,11 @@
 - [signal](#signal)
 - [signal-cli](#signal-cli)
 - [simulators](#simulators)
+- [sixel](#sixel)
 - [skills](#skills)
 - [smarthome](#smarthome)
 - [software-engineering](#software-engineering)
+- [software-factory](#software-factory)
 - [solid](#solid)
 - [spawn](#spawn)
 - [spec-driven-development](#spec-driven-development)
@@ -614,6 +630,9 @@
 - [structured-data](#structured-data)
 - [styleguide](#styleguide)
 - [subsonic](#subsonic)
+- [summarization](#summarization)
+- [summarizer](#summarizer)
+- [summary](#summary)
 - [supermemory](#supermemory)
 - [svelte](#svelte)
 - [svg](#svg)
@@ -628,10 +647,14 @@
 - [tcsh](#tcsh)
 - [teachers](#teachers)
 - [templates](#templates)
+- [temporal](#temporal)
 - [terminal](#terminal)
+- [terminal-based](#terminal-based)
+- [terminal-graphics](#terminal-graphics)
 - [terminal-multiplexer](#terminal-multiplexer)
 - [testing](#testing)
 - [testing-library](#testing-library)
+- [text-extraction](#text-extraction)
 - [text-generation](#text-generation)
 - [text-to-speech](#text-to-speech)
 - [time](#time)
@@ -764,6 +787,7 @@
 
 ## agent 
 
+- [smartcomputer-ai/lightspeed](https://github.com/smartcomputer-ai/lightspeed) - Deterministic agent harness for Temporal (in Rust)
 - [mantoni/beads-ui](https://github.com/mantoni/beads-ui) - Local UI for Beads — Collaborate on issues with your coding agent.
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
@@ -780,6 +804,7 @@
 
 ## agent-harness 
 
+- [smartcomputer-ai/lightspeed](https://github.com/smartcomputer-ai/lightspeed) - Deterministic agent harness for Temporal (in Rust)
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 
 ## agent-memory 
@@ -846,6 +871,7 @@
 
 ## ai 
 
+- [smartcomputer-ai/lightspeed](https://github.com/smartcomputer-ai/lightspeed) - Deterministic agent harness for Temporal (in Rust)
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext) - a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task
 - [agent0ai/dox](https://github.com/agent0ai/dox) - Self-documenting AGENTS.md
@@ -971,6 +997,10 @@
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
+
+## ansi 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 
 ## ansible-playbook 
 
@@ -1101,6 +1131,7 @@
 
 ## autonomous-agents 
 
+- [smartcomputer-ai/lightspeed](https://github.com/smartcomputer-ai/lightspeed) - Deterministic agent harness for Temporal (in Rust)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 
@@ -1321,6 +1352,7 @@
 
 ## cli 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
 - [anthropics/anthropic-cli](https://github.com/anthropics/anthropic-cli) - The CLI for the Claude API
 - [minhtribk12/code-review-ai](https://github.com/minhtribk12/code-review-ai) - Multi-agent code review CLI using NVIDIA Nemotron 3 Super
@@ -1802,6 +1834,10 @@
 
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 
+## event-sourcing 
+
+- [smartcomputer-ai/lightspeed](https://github.com/smartcomputer-ai/lightspeed) - Deterministic agent harness for Temporal (in Rust)
+
 ## everything 
 
 - [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
@@ -1973,6 +2009,14 @@
 
 - [tuned-org-uk/arrowspace-rs](https://github.com/tuned-org-uk/arrowspace-rs) - Vectors analytics and search library using dispersion models. Provides graph analysis, vector search and a energy-distribution stats for your vectors in one package.
 
+## graphics 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+
+## graphics-library 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+
 ## guardrails 
 
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
@@ -2065,6 +2109,18 @@
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
+## html-extraction 
+
+- [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
+
+## html-extractor 
+
+- [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
+
+## html-page 
+
+- [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
+
 ## http-client 
 
 - [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
@@ -2081,6 +2137,18 @@
 
 - [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,400+ curated trending AI image prompts from X, ranked by engagement. Works with NanoBanana, GPT Image 2, Midjourney
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+
+## image-processing 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+
+## image-viewer 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+
+## images 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 
 ## imba 
 
@@ -2114,6 +2182,10 @@
 ## issue-tracker 
 
 - [mantoni/beads-ui](https://github.com/mantoni/beads-ui) - Local UI for Beads — Collaborate on issues with your coding agent.
+
+## iterm2 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 
 ## java 
 
@@ -2175,6 +2247,10 @@
 ## keepassxc 
 
 - [auth70/salakala](https://github.com/auth70/salakala) - Generate environment variables from various secret providers via URIs in JSON files, checked into your repository
+
+## kitty 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 
 ## klipper 
 
@@ -2785,6 +2861,7 @@
 
 ## nlp 
 
+- [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
 - [Andrew-Jang/RAGHub](https://github.com/Andrew-Jang/RAGHub) - A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.
 
 ## no-code 
@@ -3134,6 +3211,10 @@
 
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 
+## pagerank-algorithm 
+
+- [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
+
 ## parallel-agents 
 
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
@@ -3235,6 +3316,10 @@
 
 - [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
 
+## powershell 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+
 ## privacy 
 
 - [agarwalvishal/claude-chat-exporter](https://github.com/agarwalvishal/claude-chat-exporter) - One-click, privacy-first exporter for Claude.ai chats — clean Markdown with artifacts and attachments, ready for Obsidian and RAG.
@@ -3315,6 +3400,7 @@
 
 ## python 
 
+- [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
 - [minhtribk12/code-review-ai](https://github.com/minhtribk12/code-review-ai) - Multi-agent code review CLI using NVIDIA Nemotron 3 Super
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -3494,6 +3580,7 @@
 
 ## rust-lang 
 
+- [smartcomputer-ai/lightspeed](https://github.com/smartcomputer-ai/lightspeed) - Deterministic agent harness for Temporal (in Rust)
 - [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 
 ## sanitizer 
@@ -3634,6 +3721,10 @@
 
 - [cameroncooke/AXe](https://github.com/cameroncooke/AXe) - AXe is a CLI tool for interacting with Simulators using Apple's Private Accessibility APIs.
 
+## sixel 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+
 ## skills 
 
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -3646,6 +3737,10 @@
 ## software-engineering 
 
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
+
+## software-factory 
+
+- [smartcomputer-ai/lightspeed](https://github.com/smartcomputer-ai/lightspeed) - Deterministic agent harness for Temporal (in Rust)
 
 ## solid 
 
@@ -3762,6 +3857,18 @@
 
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 
+## summarization 
+
+- [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
+
+## summarizer 
+
+- [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
+
+## summary 
+
+- [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
+
 ## supermemory 
 
 - [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
@@ -3821,11 +3928,24 @@
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 - [tuan3w/obsidian-template](https://github.com/tuan3w/obsidian-template) - Starter templates for Obsidian
 
+## temporal 
+
+- [smartcomputer-ai/lightspeed](https://github.com/smartcomputer-ai/lightspeed) - Deterministic agent harness for Temporal (in Rust)
+
 ## terminal 
 
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
+
+## terminal-based 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
+
+## terminal-graphics 
+
+- [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 
 ## terminal-multiplexer 
 
@@ -3838,6 +3958,10 @@
 ## testing-library 
 
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
+
+## text-extraction 
+
+- [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
 
 ## text-generation 
 
