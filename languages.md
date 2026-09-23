@@ -34,11 +34,11 @@
 ## C 
 
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
-- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 
 ## C# # 
 
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
+- [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar) - Everything integration for the Windows taskbar.
 - [Mag-nus/Mag-Plugins](https://github.com/Mag-nus/Mag-Plugins) - A group of plugins that helps take away some of the burden of playing Asherons Call.  Many of the tools are designed to help those who play multiple accounts at once.
 - [IbespwnAC/MagTools](https://github.com/IbespwnAC/MagTools) - MagFilter extended by IbespwnAC to implement certain improved features like "loginByIndex"
 - [ACEmulator/ACE](https://github.com/ACEmulator/ACE) - Asheron's Call server emulator.
