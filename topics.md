@@ -816,7 +816,7 @@
 ## others 
 
 - [EfficientStreet/youtube-subscriptions-ingest](https://github.com/EfficientStreet/youtube-subscriptions-ingest) - Pull YouTube subscription metadata into a real cross-linked knowledge graph in your second-brain vault
-- [Artistsyn/cortex_suite](https://github.com/Artistsyn/cortex_suite) - 
+- [Artistsyn/cortex_suite](https://github.com/Artistsyn/cortex_suite) - Local MCP servers that give coding agents a reliable project memory. quartz-ctx serves live code structure in 10 languages, cross-language calls included; cortex keeps learned patterns and traps, push
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 - [GoogleCloudPlatform/open-knowledge-format](https://github.com/GoogleCloudPlatform/open-knowledge-format) - 
 - [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
