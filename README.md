@@ -415,6 +415,7 @@
 - [mcp-server](#mcp-server)
 - [mcp-servers](#mcp-servers)
 - [mcp-tools](#mcp-tools)
+- [mcp-ui](#mcp-ui)
 - [media-server](#media-server)
 - [memory](#memory)
 - [memory-engine](#memory-engine)
@@ -498,7 +499,6 @@
 - [openapi](#openapi)
 - [openclaw](#openclaw)
 - [opencode](#opencode)
-- [openmemory](#openmemory)
 - [openrouter](#openrouter)
 - [option](#option)
 - [oracle](#oracle)
@@ -2797,6 +2797,10 @@
 - [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
+## mcp-ui 
+
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
+
 ## media-server 
 
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
@@ -3191,10 +3195,6 @@
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
-
-## openmemory 
-
-- [CaviraOSS/LongMemory](https://github.com/CaviraOSS/LongMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.
 
 ## openrouter 
 
