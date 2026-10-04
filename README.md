@@ -13,6 +13,7 @@
 - [a2a-protocol](#a2a-protocol)
 - [a2a-server](#a2a-server)
 - [acp](#acp)
+- [ag-ui](#ag-ui)
 - [agent](#agent)
 - [agent-computer](#agent-computer)
 - [agent-harness](#agent-harness)
@@ -809,6 +810,10 @@
 ## acp 
 
 - [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
+- [datalayer/agent-runtimes](https://github.com/datalayer/agent-runtimes) - 🤖 🚀 Agent Runtimes — Managed AI Agents.
+
+## ag-ui 
+
 - [datalayer/agent-runtimes](https://github.com/datalayer/agent-runtimes) - 🤖 🚀 Agent Runtimes — Managed AI Agents.
 
 ## agent 
