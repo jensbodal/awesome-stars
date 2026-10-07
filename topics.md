@@ -818,6 +818,7 @@
 
 ## others 
 
+- [Niko1221/Strata](https://github.com/Niko1221/Strata) - Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.
 - [EfficientStreet/youtube-subscriptions-ingest](https://github.com/EfficientStreet/youtube-subscriptions-ingest) - Pull YouTube subscription metadata into a real cross-linked knowledge graph in your second-brain vault
 - [Artistsyn/cortex_suite](https://github.com/Artistsyn/cortex_suite) - Local MCP servers that give coding agents a reliable project memory. quartz-ctx serves live code structure in 10 languages, cross-language calls included; cortex keeps learned patterns and traps, push
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
