@@ -492,6 +492,7 @@
 - [openai-chatgpt](#openai-chatgpt)
 - [openai-compatible](#openai-compatible)
 - [openai-proxy](#openai-proxy)
+- [openai-realtime](#openai-realtime)
 - [openapi](#openapi)
 - [openclaw](#openclaw)
 - [opencode](#opencode)
@@ -3158,6 +3159,10 @@
 ## openai-proxy 
 
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
+
+## openai-realtime 
+
+- [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
 ## openapi 
 
