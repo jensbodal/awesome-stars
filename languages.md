@@ -124,6 +124,7 @@
 - [Couchraver/claude-chatgpt-gemini-downloader](https://github.com/Couchraver/claude-chatgpt-gemini-downloader) - Chrome extension to export AI conversations from Claude, ChatGPT, and Gemini
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [kazuph/mcp-pocket](https://github.com/kazuph/mcp-pocket) - 🔗 Model Context Protocol (MCP) Server for retrieving saved articles from Pocket API and loading them into Claude
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [barhun/extensionless](https://github.com/barhun/extensionless) - Node.js loader for import specifiers as file paths without extensions or as directory paths
 - [paypal/gnomon](https://github.com/paypal/gnomon) - Utility to annotate console logging statements with timestamps and find slow processes
@@ -338,7 +339,6 @@
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [hariiy-sys/Obsidian-NetClip](https://github.com/hariiy-sys/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [buhe/mcp_rss](https://github.com/buhe/mcp_rss) - MCP RSS is a Model Context Protocol (MCP) server for interacting with RSS feeds.
 - [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server) - Server for forwarding iMessages to clients within the BlueBubbles App ecosystem
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
