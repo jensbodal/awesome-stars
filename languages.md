@@ -173,7 +173,6 @@
 - [tattwamasi/starry-eye](https://github.com/tattwamasi/starry-eye) - 
 - [drewbitt/starred](https://github.com/drewbitt/starred) - 
 - [Andrew-Jang/RAGHub](https://github.com/Andrew-Jang/RAGHub) - A community-driven collection of RAG (Retrieval-Augmented Generation) frameworks, projects, and resources. Contribute and explore the evolving RAG ecosystem.
-- [EndoTheDev/Awesome-Ollama](https://github.com/EndoTheDev/Awesome-Ollama) - An opinionated list of awesome Ollama web and desktop uis, frameworks, libraries, software and resources.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [stepci/awesome-api-clients](https://github.com/stepci/awesome-api-clients) - List of awesome API clients. Postman and Insomnia alternatives
@@ -218,11 +217,12 @@
 - [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) - State-of-the-Art Embeddings, Retrieval, and Reranking
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [sierra-research/tau-bench](https://github.com/sierra-research/tau-bench) - Code and Data for Tau-Bench
 - [PlanExeOrg/PlanExe](https://github.com/PlanExeOrg/PlanExe) - Create a plan from a description in minutes
 - [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
@@ -238,6 +238,7 @@
 - [disler/pocket-pick](https://github.com/disler/pocket-pick) - What if the exact code snippet or idea you were looking for was one prompt away?
 - [elephantscale/OpenAI-labs](https://github.com/elephantscale/OpenAI-labs) - 
 - [transformerlab/transformerlab-app](https://github.com/transformerlab/transformerlab-app) - The open source research environment for AI researchers to seamlessly train, evaluate, and scale models from local hardware to GPU clusters.
+- [EndoTheDev/Awesome-Ollama](https://github.com/EndoTheDev/Awesome-Ollama) - An opinionated list of awesome Ollama web and desktop uis, frameworks, libraries, software and resources.
 - [aidatatools/ollama-benchmark](https://github.com/aidatatools/ollama-benchmark) - LLM Benchmark for Throughput via Ollama (Local LLMs)
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
@@ -334,8 +335,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [pkgxdev/mcp](https://github.com/pkgxdev/mcp) - can your ai run anything? yes it can
 - [pkgxdev/pkgo](https://github.com/pkgxdev/pkgo) - Package…GO!
-- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite.
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [hariiy-sys/Obsidian-NetClip](https://github.com/hariiy-sys/Obsidian-NetClip) - this plugin is for Obsidian that allows you to browse the web and clip webpages directly into your vault.
