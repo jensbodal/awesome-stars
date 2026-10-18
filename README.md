@@ -111,6 +111,7 @@
 - [cdk](#cdk)
 - [cdp](#cdp)
 - [certification](#certification)
+- [charts](#charts)
 - [chat](#chat)
 - [chat-bot](#chat-bot)
 - [chatbot](#chatbot)
@@ -199,6 +200,7 @@
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [development-tools](#development-tools)
+- [diagram](#diagram)
 - [diagrams](#diagrams)
 - [diagrams-as-code](#diagrams-as-code)
 - [diffusion](#diffusion)
@@ -395,6 +397,7 @@
 - [macos](#macos)
 - [macos-app](#macos-app)
 - [mamba](#mamba)
+- [maps](#maps)
 - [mariadb](#mariadb)
 - [markdown](#markdown)
 - [mastra](#mastra)
@@ -421,7 +424,6 @@
 - [memory-retrieval](#memory-retrieval)
 - [mergerfs](#mergerfs)
 - [mermaid](#mermaid)
-- [mesh](#mesh)
 - [messaging](#messaging)
 - [meta-prompting](#meta-prompting)
 - [microsoft-office](#microsoft-office)
@@ -475,7 +477,6 @@
 - [nvr](#nvr)
 - [nx](#nx)
 - [nx-workspace](#nx-workspace)
-- [obj](#obj)
 - [object-detection](#object-detection)
 - [observability](#observability)
 - [obsidian](#obsidian)
@@ -571,7 +572,6 @@
 - [recorder](#recorder)
 - [registry](#registry)
 - [reinforcement-learning](#reinforcement-learning)
-- [renderer](#renderer)
 - [repl](#repl)
 - [repository-management](#repository-management)
 - [repository-tools](#repository-tools)
@@ -727,7 +727,6 @@
 - [voice-ai](#voice-ai)
 - [voice-assistant](#voice-assistant)
 - [voice-cloning](#voice-cloning)
-- [voxel](#voxel)
 - [vscode](#vscode)
 - [vscode-extension](#vscode-extension)
 - [vsphere](#vsphere)
@@ -1321,6 +1320,10 @@
 
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 
+## charts 
+
+- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
+
 ## chat 
 
 - [matrix-construct/tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
@@ -1756,6 +1759,10 @@
 
 - [Its-Satyajit/dev-bind](https://github.com/Its-Satyajit/dev-bind) - High-performance Local Development Reverse Proxy in Rust with Automatic HTTPS. Map .test domains to dev ports instantly. Zero-config SSL for a frictionless workflow. 🦀
 
+## diagram 
+
+- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
+
 ## diagrams 
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
@@ -1812,7 +1819,6 @@
 
 ## dom 
 
-- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 
@@ -2669,6 +2675,10 @@
 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
+## maps 
+
+- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
+
 ## mariadb 
 
 - [bytebase/dbhub](https://github.com/bytebase/dbhub) - Token conscious database MCP server for Postgres, MySQL, SQL Server, Oracle, MariaDB, SQLite.
@@ -2827,10 +2837,6 @@
 ## mermaid 
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-
-## mesh 
-
-- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 
 ## messaging 
 
@@ -3065,10 +3071,6 @@
 ## nx-workspace 
 
 - [lemonade-hq/traf](https://github.com/lemonade-hq/traf) - Find truly affected packages in monorepos
-
-## obj 
-
-- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 
 ## object-detection 
 
@@ -3578,7 +3580,6 @@
 
 ## react 
 
-- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 - [mrdjohnson/llm-x](https://github.com/mrdjohnson/llm-x) - LLMX; Easiest 3rd party Local LLM UI for the web!
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [stormkit-io/react-starter](https://github.com/stormkit-io/react-starter) - A template capable of server-side rendering, generating static pages, serving single-page applications, and providing an API.
@@ -3641,10 +3642,6 @@
 ## reinforcement-learning 
 
 - [mksunny1/general-intelligence](https://github.com/mksunny1/general-intelligence) - A framework for building self-organizing, reactive knowledge systems that learn, identify, and compose patterns through structural similarity.
-
-## renderer 
-
-- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 
 ## repl 
 
@@ -4216,7 +4213,6 @@
 
 ## typescript 
 
-- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
@@ -4352,10 +4348,6 @@
 
 - [fluxions-ai/vui](https://github.com/fluxions-ai/vui) - Vui Nano — a small, context-aware text-to-speech model trained on real conversations. 219M active params (305M total), Apache 2.0, voice cloning, streaming, runs on CPU (dependency-free C build). Ship
 
-## voxel 
-
-- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
-
 ## vscode 
 
 - [kodu-ai/claude-coder](https://github.com/kodu-ai/claude-coder) - Kodu is an autonomous coding agent that lives in your IDE. It is a VSCode extension that can help you build your dream project step by step by leveraging the latest technologies in automated coding ag
@@ -4371,7 +4363,6 @@
 
 ## vue 
 
-- [apresmoi/glyphcss](https://github.com/apresmoi/glyphcss) - ASCII polygon mesh renderer for the DOM. Forked from LayoutitStudio/polycss.
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.
 - [davestewart/alias-hq](https://github.com/davestewart/alias-hq) - The end-to-end solution for configuring, refactoring, maintaining and using path aliases
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
