@@ -134,6 +134,7 @@
 - [client-side](#client-side)
 - [clojure](#clojure)
 - [clojurescript](#clojurescript)
+- [cloud-browser](#cloud-browser)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
 - [codemod](#codemod)
@@ -921,7 +922,7 @@
 - [agent0ai/dox](https://github.com/agent0ai/dox) - Self-documenting AGENTS.md
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 - [plastic-labs/honcho](https://github.com/plastic-labs/honcho) - Memory library for building stateful agents
 - [minhtribk12/code-review-ai](https://github.com/minhtribk12/code-review-ai) - Multi-agent code review CLI using NVIDIA Nemotron 3 Super
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
@@ -1022,7 +1023,7 @@
 
 ## alerts 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 
 ## aliases 
 
@@ -1466,6 +1467,10 @@
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
+## cloud-browser 
+
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
+
 ## code-quality 
 
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
@@ -1653,7 +1658,7 @@
 
 ## dashboard 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 
 ## data 
 
@@ -1798,7 +1803,7 @@
 ## docker 
 
 - [smart-mcp-proxy/mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go) - Supercharge AI Agents, Safely
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 - [spantaleev/matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy) - 🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
@@ -1810,7 +1815,7 @@
 
 ## docker-monitoring 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 
 ## documentation 
 
@@ -2083,7 +2088,7 @@
 ## go 
 
 - [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) - Help AI coding agents write modern Go
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 
 ## golang 
@@ -2220,7 +2225,7 @@
 
 ## homelab 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## homelab-setup 
@@ -2418,7 +2423,7 @@
 ## kubernetes 
 
 - [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) - Next Generation Agentic Proxy for AI Agents and MCP servers
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 
@@ -2898,7 +2903,7 @@
 
 ## monitoring 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 
 ## monorepo 
 
@@ -2918,7 +2923,7 @@
 
 ## msp 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 
 ## mssql 
 
@@ -3508,16 +3513,16 @@
 
 ## proxmox 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## proxmox-backup-server 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 
 ## proxmox-ve 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 
 ## proxy 
@@ -3777,7 +3782,7 @@
 
 - [replenhq/replen](https://github.com/replenhq/replen) - Smarter AI Development Workflows
 - [vibhasjain/agent-keyboard](https://github.com/vibhasjain/agent-keyboard) - A prompt bar that edits the site it's on — ask for a change; a real Claude Code session edits the repo and pushes to main. Self-hosted, single-owner, MIT.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -4178,7 +4183,7 @@
 
 ## truenas 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 
 ## tsx 
 
@@ -4214,7 +4219,7 @@
 ## typescript 
 
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 - [projen/projen](https://github.com/projen/projen) - Rapidly build modern applications with advanced configuration management
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [BlueBubblesApp/bluebubbles-server](https://github.com/BlueBubblesApp/bluebubbles-server) - Server for forwarding iMessages to clients within the BlueBubbles App ecosystem
@@ -4359,7 +4364,7 @@
 
 ## vsphere 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 
 ## vue 
 
@@ -4442,7 +4447,7 @@
 
 ## webhooks 
 
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with smart alerts and AI patrols that catch silent failures.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Real-time monitoring dashboard for Proxmox VE, PBS, Docker, Kubernetes, TrueNAS and vSphere. Self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes.
 
 ## webpack 
 
