@@ -247,6 +247,7 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 
 ## angular 
 
@@ -300,7 +301,7 @@
 
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
 ## c-plus-plus 
@@ -379,7 +380,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [sbezludny/content-type-to-typescript](https://github.com/sbezludny/content-type-to-typescript) - Converts Contentful Models to Typescript Definitions
@@ -721,6 +722,7 @@
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 
 ## monitoring 
 
@@ -751,7 +753,7 @@
 
 ## node 
 
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
@@ -1095,7 +1097,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 
