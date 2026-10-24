@@ -657,6 +657,7 @@
 - [summarization](#summarization)
 - [summarizer](#summarizer)
 - [summary](#summary)
+- [superintelligence](#superintelligence)
 - [supermemory](#supermemory)
 - [svelte](#svelte)
 - [svg](#svg)
@@ -976,6 +977,7 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 
 ## ai-chat 
 
@@ -1100,7 +1102,7 @@
 
 ## argv 
 
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 
 ## armbian 
 
@@ -1150,7 +1152,7 @@
 
 ## autocompletion 
 
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 
 ## autogen 
 
@@ -1236,7 +1238,7 @@
 
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
 ## bashscript 
@@ -1437,7 +1439,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [sbezludny/content-type-to-typescript](https://github.com/sbezludny/content-type-to-typescript) - Converts Contentful Models to Typescript Definitions
@@ -1446,6 +1448,7 @@
 ## cli-framework 
 
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 
 ## cli-generator 
 
@@ -1962,7 +1965,7 @@
 
 ## exec 
 
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
 ## exercism-track 
@@ -2756,6 +2759,7 @@
 - [snexus/llm-search](https://github.com/snexus/llm-search) - Querying local documents, powered by LLM
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord https://discord.gg/VuxzM8m
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 
 ## mcp-apps 
 
@@ -3014,7 +3018,7 @@
 
 ## node 
 
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 Build mission-critical applications with stability and development freedom.
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
@@ -3214,7 +3218,7 @@
 
 ## option 
 
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 
 ## oracle 
 
@@ -3740,7 +3744,7 @@
 
 ## script 
 
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 
 ## scripts 
 
@@ -3853,7 +3857,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 
@@ -3905,7 +3909,7 @@
 
 ## spawn 
 
-- [gutenye/script.js](https://github.com/gutenye/script.js) - Write shell scripts in JavaScript with autocompletion. Ake task runner with autocompletion. A CLI framework, option parser, CLI builder, command-line library
+- [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
 ## spec-driven-development 
@@ -4029,6 +4033,10 @@
 ## summary 
 
 - [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
+
+## superintelligence 
+
+- [NPC-Worldwide/npcpy](https://github.com/NPC-Worldwide/npcpy) - The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more.
 
 ## supermemory 
 
