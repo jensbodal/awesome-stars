@@ -119,6 +119,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [stable-diffusion](#stable-diffusion)
@@ -1100,6 +1101,11 @@
 - [gutenye/script.js](https://github.com/gutenye/script.js) - Write CLI tools and shell scripts in JavaScript, for humans and agents. Tab completion and readable help for people; JSON results, machine-readable help and a built-in MCP server for AI agents. Includ
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
+
+## skills 
+
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 
 ## sql 
 
