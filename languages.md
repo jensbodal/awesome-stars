@@ -68,7 +68,6 @@
 ## Elixir 
 
 - [mikehostetler/wreckit](https://github.com/mikehostetler/wreckit) - Wreck it Ralph Wiggum - My code is in danger!
-- [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
 - [Spectral-Finance/lux](https://github.com/Spectral-Finance/lux) - Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly auto
 
 ## G-code 
@@ -87,6 +86,7 @@
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [bm611/arcane](https://github.com/bm611/arcane) - minimal ai chat TUI
+- [agntcy/oasf](https://github.com/agntcy/oasf) - Open Agentic Schema Framework
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
