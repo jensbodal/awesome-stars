@@ -72,6 +72,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [js](#js)
+- [knowledge-graph](#knowledge-graph)
 - [kubernetes](#kubernetes)
 - [learn-to-code](#learn-to-code)
 - [linux](#linux)
@@ -606,6 +607,11 @@
 ## js 
 
 - [bennycode/ts2esm](https://github.com/bennycode/ts2esm) - Transforms CommonJS projects into ESM.
+
+## knowledge-graph 
+
+- [replenhq/replen](https://github.com/replenhq/replen) - Smarter AI Development Workflows
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 
 ## kubernetes 
 
