@@ -3243,7 +3243,7 @@
 - [aubepkg/aube](https://github.com/aubepkg/aube) - A fast Node.js package manager
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
-- [Doist/todoist-sdk-typescript](https://github.com/Doist/todoist-sdk-typescript) - A TypeScript wrapper for the Todoist REST API.
+- [todoist/todoist-sdk-typescript](https://github.com/todoist/todoist-sdk-typescript) - A TypeScript wrapper for the Todoist REST API.
 - [khanklatt/sancak](https://github.com/khanklatt/sancak) - A framework for disciplined, cross-disciplinary software development with clear requirements, rigorous testing, and structured human+AI collaboration.
 - [kitten/system](https://github.com/kitten/system) - Personal Nix setup
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
