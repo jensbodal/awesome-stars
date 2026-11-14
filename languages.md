@@ -27,6 +27,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
+- [SMT](#smt)
 - [Shell](#shell)
 - [Svelte](#svelte)
 - [Swift](#swift)
@@ -252,7 +253,6 @@
 - [element-hq/synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [Unmanic/unmanic](https://github.com/Unmanic/unmanic) - Unmanic - Library Optimiser
-- [Le0Michine/FusionGridfinityGenerator](https://github.com/Le0Michine/FusionGridfinityGenerator) - 
 - [benlaurie/gfdb](https://github.com/benlaurie/gfdb) - GridFinity Divider Boxes in Fusion 360
 - [simoncrowe/remote-tech-companies](https://github.com/simoncrowe/remote-tech-companies) - Data about remote-first and remote friendly companies that hire software engineers
 - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container
@@ -281,6 +281,10 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [bencherdev/bencher](https://github.com/bencherdev/bencher) - 🐰 Bencher - Continuous Benchmarking
+
+## SMT 
+
+- [Le0Michine/FusionGridfinityGenerator](https://github.com/Le0Michine/FusionGridfinityGenerator) - 
 
 ## Shell 
 
