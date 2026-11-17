@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -170,6 +171,14 @@
 
 - [Kayforkind/reimagine-it](https://github.com/Kayforkind/reimagine-it) - Kayforkind Content-Derived Design CLI. HTML in, standalone HTML out from the source's own nouns, dates, numbers, and colors. Not the reimagineit.ai interview SaaS.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+
+## agentic-ai 
+
+- [jonigl/mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama) - Harness the power of local LLMs with this TUI MCP Client for Ollama. Featuring all core MCP primitives (tools, prompts, resources), agent mode, multi-server, model switching, streaming responses, huma
+- [the-artinet-project/artinet-sdk](https://github.com/the-artinet-project/artinet-sdk) - Ship Agent2Agent in one line of code.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 
 ## agents 
 
