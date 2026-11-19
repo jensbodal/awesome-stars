@@ -106,6 +106,7 @@
 - [bun](#bun)
 - [bundler](#bundler)
 - [c-plus-plus](#c-plus-plus)
+- [canvas](#canvas)
 - [careers](#careers)
 - [cd](#cd)
 - [cdk](#cdk)
@@ -704,6 +705,7 @@
 - [typehints](#typehints)
 - [typer](#typer)
 - [typescript](#typescript)
+- [typography](#typography)
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [ui-automation](#ui-automation)
@@ -1304,6 +1306,10 @@
 ## c-plus-plus 
 
 - [ossrs/srs](https://github.com/ossrs/srs) - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
+
+## canvas 
+
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 
 ## careers 
 
@@ -2332,6 +2338,7 @@
 
 ## javascript 
 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -4249,6 +4256,10 @@
 - [drew-y/cliffy](https://github.com/drew-y/cliffy) - NodeJS Framework for Interactive CLIs
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
+
+## typography 
+
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 
 ## ubuntu 
 
