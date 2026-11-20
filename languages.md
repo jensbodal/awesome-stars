@@ -113,7 +113,7 @@
 
 ## Jai 
 
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Enter The Verse
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Agents 2.0
 
 ## Java 
 
