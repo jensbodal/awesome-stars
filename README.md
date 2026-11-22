@@ -591,6 +591,7 @@
 - [rtsp](#rtsp)
 - [runtime](#runtime)
 - [rust](#rust)
+- [rust-ai](#rust-ai)
 - [rust-lang](#rust-lang)
 - [sanitizer](#sanitizer)
 - [scaffolding](#scaffolding)
@@ -3740,6 +3741,10 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [aws/amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [rust-embedded/awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language
+
+## rust-ai 
+
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 
 ## rust-lang 
 
