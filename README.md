@@ -829,6 +829,7 @@
 
 ## ag-ui 
 
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 - [datalayer/agent-runtimes](https://github.com/datalayer/agent-runtimes) - 🤖 🚀 Agent Runtimes — Managed AI Agents.
 
 ## agent 
@@ -1424,6 +1425,7 @@
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 - [Kastalien-Research/thoughtbox](https://github.com/Kastalien-Research/thoughtbox) - Thoughtbox is an intention ledger for agents. Evaluate AI's decisions against its decision-making.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
@@ -3604,6 +3606,7 @@
 
 - [miso-belica/sumy](https://github.com/miso-belica/sumy) - Module for automatic summarization of text documents and HTML pages.
 - [minhtribk12/code-review-ai](https://github.com/minhtribk12/code-review-ai) - Multi-agent code review CLI using NVIDIA Nemotron 3 Super
+- [phil65/agentpool](https://github.com/phil65/agentpool) - A unified agent orchestration hub that lets you configure and manage multiple AI agents (native, ACP, AGUI, Claude Code) via YAML, and exposes them through standardized protocols (ACP/OpenCode Server)
 - [basicmachines-co/basic-memory](https://github.com/basicmachines-co/basic-memory) - AI conversations that actually remember. Never re-explain your project to your AI again. Join our Discord: https://discord.gg/tyvKNccgqN
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
