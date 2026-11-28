@@ -3397,7 +3397,6 @@
 - [alt-locator/alt-node-bak](https://github.com/alt-locator/alt-node-bak) - Address Location Tool in TypeScript
 - [joshgeller/travelcal](https://github.com/joshgeller/travelcal) - 
 - [cloud9-cs361/cs361-project-b](https://github.com/cloud9-cs361/cs361-project-b) - Online Text Book Exchange
-- [icco/resume](https://github.com/icco/resume) - A markdown port of my resume
 - [mysql/mysql-server](https://github.com/mysql/mysql-server) - MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 - [dropbox/dropbox-sdk-java](https://github.com/dropbox/dropbox-sdk-java) - A Java library for the Dropbox Core API.
 
@@ -4455,6 +4454,7 @@
 ## web 
 
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
+- [icco/resume](https://github.com/icco/resume) - A markdown port of my resume
 
 ## web-app 
 
